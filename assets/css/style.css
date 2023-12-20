@@ -29,3 +29,16 @@ h1 {
     padding: 9px 78px;
     color: gold;
 }
+
+a:visited {
+    color: gold;
+}
+
+nav {
+    background: url("../images/dischi-better.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 122px;
+    width: 100vw;
+}
