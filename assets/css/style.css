@@ -48,7 +48,7 @@ nav {
 
 nav ul li {
     display: inline-block;
-    line-height: 97px;
+    line-height: 92px;
     margin: 0 5px
 }
 
@@ -77,7 +77,7 @@ main {
         flex-direction: row;
         justify-content: space-evenly;
         letter-spacing: 0.1em;
-        font-size: 20px;
+        font-size: 23px;
         text-transform: uppercase;
         margin: 0 0;
     }
@@ -91,8 +91,18 @@ main {
         width: 100vw;
     }
 
+    li {
+        
+    }
+
+    nav ul li {
+        font-size: 26px;
+    }
+
     nav ul li a {
         margin: 2px 2px;
+        font-size: 20px;
+        float: none;
     }
 
     nav ul li a:hover {
