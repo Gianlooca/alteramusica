@@ -38,7 +38,7 @@ nav {
     background: url("../images/dischi-better.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 412px;
     height: 122px;
     width: 100vw;
 }
@@ -56,6 +56,7 @@ nav ul li a {
     font-size: 15px;
     float: right;
     margin-right: 1px;
+    color: gold;
 }
 
 main {
