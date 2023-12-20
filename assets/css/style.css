@@ -33,6 +33,10 @@ h1 {
     color: gold;
 }
 
+h1 a {
+    color: gold;
+}
+
 a:visited {
     color: gold;
 }
