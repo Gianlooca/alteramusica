@@ -7,3 +7,8 @@
     list-style: none;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Libre Bodoni', serif;
+    font-weight: bolder;
+}
