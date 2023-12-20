@@ -17,4 +17,15 @@ header {
     position: fixed;
     top: 0;
     width: 100vw;
-  }
+}
+
+h1 {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-family: 'IM Fell DW Pica', serif;
+    letter-spacing: 0.4em;
+    text-align: center;
+    line-height: 23px;
+    padding: 9px 78px;
+    color: gold;
+}
