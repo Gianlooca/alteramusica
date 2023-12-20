@@ -70,5 +70,24 @@ main {
 
 /* APPLYING MEDIA QUERIES */
 @media screen and (min-width: 412px) {
+    
+    #nav-list {
+        width: 100%;
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        letter-spacing: 0.1em;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin: 0 0;
+      }
 
+      nav {
+        background: url("../images/dischi-better.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 122px;
+        width: 100vw;
+    }
 }
