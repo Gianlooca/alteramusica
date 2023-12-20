@@ -91,7 +91,16 @@ main {
         width: 100vw;
     }
 
-    a {
+    nav ul li a {
         margin: 2px 2px;
     }
+
+    nav ul li a:hover {
+        color: #688f9e;
+        transition: color 0.5s;
+        background-color: gold;
+        padding: 2px;
+        border-radius: 2px;
+        box-sizing: initial;
+      }
 }
