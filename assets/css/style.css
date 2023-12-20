@@ -62,8 +62,10 @@ nav ul li a {
     color: gold;
 }
 
+/* Make main element take up any surplus space to push footer down. Inspired by Love Running */
 main {
     padding-top: 128px;
+    flex: 1 0 auto;
 }
 
 /* APPLYING MEDIA QUERIES */
