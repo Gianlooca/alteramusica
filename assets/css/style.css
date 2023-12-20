@@ -8,9 +8,12 @@
     box-sizing: border-box;
 }
 
+/* General point, partially inspired by Love Running */
 body {
     font-family: 'Libre Bodoni', serif;
     font-weight: bolder;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -65,5 +68,5 @@ main {
 
 /* APPLYING MEDIA QUERIES */
 @media screen and (min-width: 412px) {
-    
+
 }
