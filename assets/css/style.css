@@ -73,13 +73,18 @@ main {
 }
 
 footer {
-    /*position: relative;
+    /* We don't need a position relative here because the footer
+    is always by default at the end of the page. So we don't even need
+    the bottom: 0 value. We already declared the height size so we
+    can just say that the bg-size has cover value.
+
+    position: relative;
     bottom: 0;*/
     background: url("../images/dischi-better.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 122px;
+    height: 90px;
     width: 100vw;
 }
 
