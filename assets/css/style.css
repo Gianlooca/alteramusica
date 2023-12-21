@@ -72,6 +72,10 @@ main {
     flex: 1 0 auto;
 }
 
+h2 {
+    margin-top: 5em;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
@@ -91,7 +95,9 @@ footer {
 #social-media {
     display: flex;
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    padding-top: 23px;
+    font-size: 2.5em;
 }
 
 /* APPLYING MEDIA QUERIES */
