@@ -77,11 +77,20 @@ main {
 h2 {
     display: inline-block;
     margin: 5em 1em 1em 0;
+    padding-left: 1vw;
 }
 
 h2:hover {
     color: gold;
     transition-duration: 0.5s;
+}
+
+p {
+    font-weight: lighter;
+}
+
+#first-p {
+    padding-left: 1vw;
 }
 
 footer {
