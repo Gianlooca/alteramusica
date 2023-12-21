@@ -88,6 +88,12 @@ footer {
     width: 100vw;
 }
 
+#social-media {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
 /* APPLYING MEDIA QUERIES */
 @media screen and (min-width: 412px) {
 
