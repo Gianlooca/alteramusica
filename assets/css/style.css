@@ -161,4 +161,13 @@ footer {
         border-radius: 2px;
         box-sizing: initial;
     }
+
+    footer ul li a:hover {
+        color: gold;
+        transition: color 0.5s;
+        background-color: #688f9e;
+        padding: 5px;
+        border-radius: 2px;
+        box-sizing: initial;
+    }
 }
