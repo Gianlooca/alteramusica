@@ -72,6 +72,17 @@ main {
     flex: 1 0 auto;
 }
 
+#footer-bg {
+    position: relative;
+    bottom: 0;
+    background: url("../images/dischi-better.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 412px;
+    height: 122px;
+    width: 100vw;
+}
+
 /* APPLYING MEDIA QUERIES */
 @media screen and (min-width: 412px) {
 
@@ -93,10 +104,6 @@ main {
         background-size: cover;
         height: 122px;
         width: 100vw;
-    }
-
-    li {
-        
     }
 
     nav ul li {
