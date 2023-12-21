@@ -70,10 +70,18 @@ nav ul li a {
 main {
     padding-top: 128px;
     flex: 1 0 auto;
+    background-color: #1e1916;
+    color: white;
 }
 
 h2 {
-    margin-top: 5em;
+    display: inline-block;
+    margin: 5em 1em 1em 0;
+}
+
+h2:hover {
+    color: gold;
+    transition-duration: 0.5s;
 }
 
 footer {
