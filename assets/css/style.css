@@ -74,11 +74,11 @@ main {
     color: white;
 }
 
-h2 {
+/*h2 {
     display: inline-block;
     margin: 5em 1em 1em 0;
     padding-left: 1vw;
-}
+}*/
 
 h2:hover {
     color: gold;
@@ -89,7 +89,9 @@ p {
     font-weight: lighter;
 }
 
-#first-div {
+#section1 {
+    display: inline-block;
+    margin: 5em 1em 1em 0;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
@@ -116,7 +118,7 @@ footer {
     display: flex;
     text-align: center;
     justify-content: space-around;
-    padding-top: 23px;
+    padding-top: 26px;
     font-size: 2em;
 }
 
@@ -157,7 +159,7 @@ footer {
         color: #688f9e;
         transition: color 0.5s;
         background-color: gold;
-        padding: 2px;
+        padding: 1px;
         border-radius: 2px;
         box-sizing: initial;
     }
