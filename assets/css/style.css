@@ -122,6 +122,18 @@ p {
     margin-bottom: 10%;
 }
 
+#trd-img {
+    width: 60%;
+    height: auto;
+    margin-bottom: 10%;
+}
+
+#frt-img {
+    width: 90%;
+    height: auto;
+    margin-bottom: 10%;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
