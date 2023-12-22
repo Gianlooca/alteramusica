@@ -68,7 +68,7 @@ nav ul li a {
 
 /* Make main element take up any surplus space to push footer down. Inspired by Love Running */
 main {
-    padding-top: 100px;
+    padding-top: 122px;
     flex: 1 0 auto;
     background-color: #1e1916;
     color: white;
