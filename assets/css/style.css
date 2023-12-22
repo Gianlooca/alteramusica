@@ -98,7 +98,7 @@ p {
 
 #content-1 {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column wrap;
 
 }
 
