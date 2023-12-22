@@ -85,6 +85,7 @@ h2:hover {
 
 p {
     font-weight: lighter;
+    padding-bottom: 3%;
 }
 
 #container-1 {
@@ -100,6 +101,11 @@ p {
     display: flex;
     flex-flow: column wrap;
 
+}
+
+#content-2 {
+    max-width: 300px;
+    padding-left: 6%;
 }
 
 .img-wrapper {
@@ -215,5 +221,44 @@ footer {
         padding: 5px;
         border-radius: 2px;
         box-sizing: initial;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    #content-2 {
+        max-width: 50%;
+        padding-left: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    #content-2 p {
+        margin: 10px;
+        width: 180px;
+    }
+
+    #first-img {
+        width: 60%;
+        height: auto;
+        margin-bottom: 10%;
+    }
+    
+    #scnd-img {
+        width: 60%;
+        height: auto;
+        margin-bottom: 10%;
+    }
+    
+    #trd-img {
+        width: 35%;
+        height: auto;
+        margin-bottom: 10%;
+    }
+    
+    #frt-img {
+        width: 60%;
+        height: auto;
     }
 }
