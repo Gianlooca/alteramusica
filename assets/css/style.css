@@ -230,6 +230,16 @@ footer {
 
 @media screen and (min-width: 768px) {
 
+    p {
+        font-size: 1.4em;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+
+    h2 {
+        font-size: 2.4em;
+    }
+
     #content-2 {
         max-width: 70%;
         padding-left: 385px;
