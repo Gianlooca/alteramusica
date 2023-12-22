@@ -148,6 +148,10 @@ p {
     text-align: justify;
 }
 
+#special-img {
+    display: none;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
@@ -227,8 +231,8 @@ footer {
 @media screen and (min-width: 768px) {
 
     #content-2 {
-        max-width: 50%;
-        padding-left: 50%;
+        max-width: 70%;
+        padding-left: 385px;
         display: flex;
         justify-content: center;
         align-items: flex-start;
@@ -237,6 +241,12 @@ footer {
     #content-2 p {
         margin: 10px;
         width: 180px;
+    }
+
+    #special-img {
+        display: unset;
+        width: 57%;
+        height: auto;
     }
 
     #first-img {
