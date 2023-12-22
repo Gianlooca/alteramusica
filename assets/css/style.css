@@ -102,6 +102,12 @@ p {
 
 }
 
+#first-img {
+    width: 90%;
+    height: auto;
+    text-align: center;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
