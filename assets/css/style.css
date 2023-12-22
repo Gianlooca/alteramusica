@@ -68,17 +68,15 @@ nav ul li a {
 
 /* Make main element take up any surplus space to push footer down. Inspired by Love Running */
 main {
-    padding-top: 128px;
+    padding-top: 100px;
     flex: 1 0 auto;
     background-color: #1e1916;
     color: white;
 }
 
-/*h2 {
-    display: inline-block;
-    margin: 5em 1em 1em 0;
-    padding-left: 1vw;
-}*/
+h2 {
+    padding-bottom: 0.5em;
+}
 
 h2:hover {
     color: gold;
@@ -91,11 +89,17 @@ p {
 
 #container-1 {
     display: inline-block;
-    margin: 5em 1em 1em 0;
+    margin: 4em 1em 1em 0;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
     text-align: justify;
+}
+
+#content-1 {
+    display: flex;
+    flex-flow: row wrap;
+
 }
 
 footer {
