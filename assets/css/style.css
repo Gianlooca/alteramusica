@@ -102,10 +102,15 @@ p {
 
 }
 
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
 #first-img {
     width: 90%;
     height: auto;
-    text-align: center;
 }
 
 footer {
