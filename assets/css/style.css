@@ -251,6 +251,8 @@ footer {
         display: block;
         margin-bottom: 10px;
         background-color: gold;
+        height: 2px;
+        border: none;
     }
 
     #content-1 {
