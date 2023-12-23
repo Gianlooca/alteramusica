@@ -168,11 +168,20 @@ footer {
     width: 100vw;
 }
 
+#copyright {
+    font-family: 'IM Fell DW Pica', serif;
+    text-align: center;
+    font-size: 10%;
+    color: gold;
+    padding-top: 10em;
+    padding-bottom: 0;
+}
+
 #social-media {
     display: flex;
     text-align: center;
     justify-content: space-around;
-    padding-top: 26px;
+    padding-top: 2px;
     font-size: 2em;
 }
 
@@ -230,7 +239,7 @@ footer {
 
 @media screen and (min-width: 768px) {
 
-    p {
+    /*p {
         font-size: 1.4em;
         margin-left: 2.5%;
         margin-right: 2.5%;
@@ -251,7 +260,7 @@ footer {
     #content-2 p {
         margin: 10px;
         width: 180px;
-    }
+    }*/
 
     #special-img {
         display: unset;
