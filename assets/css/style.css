@@ -108,6 +108,10 @@ p {
     padding-left: 6%;
 }
 
+hr {
+    display: none;
+}
+
 .img-wrapper {
     display: flex;
     flex-flow: column wrap;
@@ -227,6 +231,10 @@ footer {
         box-sizing: initial;
     }
 
+    hr {
+        display: none;
+    }
+
     footer ul li a:hover {
         color: gold;
         transition: color 0.5s;
@@ -239,6 +247,12 @@ footer {
 
 @media screen and (min-width: 768px) {
 
+    #content-2 hr {
+        display: block;
+        margin-bottom: 10px;
+        background-color: gold;
+    }
+
     #content-1 {
         display: flex;
         align-items: center;
@@ -249,7 +263,6 @@ footer {
         flex-flow: column wrap;
         width: 90%;
         font-size: 121%;
-
     }
 
     #first-img {
@@ -257,19 +270,19 @@ footer {
         height: auto;
         margin-bottom: 10%;
     }
-    
+
     #scnd-img {
         width: 70%;
         height: auto;
         margin-bottom: 10%;
     }
-    
+
     #trd-img {
         width: 45%;
         height: auto;
         margin-bottom: 10%;
     }
-    
+
     #frt-img {
         width: 70%;
         height: auto;
