@@ -112,6 +112,7 @@ p {
 #content-2 p {
     padding-left: 2.5em;
     padding-right: 2.5em;
+    padding-bottom: 1.5em;
 }
 
 hr {
@@ -121,6 +122,7 @@ hr {
 #content-3 p {
     padding-left: 2.5em;
     padding-right: 2.5em;
+    padding-bottom: 1.5em;
 }
 
 .img-wrapper {
@@ -169,6 +171,10 @@ hr {
 
 #content-3 h2 {
     padding-left: 22px;
+}
+
+.alt-mus {
+    color: gold;
 }
 
 footer {
@@ -330,9 +336,5 @@ footer {
     #content-3 p {
         width: 87%;
         margin-left: 6.5%;
-    }
-
-    .alt-mus {
-        color: gold;
     }
 }
