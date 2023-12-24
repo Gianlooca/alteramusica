@@ -265,6 +265,9 @@ footer {
         flex-flow: column wrap;
         width: 90%;
         font-size: 121%;
+        max-width: 382px;
+        padding-left: 0;
+
     }
 
     #first-img {
