@@ -248,17 +248,14 @@ footer {
 
 @media screen and (min-width: 768px) {
 
-    #content-2 hr {
-        display: block;
-        margin-bottom: 10px;
-        background-color: gold;
-        height: 2px;
-        border: none;
-    }
-
     #content-1 {
         display: flex;
         align-items: center;
+    }
+
+    h2 {
+        display: flex;
+        align-self: center;
     }
 
     #content-2 {
@@ -268,7 +265,14 @@ footer {
         font-size: 121%;
         max-width: 382px;
         padding-left: 0;
+    }
 
+    #content-2 hr {
+        display: block;
+        margin-bottom: 10px;
+        background-color: gold;
+        height: 2px;
+        border: none;
     }
 
     #first-img {
