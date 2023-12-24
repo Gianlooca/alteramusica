@@ -105,8 +105,13 @@ p {
 }
 
 #content-2 {
-    max-width: 300px;
+    max-width: 360px;
     padding-left: 6%;
+}
+
+#content-2 p {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
 }
 
 hr {
@@ -274,7 +279,7 @@ footer {
     #content-2 {
         display: flex;
         flex-flow: column wrap;
-        width: 90%;
+        width: 52%;
         font-size: 121%;
         max-width: 382px;
         padding-left: 0;
@@ -285,6 +290,8 @@ footer {
         margin-bottom: 10px;
         background-color: gold;
         height: 2px;
+        width: 74%;
+        margin-left: 13%;
         border: none;
     }
 
@@ -312,7 +319,16 @@ footer {
     }
 
     #content-3 h2 {
-        padding-left: 47px;
+        padding-left: 9%;
         font-size: 2em;
+    }
+
+    #content-3 {
+        font-size: 121%;
+    }
+
+    #content-3 p {
+        width: 87%;
+        margin-left: 6.5%;
     }
 }
