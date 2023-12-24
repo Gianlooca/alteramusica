@@ -146,7 +146,7 @@ hr {
 
 #container-2 {
     display: inline-block;
-    margin: 4em 1em 1em 0;
+    margin: 2em 1em 1em 0;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
@@ -155,6 +155,10 @@ hr {
 
 #special-img {
     display: none;
+}
+
+#content-3 h2 {
+    padding-left: 22px;
 }
 
 footer {
@@ -236,6 +240,10 @@ footer {
         display: none;
     }
 
+    #content-3 h2 {
+        font-size: 1.8em;
+    }
+
     footer ul li a:hover {
         color: gold;
         transition: color 0.5s;
@@ -296,5 +304,10 @@ footer {
     #frt-img {
         width: 70%;
         height: auto;
+    }
+
+    #content-3 h2 {
+        padding-left: 47px;
+        font-size: 2em;
     }
 }
