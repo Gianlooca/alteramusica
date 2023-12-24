@@ -113,6 +113,11 @@ hr {
     display: none;
 }
 
+#content-3 p {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+}
+
 .img-wrapper {
     display: flex;
     flex-flow: column wrap;
