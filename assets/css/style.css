@@ -223,6 +223,7 @@ hr {
 
 table {
     border-collapse: collapse;
+    max-width: 443px;
 }
 
 td {
