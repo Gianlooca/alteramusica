@@ -97,7 +97,6 @@ p {
 #content-1 {
     display: flex;
     flex-flow: column wrap;
-
 }
 
 #content-2 {
@@ -186,7 +185,20 @@ hr {
     background-color: #1e1916;
 }
 
-/* To set the zoom timing whe have to add the transition property to the parent element */
+.mid-record {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.top-in {
+        display: flex;
+        flex-flow: column wrap;
+        align-items: center;
+        justify-content: center;
+        margin-top: 10%;
+}
+
+/* To set the zoom timing whe have to add the transition property to the parent element 
 .top-in {
     transition: 0.3s;
 
@@ -194,7 +206,10 @@ hr {
 
 /* This is the proper zoom in the child element. Note: if the zoom is too large, it will go outside of the viewport)*/
 .zoom {
-    transform: scale(1.5);
+    /*transform: scale(1.5);*/
+    width: 90%;
+    height: auto;
+    margin-bottom: 10%;
 }
 
 footer {
