@@ -231,6 +231,10 @@ td {
     font-size: 3.8vw;
 }
 
+.price {
+    color: gold;
+}
+
 .artist,
 .album-name,
 .genre,
