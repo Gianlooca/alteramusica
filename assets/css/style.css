@@ -233,13 +233,15 @@ td {
 
 .artist,
 .album-name,
-.genre {
+.genre,
+.format {
     text-align: left;
 }
 
 .year,
 .condition,
-.price {
+.price,
+.country {
     text-align: right;
 }
 
