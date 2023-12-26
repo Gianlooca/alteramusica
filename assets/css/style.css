@@ -185,19 +185,25 @@ hr {
     background-color: #1e1916;
 }
 
+#records-container h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
 .mid-record {
     display: flex;
     flex-flow: column wrap;
     align-items: center;
-    margin-top: 4em;
+    margin-top: 1em;
 }
 
 .top-in {
-        display: flex;
-        flex-flow: column wrap;
-        align-items: center;
-        justify-content: center;
-        margin-top: 10%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
 }
 
 /* To set the zoom timing whe have to add the transition property to the parent element 
@@ -215,10 +221,20 @@ hr {
 }
 
 .table-1 tr td {
-    font-size: 55%;
+    font-size: 65%;
 }
-td:nth-child(2) {
-    padding-right: 20px;
+
+.row-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.top-in .row-1 td {
+    flex-basis: max-content;
+    width: 11.5em;
+
 }
 
 footer {
