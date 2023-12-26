@@ -175,7 +175,7 @@ hr {
 /* records.html page */
 #records-container {
     width: 100%;
-    max-width: 600px;
+    max-width: 443px;
     margin: 0 auto;
     display: inline-block;
     padding-left: 2vw;
@@ -188,6 +188,7 @@ hr {
 #records-container h2 {
     display: flex;
     justify-content: center;
+    font-size: 6vw;
     margin-top: 3em;
 }
 
@@ -220,21 +221,10 @@ hr {
     margin-bottom: 2%;
 }
 
-.table-1 tr td {
-    font-size: 65%;
-}
-
-.row-1 {
+.row-1 td {
+    border-collapse: collapse;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    width: 100%;
-}
-
-.top-in .row-1 td {
-    flex-basis: max-content;
-    width: 11.5em;
-
 }
 
 footer {
