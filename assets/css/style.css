@@ -221,6 +221,12 @@ hr {
     margin-bottom: 2%;
 }
 
+.zoom-1 {
+    width: 45%;
+    height: auto;
+    margin-bottom: 2%;
+}
+
 table {
     border-collapse: collapse;
     max-width: 443px;
