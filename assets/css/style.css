@@ -221,10 +221,25 @@ hr {
     margin-bottom: 2%;
 }
 
-.row-1 td {
+table {
     border-collapse: collapse;
-    display: flex;
-    justify-content: space-between;
+}
+
+td {
+    padding: 7px;
+    font-size: 3.8vw;
+}
+
+.artist,
+.album-name,
+.genre {
+    text-align: left;
+}
+
+.year,
+.condition,
+.price {
+    text-align: right;
 }
 
 footer {
