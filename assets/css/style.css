@@ -173,6 +173,13 @@ hr {
     color: gold;
 }
 
+#records-container {
+    width: 100%;
+    max-width: 443px;
+    margin: 0 auto;
+    background-color: #1e1916;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
