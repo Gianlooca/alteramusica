@@ -175,9 +175,9 @@ hr {
 /* records.html page */
 #records-container {
     width: 100%;
-    max-width: 443px;
     margin: 0 auto;
-    display: inline-block;
+    display: flex;
+    flex-direction: column;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
@@ -247,20 +247,6 @@ td {
 .price,
 .format {
     text-align: right;
-}
-
-#special .artist,
-.album-name,
-.genre,
-.country {
-    text-align: left;
-}
-
-#special-1 .artist,
-.album-name,
-.genre,
-.country {
-    text-align: left;
 }
 
 details {
@@ -353,7 +339,6 @@ footer {
     #records-container h2 {
         display: flex;
         justify-content: center;
-        height: 100vh;
         font-size: 6vw;
         margin-top: 3em;
     }
