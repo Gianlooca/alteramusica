@@ -249,6 +249,22 @@ td {
     text-align: right;
 }
 
+#special .artist,
+.album-name,
+.genre,
+.country {
+    text-align: left;
+    padding-right: 87px;
+}
+
+#special-1 .artist,
+.album-name,
+.genre,
+.country {
+    text-align: left;
+    padding-right: 108px;
+}
+
 details {
     padding: 10px;
 }
