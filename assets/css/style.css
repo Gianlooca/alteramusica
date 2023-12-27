@@ -350,6 +350,14 @@ footer {
         font-size: 1.8em;
     }
 
+    #records-container h2 {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        font-size: 6vw;
+        margin-top: 3em;
+    }
+
     footer ul li a:hover {
         color: gold;
         transition: color 0.5s;
