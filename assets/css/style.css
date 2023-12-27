@@ -258,6 +258,15 @@ details p {
     color: white;
 }
 
+button {
+    background-color: gold;
+    color: #1e1916;
+    padding: 10px;
+    border: none;
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: larger;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
