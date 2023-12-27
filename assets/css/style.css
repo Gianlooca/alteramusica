@@ -223,7 +223,7 @@ hr {
 
 table {
     border-collapse: collapse;
-    max-width: 443px;
+    width: 95vw;
 }
 
 td {
@@ -254,7 +254,6 @@ td {
 .genre,
 .country {
     text-align: left;
-    padding-right: 87px;
 }
 
 #special-1 .artist,
@@ -262,7 +261,6 @@ td {
 .genre,
 .country {
     text-align: left;
-    padding-right: 108px;
 }
 
 details {
