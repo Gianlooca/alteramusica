@@ -249,6 +249,13 @@ td {
     text-align: right;
 }
 
+.down-in {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+}
+
 details {
     padding: 10px;
     color: gold;
@@ -256,6 +263,11 @@ details {
 
 details p {
     color: white;
+}
+
+audio {
+    width: 300px;
+    padding-bottom: 20px;
 }
 
 button {
@@ -266,6 +278,7 @@ button {
     font-family: 'IM Fell DW Pica', serif;
     font-size: larger;
     border-radius: 20px;
+    width: max-content;
 }
 
 footer {
