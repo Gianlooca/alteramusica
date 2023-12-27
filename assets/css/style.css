@@ -254,6 +254,10 @@ details {
     color: gold;
 }
 
+details p {
+    color: white;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
