@@ -265,6 +265,7 @@ button {
     border: none;
     font-family: 'IM Fell DW Pica', serif;
     font-size: larger;
+    border-radius: 20px;
 }
 
 footer {
