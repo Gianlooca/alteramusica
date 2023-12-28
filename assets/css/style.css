@@ -412,6 +412,7 @@ footer {
         display: flex;
         align-self: center;
         color: white;
+        margin-left: -31%;
     }
 
     h2:hover {
