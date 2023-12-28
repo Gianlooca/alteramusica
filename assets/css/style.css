@@ -438,8 +438,12 @@ footer {
     }
 
     .img-wrapper {
-        width: 90%;
+        width: 100%;
         height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
     }
 
     #first-img {
