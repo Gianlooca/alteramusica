@@ -49,6 +49,7 @@ nav {
     background-size: 443px;
     height: 122px;
     width: 100vw;
+    z-index: 5;
 }
 
 nav ul li {
@@ -266,9 +267,16 @@ details p {
     color: white;
 }
 
-audio {
+.down-in audio {
+    position: relative;
     width: 300px;
     padding-bottom: 20px;
+    z-index: 1;
+}
+
+audio {
+    position: relative;
+    z-index: 1;
 }
 
 button {
@@ -337,6 +345,8 @@ footer {
         background-size: cover;
         height: 122px;
         width: 100vw;
+        position: relative;
+        z-index: 5;
     }
 
     nav ul li {
