@@ -552,7 +552,7 @@ footer {
         flex-flow: row wrap;
         align-items: center;
         margin-top: 1em;
-        margin-bottom: 0;
+        margin-bottom: 1em;
         margin-left: 5em;
         width: 45%;
     }
