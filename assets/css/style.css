@@ -208,6 +208,7 @@ hr {
     flex-flow: column wrap;
     align-items: center;
     margin-top: 1em;
+    margin-bottom: 0;
 }
 
 .top-in {
@@ -234,7 +235,7 @@ hr {
 
 table {
     border-collapse: collapse;
-    width: 90%;
+    width: 98%;
 }
 
 td {
@@ -287,6 +288,14 @@ details a {
     text-underline-offset: 0.3em;
 }
 
+details,
+details summary,
+details p,
+details a {
+    font-style: italic;
+    font-size: 110%;
+}
+
 audio {
     z-index: 80;
 }
@@ -297,10 +306,9 @@ button {
     padding: 10px;
     border: none;
     font-family: 'IM Fell DW Pica', serif;
-    font-size: larger;
+    font-size: x-large;
     border-radius: 20px;
     width: max-content;
-    margin-left: 32px;
 }
 
 footer {
@@ -411,11 +419,11 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
+        font-size: 60%;
     }
 
     td {
         padding: 3px 15px;
-        font-size: 3.8vw;
     }
 
     footer ul li a:hover {
@@ -536,10 +544,10 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
+        font-size: 28%;
     }
 
     td {
         padding: 3px 15px;
-        font-size: 3.8vw;
     }
 }
