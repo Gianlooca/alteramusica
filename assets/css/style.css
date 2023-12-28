@@ -99,16 +99,17 @@ p {
 #content-1 {
     display: flex;
     flex-flow: column wrap;
+    padding-left: 10%;
 }
 
 #content-2 {
     max-width: 360px;
-    padding-left: 6%;
-    padding-right: 4%;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 #content-2 p {
-    padding-left: 2.5em;
+    padding-left: 1.5em;
     padding-right: 2.5em;
     padding-bottom: 1.5em;
 }
@@ -129,7 +130,7 @@ hr {
     align-items: center;
     justify-content: center;
     margin-top: 10%;
-    width: 80%;
+    width: 90%;
     height: auto;
 }
 
@@ -365,6 +366,11 @@ footer {
 
     hr {
         display: none;
+    }
+
+    .img-wrapper {
+        width: 90%;
+        height: auto;
     }
 
     #content-3 h2 {
