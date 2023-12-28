@@ -89,7 +89,7 @@ p {
 
 #container-1 {
     display: inline-block;
-    margin: 4em 1em 1em 0;
+    margin: 4em 1em 1em 2.1em;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
@@ -104,6 +104,7 @@ p {
 #content-2 {
     max-width: 360px;
     padding-left: 6%;
+    padding-right: 4%;
 }
 
 #content-2 p {
@@ -128,6 +129,8 @@ hr {
     align-items: center;
     justify-content: center;
     margin-top: 10%;
+    width: 80%;
+    height: auto;
 }
 
 #first-img {
@@ -325,7 +328,7 @@ footer {
         flex-direction: row;
         justify-content: space-evenly;
         letter-spacing: 0.1em;
-        font-size: 23px;
+        font-size: 3%;
         text-transform: uppercase;
         margin: 0 0;
     }
@@ -420,6 +423,11 @@ footer {
         width: 74%;
         margin-left: 13%;
         border: none;
+    }
+
+    .img-wrapper {
+        width: 90%;
+        height: auto;
     }
 
     #first-img {
