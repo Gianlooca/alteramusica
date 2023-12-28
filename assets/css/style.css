@@ -403,6 +403,8 @@ footer {
     #content-1 {
         display: flex;
         align-items: center;
+        margin-left: -80px;
+        margin-right: 8px;
     }
 
     h2 {
