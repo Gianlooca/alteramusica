@@ -267,16 +267,8 @@ details p {
     color: white;
 }
 
-.down-in audio {
-    position: relative;
-    width: 300px;
-    padding-bottom: 20px;
-    z-index: 1;
-}
-
-audio {
-    position: relative;
-    z-index: 1;
+details a {
+    color: gold;
 }
 
 button {
