@@ -582,5 +582,6 @@ footer {
     details a {
         font-style: italic;
         font-size: 150%;
+        padding-bottom: 1%;
     }
 }
