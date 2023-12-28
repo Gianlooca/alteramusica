@@ -267,6 +267,11 @@ details {
     color: gold;
 }
 
+details summary {
+    text-decoration: underline;
+    text-underline-offset: 0.3em;
+}
+
 details p {
     color: white;
 }
