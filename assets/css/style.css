@@ -447,26 +447,27 @@ footer {
     }
 
     #first-img {
-        width: 70%;
+        width: 46%;
         height: auto;
-        margin-bottom: 10%;
+        margin-bottom: 5%;
     }
 
     #scnd-img {
-        width: 70%;
+        width: 46%;
         height: auto;
-        margin-bottom: 10%;
+        margin-bottom: 5%;
     }
 
     #trd-img {
-        width: 45%;
+        width: 36%;
         height: auto;
         margin-bottom: 10%;
     }
 
     #frt-img {
-        width: 70%;
+        width: 54%;
         height: auto;
+        margin-top: 5%;
     }
 
     #content-3 h2 {
