@@ -187,7 +187,7 @@ hr {
     display: flex;
     justify-content: center;
     padding-top: 2em;
-    font-size: xx-large;
+    font-size: 6.8vw;
 }
 
 #records-container {
@@ -401,11 +401,18 @@ footer {
         font-size: 1.8em;
     }
 
-    #records-container h2 {
+    #left-smbl {
+        padding-right: 0.2em;
+    }
+
+    #right-smbl {
+        padding-left: 0.2em;
+    }
+
+    #main-records h2 {
         display: flex;
         justify-content: center;
-        font-size: 6vw;
-        margin-top: 3em;
+        color: gold;
     }
 
     #records-container {
@@ -563,6 +570,7 @@ footer {
         display: flex;
         justify-content: center;
         color: white;
+        font-size: 5.8vw;
     }
 
     #main-records h2:hover {
@@ -648,6 +656,7 @@ footer {
         display: flex;
         justify-content: center;
         color: white;
+        font-size: 300%;
     }
 
     #main-records h2:hover {
