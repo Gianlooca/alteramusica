@@ -200,7 +200,7 @@ hr {
     padding-right: 2vw;
     text-align: justify;
     background-color: #1e1916;
-    font-size: 4w;
+    font-size: 3.8vw;
 }
 
 .mid-cassette {
@@ -347,8 +347,19 @@ button {
     padding-right: 2vw;
     text-align: justify;
     background-color: #1e1916;
-    font-size: 70%;
+    font-size: 3.8vw;
 }
+
+.zoom-1 {
+    width: 75%;
+    height: auto;
+    margin-bottom: 2%;
+}
+
+.cass-tab td {
+    padding: 3px 2.5em;
+}
+
 
 footer {
     /* We don't need a position relative here because the footer
