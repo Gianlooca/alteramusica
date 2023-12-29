@@ -311,6 +311,25 @@ button {
     width: max-content;
 }
 
+/* Cassettes Page */
+
+#main-cassettes {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#h2-cassettes {
+    padding-bottom: 0.5em;
+    color: gold;
+    display: flex;
+    justify-content: center;
+    padding-top: 6vh;
+    font-size: 6.8vw;
+}
+
 footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
