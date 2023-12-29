@@ -476,7 +476,7 @@ footer {
     #content-2 {
         display: flex;
         flex-flow: column wrap;
-        width: 52%;
+        width: 100%;
         font-size: 121%;
         max-width: 382px;
         padding-left: 0;
@@ -490,6 +490,10 @@ footer {
         width: 75%;
         margin-left: 10%;
         border: none;
+    }
+
+    #special-1 {
+        display: none;
     }
 
     .img-wrapper {
@@ -630,6 +634,7 @@ footer {
     #special-1 {
         width: 48%;
         height: auto;
+        display: initial;
     }
 
     #special-img {
