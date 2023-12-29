@@ -551,6 +551,14 @@ footer {
         font-size: 43%;
     }
 
+    #left-smbl {
+        padding-right: 0.8em;
+    }
+
+    #right-smbl {
+        padding-left: 0.8em;
+    }
+
     #main-records h2 {
         display: flex;
         justify-content: center;
