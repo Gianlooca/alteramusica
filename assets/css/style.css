@@ -200,7 +200,7 @@ hr {
     padding-right: 2vw;
     text-align: justify;
     background-color: #1e1916;
-    font-size: 3.8vw;
+    font-size: 85%;
 }
 
 .mid-cassette {
@@ -476,7 +476,7 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
-        font-size: 60%;
+        font-size: 101%;
     }
 
     td {
