@@ -454,7 +454,6 @@ footer {
         display: flex;
         align-self: center;
         color: white;
-        margin-left: -31%;
     }
 
     h2:hover {
@@ -547,6 +546,17 @@ footer {
         font-size: 43%;
     }
 
+    #main-records h2 {
+        display: flex;
+        justify-content: center;
+        color: white;
+    }
+
+    #main-records h2:hover {
+        color: gold;
+        transition-duration: 0.5s;
+    }
+
     .mid-record {
         display: flex;
         flex-flow: row wrap;
@@ -584,4 +594,9 @@ footer {
         font-size: 150%;
         padding-bottom: 1%;
     }
+}
+
+@media screen and (min-width: 1200px) {
+
+
 }
