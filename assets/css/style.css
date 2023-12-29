@@ -618,31 +618,67 @@ footer {
         height: auto;
     }
 
-    /* Tooltip container */
-    .tooltip td {
-        position: relative;
-        display: inline-block;
-        border-bottom: 1px dotted black;
-        /* If you want dots under the hoverable text */
+    #records-container {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-flow: row wrap;
+        gap: 1% 1%;
+        padding-left: 0vw;
+        padding-bottom: 4vw;
+        padding-right: 0vw;
+        text-align: justify;
+        background-color: #1e1916;
+        font-size: 43%;
     }
 
-    /* Tooltip text */
-    .tooltip .tooltiptext {
-        visibility: hidden;
-        width: 120px;
-        background-color: black;
-        color: #fff;
-        text-align: center;
-        padding: 5px 0;
-        border-radius: 6px;
-
-        /* Position the tooltip text - see examples below! */
-        position: absolute;
-        z-index: 1;
+    #main-records h2 {
+        display: flex;
+        justify-content: center;
+        color: white;
     }
 
-    /* Show the tooltip text when you mouse over the tooltip container */
-    .tooltip:hover .tooltiptext {
-        visibility: visible;
+    #main-records h2:hover {
+        color: gold;
+        transition-duration: 0.5s;
     }
+
+    .mid-record {
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 5em;
+        width: 28%;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 98%;
+        font-size: 230%;
+    }
+
+    td {
+        padding: 3px 15px;
+    }
+
+    .down-in {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        margin-left: 4em;
+    }
+
+    details,
+    details summary,
+    details p,
+    details a {
+        font-style: italic;
+        font-size: 150%;
+        padding-bottom: 1%;
+    }
+}
 }
