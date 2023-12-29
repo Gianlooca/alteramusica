@@ -200,10 +200,10 @@ hr {
     padding-right: 2vw;
     text-align: justify;
     background-color: #1e1916;
-    font-size: 70%;
+    font-size: 4w;
 }
 
-.mid-record {
+.mid-cassette {
     display: flex;
     flex-flow: column wrap;
     align-items: center;
@@ -229,6 +229,13 @@ hr {
 .zoom {
     /*transform: scale(1.5);*/
     width: 90%;
+    height: auto;
+    margin-bottom: 2%;
+}
+
+.zoom-1 {
+    /*transform: scale(1.5);*/
+    width: 75%;
     height: auto;
     margin-bottom: 2%;
 }
@@ -328,6 +335,19 @@ button {
     justify-content: center;
     padding-top: 6vh;
     font-size: 6.8vw;
+}
+
+#cassettes-container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-left: 2vw;
+    padding-bottom: 4vw;
+    padding-right: 2vw;
+    text-align: justify;
+    background-color: #1e1916;
+    font-size: 70%;
 }
 
 footer {
