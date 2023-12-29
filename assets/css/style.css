@@ -246,7 +246,7 @@ table {
 }
 
 td {
-    padding: 3px 15px;
+    padding: 3px 8px;
 }
 
 .artist,
@@ -269,6 +269,7 @@ td {
     justify-content: center;
     align-items: center;
     width: 90%;
+    margin-left: 1.5em;
 }
 
 details {
@@ -295,8 +296,7 @@ details,
 details summary,
 details p,
 details a {
-    font-style: italic;
-    font-size: 3.8vw;
+    font-size: 2.8vw;
 }
 
 audio {
@@ -311,6 +311,7 @@ button {
     background-color: gold;
     color: #1e1916;
     padding: 10px;
+    margin-bottom: 1.7em;
     border: none;
     font-family: 'IM Fell DW Pica', serif;
     font-size: x-large;
@@ -598,18 +599,18 @@ footer {
         margin-left: 6.5%;
     }
 
-    .top-in {
+    #records-container {
         width: 100%;
         margin: 0 auto;
         display: flex;
         flex-flow: row wrap;
-        gap: 1% 1%;
-        padding-left: 0vw;
+        gap: 1% 6%;
+        padding-left: 2vw;
         padding-bottom: 4vw;
-        padding-right: 0vw;
+        padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
-        font-size: 43%;
+        font-size: 1.9vh;
     }
 
     #left-smbl {
@@ -638,8 +639,37 @@ footer {
         align-items: center;
         margin-top: 1em;
         margin-bottom: 1em;
-        margin-left: 5em;
+        margin-left: 1em;
         width: 45%;
+    }
+
+    .top-in {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-flow: row wrap;
+        gap: 1% 1%;
+        padding-left: 0vw;
+        padding-bottom: 1vw;
+        padding-right: 0vw;
+        text-align: justify;
+        background-color: #1e1916;
+        font-size: 43%;
+    }
+
+    .zoom {
+        width: 90%;
+        height: auto;
+        margin-bottom: 2%;
+    }
+
+    .down-in {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        margin-left: 2em;
     }
 
     table {
@@ -652,20 +682,10 @@ footer {
         padding: 3px 15px;
     }
 
-    .down-in {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        width: 90%;
-        margin-left: 4em;
-    }
-
     details,
     details summary,
     details p,
     details a {
-        font-style: italic;
         font-size: 120%;
         padding-bottom: 1%;
     }
@@ -725,8 +745,8 @@ footer {
         align-items: center;
         margin-top: 1em;
         margin-bottom: 1em;
-        margin-left: 3em;
-        width: 28%;
+        margin-left: 2em;
+        width: 26%;
     }
 
     .zoom {
@@ -742,7 +762,7 @@ footer {
     }
 
     td {
-        padding: 3px 15px;
+        padding: 3px 8px;
     }
 
     .down-in {
@@ -751,7 +771,7 @@ footer {
         justify-content: center;
         align-items: center;
         width: 90%;
-        margin-left: 4em;
+        margin-left: 2em;
     }
 
     details,
@@ -759,7 +779,7 @@ footer {
     details p,
     details a {
         font-style: italic;
-        font-size: 150%;
+        font-size: 115%;
         padding-bottom: 1%;
     }
 }
