@@ -294,6 +294,10 @@ details a {
 
 audio {
     z-index: 80;
+    width: 218px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 button {
@@ -415,7 +419,7 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
-        font-size: 60%;
+        font-size: 80%;
     }
 
     td {
@@ -680,5 +684,4 @@ footer {
         font-size: 150%;
         padding-bottom: 1%;
     }
-}
 }
