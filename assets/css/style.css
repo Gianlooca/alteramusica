@@ -598,5 +598,23 @@ footer {
 
 @media screen and (min-width: 1200px) {
 
+    #specialdiv {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-end;
+    }
+
+    #special-1 {
+        width: 48%;
+        height: auto;
+    }
+
+    #special-img {
+        display: initial;
+        width: 318px;
+        height: auto;
+    }
 
 }
