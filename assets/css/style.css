@@ -419,7 +419,7 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
-        font-size: 80%;
+        font-size: 60%;
     }
 
     td {
@@ -640,8 +640,6 @@ footer {
         display: flex;
         justify-content: center;
         color: white;
-        text-shadow: 0px 20px 10px #fed600;
-        font-size: 50px;
     }
 
     #main-records h2:hover {
