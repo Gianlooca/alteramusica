@@ -598,7 +598,7 @@ footer {
         margin-left: 6.5%;
     }
 
-    #records-container {
+    .top-in {
         width: 100%;
         margin: 0 auto;
         display: flex;
