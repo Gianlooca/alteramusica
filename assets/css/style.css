@@ -733,6 +733,14 @@ footer {
     .mid-cassette #kitic {
         width: 71%;
     }
+
+    .mid-cassette #guta {
+        width: 79%;
+    }
+
+    .cass-tab #kitic table {
+        padding: 3px 2.5em;
+    }
 }
 
 @media screen and (min-width: 1200px) {
