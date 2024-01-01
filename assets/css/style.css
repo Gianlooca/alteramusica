@@ -351,10 +351,6 @@ button {
     font-size: 3.8vw;
 }
 
-#cassettes-container .mid-cassette {
-    max-width: 550px;
-}
-
 .zoom-1 {
     width: 75%;
     height: auto;
@@ -491,6 +487,23 @@ footer {
     td a {
         text-decoration: underline;
         text-underline-offset: 0.2em;
+    }
+
+    #cassettes-container {
+        width: 100%;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        padding-left: 2vw;
+        padding-bottom: 4vw;
+        padding-right: 2vw;
+        text-align: justify;
+        background-color: #1e1916;
+        font-size: 20px;
+    }
+
+    #cassettes-container .mid-cassette {
+        max-width: 550px;
     }
 
     footer ul li a:hover {
@@ -876,5 +889,15 @@ footer {
     .mid-cassette #alamia {
         width: 81%;
         padding-top: 2%;
+    }
+
+    table {
+        border-collapse: collapse;
+        width: 98%;
+        font-size: 244%;
+    }
+
+    .cass-tab td {
+        padding: 3px 1.5em;
     }
 }
