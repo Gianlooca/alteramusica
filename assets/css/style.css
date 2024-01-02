@@ -369,6 +369,7 @@ button {
 /* Wanna sell page */
 #main-wanna-sell {
     width: 100%;
+    padding-top: 129px;
     display: flex;
 }
 
