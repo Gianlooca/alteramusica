@@ -497,8 +497,13 @@ footer {
         text-underline-offset: 0.2em;
     }
 
+    details, details summary, details p, details a {
+        font-size: 106%;
+    }
+
     #cassettes-container {
         width: 100%;
+        max-width: 550px;
         margin: 0 auto;
         display: flex;
         flex-direction: column;
@@ -507,12 +512,8 @@ footer {
         padding-right: 2vw;
         text-align: justify;
         background-color: #1e1916;
-        font-size: 20px;
-    }
-
-    #cassettes-container .mid-cassette {
-        max-width: 550px;
-    }
+        font-size: 18px;
+    } 
 
     footer ul li a:hover {
         color: gold;
@@ -718,6 +719,7 @@ footer {
 
     #cassettes-container {
         width: 100%;
+        max-width: none;
         margin: 0 auto;
         display: flex;
         flex-flow: row wrap;
