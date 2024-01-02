@@ -369,8 +369,25 @@ button {
 /* Wanna sell page */
 #main-wanna-sell {
     width: 100%;
-    padding-top: 129px;
+    padding-top: 5px;
     display: flex;
+    flex-direction: column;
+}
+
+#sell {
+    background-image: url("../images/form-background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /*background-position: 75%;*/
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#signup-form {
+    color: gold;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
 }
 
 /* Footer, copyright and social medias */
@@ -506,7 +523,10 @@ footer {
         text-underline-offset: 0.2em;
     }
 
-    details, details summary, details p, details a {
+    details,
+    details summary,
+    details p,
+    details a {
         font-size: 106%;
     }
 
@@ -522,7 +542,7 @@ footer {
         text-align: justify;
         background-color: #1e1916;
         font-size: 18px;
-    } 
+    }
 
     footer ul li a:hover {
         color: gold;
