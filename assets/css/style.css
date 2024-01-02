@@ -433,6 +433,11 @@ button {
     margin-left: 18%;
 }
 
+#location {
+    width: 100%;
+    height: fit-content;
+}
+
 /* Footer, copyright and social medias */
 footer {
     /* We don't need a position relative here because the footer
