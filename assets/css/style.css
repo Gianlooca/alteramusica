@@ -380,14 +380,44 @@ button {
     background-position: center;
     background-repeat: no-repeat;
     /*background-position: 75%;*/
-    padding: 20px 10% 0 10%;
+    padding: 20px 10% 20px 10%;
     flex-grow: 1;
 }
 
 #signup-form {
     color: gold;
-    background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
+    text-transform: capitalize;
+    background-color: rgba(60, 60, 60, 0.9);
+    padding: 20px 10% 20px 10%;
+}
+
+.text-input {
+    background: transparent;
+    color: gold;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+#signup-form h3 {
+    word-spacing: 4px;
+    text-transform: none;
+    padding-bottom: 16px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sell-button {
+    margin-top: 20px;
+    padding: 15px 32px;
+    align-self: center;
 }
 
 /* Footer, copyright and social medias */
