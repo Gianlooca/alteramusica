@@ -32,7 +32,7 @@ h1 {
     font-family: 'IM Fell DW Pica', serif;
     letter-spacing: 0.4em;
     text-align: center;
-    line-height: 23px;
+    line-height: 28px;
     padding: 9px 78px;
     color: gold;
 }
@@ -52,6 +52,7 @@ nav {
     background-size: 443px;
     height: 126px;
     width: 100vw;
+    font-size: 20px;
     z-index: 5;
 }
 
@@ -518,6 +519,10 @@ footer {
         width: 100vw;
         position: relative;
         z-index: 5;
+    }
+
+    nav>h1 {
+        padding: 6px 78px 5px;
     }
 
     nav ul li {
