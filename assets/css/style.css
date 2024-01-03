@@ -445,6 +445,8 @@ button {
     color: black;
     margin-top: 12%;
     padding: 14px;
+    border-radius: 3%;
+    border: 1px solid black;
     width: 90%;
     display: flex;
     align-items: center;
