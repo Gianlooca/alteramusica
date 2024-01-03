@@ -322,7 +322,7 @@ button {
 #main-cassettes {
     display: flex;
     flex-flow: column;
-    width: 100%;
+    width: 100vw;
     height: auto;
     margin: 0 auto;
 }
@@ -390,7 +390,8 @@ button {
     color: gold;
     text-transform: capitalize;
     background-color: rgba(0, 0, 0, 0.8);
-    padding: 20px 10% 20px 10%;
+    max-width: 350px;
+    padding: 20px 3% 20px 3%;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
