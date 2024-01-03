@@ -390,8 +390,13 @@ button {
     text-transform: capitalize;
     background-color: rgba(0, 0, 0, 0.8);
     padding: 20px 10% 20px 10%;
+    display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+}
+
+#signup-form h2 {
+    font-size: 20px;
 }
 
 .text-input {
@@ -433,7 +438,7 @@ button {
 .sell-button {
     margin-top: 20px;
     padding: 15px 15px;
-    margin-left: 18%;
+    align-self: center;
 }
 
 #come-visit {
