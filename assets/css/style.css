@@ -464,6 +464,13 @@ button {
     font-family: 'IM Fell DW Pica';
 }
 
+#come-visit:hover {
+    color: gold;
+    background-color: black;
+    border: 1px solid gold;
+    transition: color 0.5s;
+}
+
 #map {
     margin-bottom: -5px;
 }
