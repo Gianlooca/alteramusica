@@ -50,7 +50,7 @@ nav {
     background-position: center;
     background-repeat: no-repeat;
     background-size: 443px;
-    height: 122px;
+    height: 126px;
     width: 100vw;
     z-index: 5;
 }
@@ -58,7 +58,7 @@ nav {
 nav ul li {
     display: inline-block;
     line-height: 92px;
-    margin: 0 5px
+    margin: 0 5px;
 }
 
 nav ul li a {
