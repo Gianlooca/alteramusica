@@ -369,7 +369,6 @@ button {
 /* Wanna sell page */
 #main-wanna-sell {
     width: 100%;
-    padding-top: 5px;
     display: flex;
     flex-direction: column;
 }
@@ -391,6 +390,8 @@ button {
     text-transform: capitalize;
     background-color: rgba(0, 0, 0, 0.8);
     padding: 20px 10% 20px 10%;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .text-input {
