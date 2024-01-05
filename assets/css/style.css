@@ -42,6 +42,10 @@ h1 a {
     color: gold;
 }
 
+a {
+    color: gold;
+}
+
 a:visited {
     color: gold;
 }
