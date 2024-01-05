@@ -445,18 +445,18 @@ button {
 }
 
 #come-visit {
-    color: black;
+    color: gold;
     margin-top: 12%;
     padding: 14px;
     margin-bottom: 35px;
     border-radius: 3%;
-    border: 1px solid black;
+    border: 1px solid gold;
     width: 100%;
     display: flex;
     align-items: center;
     align-self: center;
     justify-content: center;
-    background-color: gold;
+    background-color: black;
     flex-wrap: wrap;
     flex-direction: column;
 }
@@ -466,9 +466,9 @@ button {
 }
 
 #come-visit:hover {
-    color: gold;
-    background-color: black;
-    border: 1px solid gold;
+    color: black;
+    background-color: gold;
+    border: 1px solid black;
     transition: color 0.5s;
 }
 
@@ -893,6 +893,10 @@ footer {
 
     .cass-tab #kitic table {
         padding: 3px 2.5em;
+    }
+
+    #signup-form {
+        align-self: center;
     }
 
     #come-visit {
