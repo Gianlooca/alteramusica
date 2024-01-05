@@ -276,7 +276,7 @@ td {
     justify-content: center;
     align-items: center;
     width: 90%;
-    margin-left: 1.5em;
+    margin-left: 1em;
 }
 
 details {
@@ -835,7 +835,7 @@ footer {
         justify-content: center;
         align-items: center;
         width: 90%;
-        margin-left: 2em;
+        margin-left: 1em;
     }
 
     table {
@@ -1013,7 +1013,7 @@ footer {
         justify-content: center;
         align-items: center;
         width: 90%;
-        margin-left: 2em;
+        margin-left: 1em;
     }
 
     details,
