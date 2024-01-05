@@ -856,6 +856,14 @@ footer {
         padding-bottom: 1%;
     }
 
+    #first-cassette {
+        margin-right: 25px;
+    }
+    
+    #second-cassette {
+        margin-left: 25px;
+    }
+
     #cassettes-container {
         width: 100%;
         max-width: none;
