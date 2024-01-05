@@ -24,6 +24,7 @@ header {
     top: 0;
     width: 100vw;
     z-index: 99;
+    border-bottom: 1px solid gold;
 }
 
 h1 {
