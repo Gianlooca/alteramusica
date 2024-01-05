@@ -357,7 +357,7 @@ button:hover {
     padding-right: 2vw;
     text-align: justify;
     background-color: #1e1916;
-    font-size: 3.8vw;
+    font-size: 16px;
 }
 
 .mid-cassette {
@@ -375,7 +375,7 @@ button:hover {
 }
 
 .cass-tab td {
-    padding: 6px 2.5em;
+        padding: 6px 29px;
 }
 
 /* Wanna sell page */
