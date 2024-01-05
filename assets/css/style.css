@@ -58,7 +58,7 @@ nav {
     height: 126px;
     width: 100vw;
     font-size: 20px;
-    z-index: 5;
+    z-index: 10;
 }
 
 nav ul li {
@@ -535,7 +535,7 @@ footer {
     }
 
     nav {
-        background: url("../images/dischi-better.jpg");
+        background: url("../images/header-footer.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
