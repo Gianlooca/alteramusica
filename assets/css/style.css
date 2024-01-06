@@ -145,7 +145,7 @@ hr {
     height: auto;
     animation: fadeIn;
     animation-timeline: scroll();
-    animation-range: entry 0% contain 35%;
+    animation-range: entry 0% contain 30%;
     animation-fill-mode: forwards;
 }
 
