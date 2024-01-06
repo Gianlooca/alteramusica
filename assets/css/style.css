@@ -143,6 +143,20 @@ hr {
     margin-top: 10%;
     width: 90%;
     height: auto;
+    animation: fadeIn 5ms;
+    animation-timeline: scroll();
+    animation-range: entry 0% contain 35%;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 #first-img {
@@ -381,7 +395,7 @@ button:hover {
 }
 
 .cass-tab td {
-        padding: 6px 29px;
+    padding: 6px 29px;
 }
 
 /* Wanna sell page */
@@ -489,7 +503,7 @@ iframe {
     width: 100vw;
     height: 250px;
     border: none;
-    
+
 }
 
 /* Footer, copyright and social medias */
@@ -859,7 +873,7 @@ footer {
     #first-cassette {
         margin-right: 25px;
     }
-    
+
     #second-cassette {
         margin-left: 25px;
     }
