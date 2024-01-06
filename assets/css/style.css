@@ -143,13 +143,13 @@ hr {
     margin-top: 10%;
     width: 90%;
     height: auto;
-    animation: fadeIn;
+    animation: fade-in;
     animation-timeline: scroll();
     animation-range: entry 0% contain 30%;
     animation-fill-mode: forwards;
 }
 
-@keyframes fadeIn {
+@keyframes fade-in {
     0% {
         opacity: 0;
     }
