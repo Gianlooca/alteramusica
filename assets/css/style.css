@@ -347,6 +347,11 @@ button:hover {
     border: 1px solid gold;
 }
 
+button:active {
+    position: relative;
+    top: 1px;
+}
+
 /* Cassettes Page */
 
 #main-cassettes {
