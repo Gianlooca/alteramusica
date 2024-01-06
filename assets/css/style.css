@@ -406,7 +406,7 @@ button:hover {
 }
 
 #sell {
-    background-image: url("../images/form-background.jpg");
+    background-image: url("../images/form-background.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -416,6 +416,8 @@ button:hover {
     display: flex;
     flex-direction: column;
 }
+
+
 
 #signup-form {
     color: gold;
@@ -1093,7 +1095,7 @@ footer {
     }
 
     #sell {
-        background-image: url(../images/form-background.webp);
+        background-image: url("../images/form-background.webp");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
