@@ -51,7 +51,7 @@ a:visited {
 }
 
 nav {
-    background: url("../images/header-footer.jpg");
+    background: url("../images/records-header-footer.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 443px;
@@ -501,7 +501,7 @@ footer {
 
     position: relative;
     bottom: 0;*/
-    background: url("../images/header-footer.jpg");
+    background: url("../images/records-header-footer.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -542,7 +542,7 @@ footer {
     }
 
     nav {
-        background: url("../images/header-footer.jpg");
+        background: url("../images/records-header-footer.webp");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
