@@ -892,6 +892,8 @@ footer {
 
     #explain {
         flex-flow: column wrap;
+        padding-bottom: 1vw;
+        margin: 1em 1em 1em 1em;
     }
 
 
