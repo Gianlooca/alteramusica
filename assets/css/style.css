@@ -352,6 +352,16 @@ button:active {
     top: 1px;
 }
 
+#explain {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 4em 1em 1em 1em;
+    padding-left: 2vw;
+    padding-bottom: 4vw;
+    padding-right: 2vw;
+    text-align: justify;
+}
+
 /* Cassettes Page */
 
 #main-cassettes {
