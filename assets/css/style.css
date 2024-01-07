@@ -994,6 +994,7 @@ footer {
         justify-content: center;
         color: white;
         font-size: 300%;
+        padding-top: 82px;
     }
 
     #main-records h2:hover {
