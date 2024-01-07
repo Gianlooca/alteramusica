@@ -214,7 +214,7 @@ hr {
     color: gold;
     display: flex;
     justify-content: center;
-    padding-top: 2em;
+    padding-top: 3em;
     font-size: 6.8vw;
 }
 
@@ -367,7 +367,7 @@ button:active {
     color: gold;
     display: flex;
     justify-content: center;
-    padding-top: 6vh;
+    padding-top: 4vh;
     font-size: 6.8vw;
 }
 
