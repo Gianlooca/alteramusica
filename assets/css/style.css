@@ -1012,12 +1012,16 @@ footer {
         font-size: 95%;
     }
 
+    #main-records {
+        padding-top: 123px
+    }
+
     #main-records h2 {
         display: flex;
         justify-content: center;
         color: white;
         font-size: 300%;
-        padding-top: 82px;
+        padding-top: 27px;
     }
 
     #main-records h2:hover {
