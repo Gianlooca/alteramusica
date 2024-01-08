@@ -381,7 +381,7 @@ button:active {
     color: gold;
     display: flex;
     justify-content: center;
-    padding-top: 4vh;
+    padding-top: 26px;
     font-size: 6.8vw;
 }
 
