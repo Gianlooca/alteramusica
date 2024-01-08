@@ -536,7 +536,7 @@ footer {
     position: relative;
     bottom: 0;*/
     background: url("../images/records-header-footer.webp");
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
     border-top: 1px solid gold;
