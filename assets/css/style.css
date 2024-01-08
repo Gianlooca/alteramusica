@@ -79,7 +79,7 @@ nav ul li a {
 
 /* Make main element take up any surplus space to push footer down. Inspired by Love Running */
 main {
-    padding-top: 121px;
+    padding-top: 125px;
     flex: 1 0 auto;
     background-color: #1e1916;
     color: white;
@@ -206,7 +206,7 @@ hr {
 /* records.html page */
 
 #main-records {
-    padding-top: 71px;
+    padding-top: 126px;
 }
 
 #main-records h2 {
