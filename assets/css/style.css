@@ -414,7 +414,7 @@ audio {
     padding: 6px 29px;
 }
 
-/* Wanna sell page */
+/* wanna sell page */
 
 #sell {
     width: 100vw;
@@ -428,8 +428,7 @@ audio {
     flex-direction: column;
 }
 
-
-
+/* form */
 #signup-form {
     color: gold;
     text-transform: capitalize;
@@ -445,6 +444,7 @@ audio {
     font-size: 25px;
 }
 
+/* styles the actual text input spaces */
 .text-input {
     background: transparent;
     color: gold;
@@ -456,6 +456,7 @@ audio {
     padding: 0 5px;
 }
 
+/* styles the heading of the radio buttons element */
 #signup-form h3 {
     word-spacing: 4px;
     text-transform: none;
@@ -481,6 +482,7 @@ audio {
     padding: 0 5px;
 }
 
+/* another link class disguised as buttons */
 .sell-button {
     background-color: gold;
     color: #1e1916;
@@ -526,6 +528,7 @@ audio {
     flex-direction: column;
 }
 
+/* map with a slightly negative margin-bottom value to make it fit to the page */
 #map {
     margin-bottom: -5px;
     border-top: 3px solid gold;
@@ -543,10 +546,7 @@ footer {
     /* We don't need a position relative here because the footer
     is always by default at the end of the page. So we don't even need
     the bottom: 0 value. We already declared the height size so we
-    can just say that the bg-size has cover value.
-
-    position: relative;
-    bottom: 0;*/
+    can just say that the bg-size has cover value.*/
     background: url("../images/records-header-footer.webp");
     background-position: right;
     background-repeat: no-repeat;
