@@ -74,9 +74,9 @@ nav ul li a {
     color: gold;
 }
 
-/* Make main element take up any surplus space to push footer down. Inspired by Love Running */
+/* Make main element take up any surplus space to push footer down */
 main {
-    padding-top: 123px;
+    padding-top: 126px;
     flex: 1 0 auto;
     background-color: #1e1916;
     color: white;
@@ -713,6 +713,10 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
+
+    main {
+        padding-top: 123px;
+    }
 
     #container-1 {
         width: 92%;
