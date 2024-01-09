@@ -340,6 +340,7 @@ audio {
     border: none;
     font-family: 'IM Fell DW Pica', serif;
     font-size: x-large;
+    font-weight: lighter;
     border-radius: 20px;
     width: max-content;
     cursor: pointer;
