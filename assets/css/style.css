@@ -511,6 +511,7 @@ audio {
 }
 
 #come-visit {
+    font-family: 'IM Fell DW Pica';
     color: gold;
     margin-top: 12%;
     padding: 14px;
@@ -525,10 +526,6 @@ audio {
     background-color: black;
     flex-wrap: wrap;
     flex-direction: column;
-}
-
-#strong-p {
-    font-family: 'IM Fell DW Pica';
 }
 
 #map {
