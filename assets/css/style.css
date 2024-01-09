@@ -46,9 +46,9 @@ a {
     color: gold;
 }
 
-a:visited {
+/*a:visited {
     color: gold;
-}
+}*/
 
 nav {
     background: url("../images/records-header-footer.webp");
@@ -332,7 +332,7 @@ audio {
     margin-bottom: 10px;
 }
 
-button {
+.btn {
     background-color: gold;
     color: #1e1916;
     padding: 10px;
@@ -345,13 +345,13 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.btn:hover {
     background-color: black;
     color: gold;
     border: 1px solid gold;
 }
 
-button:active {
+.btn:active {
     position: relative;
     top: 1px;
 }
