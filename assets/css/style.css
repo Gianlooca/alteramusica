@@ -96,7 +96,7 @@ main {
 #content-1 {
     display: flex;
     flex-flow: column wrap;
-    width: 110%;
+    width: 100%;
     justify-content: center;
     align-items: flex-start;
 }
@@ -365,7 +365,7 @@ audio {
     text-align: justify;
 }
 
-/* Cassettes Page */
+/* cassettes page; almost identical to records page */
 
 #main-cassettes {
     display: flex;
