@@ -223,7 +223,7 @@ hr {
     font-size: 6.8vw;
 }
 
-/*  */
+/* general records container */
 #records-container {
     width: 100%;
     margin: 0 auto;
@@ -262,6 +262,7 @@ td {
     padding: 6px 8px;
 }
 
+/* classes for a more efficient division on the right and on the left of records information */
 .artist,
 .album-name,
 .genre,
@@ -276,6 +277,7 @@ td {
     text-align: right;
 }
 
+/* class for lower part of record information: the width is set to 90% to look smaller than the .top-in */
 .down-in {
     display: flex;
     flex-direction: column;
@@ -285,6 +287,7 @@ td {
     margin-left: 1em;
 }
 
+/* in order to avoid the "default" cursor: pointer on the link, I had to be very specific by selecting the direct child */
 .condition>a {
     cursor: help;
 }
@@ -316,6 +319,7 @@ details a {
     font-size: 18px;
 }
 
+/* the z-index value is smaller than the one on the header so it doesn't override it */
 audio {
     z-index: 80;
     width: 218px;
@@ -324,6 +328,7 @@ audio {
     margin-bottom: 10px;
 }
 
+/* a class for a link disguised as a button */
 .btn {
     background-color: gold;
     color: #1e1916;
@@ -344,6 +349,7 @@ audio {
     border: 1px solid gold;
 }
 
+/* this gives the "disguised link" a motion sense when tapped or clicked on */
 .btn:active {
     position: relative;
     top: 1px;
