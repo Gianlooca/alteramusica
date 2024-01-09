@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 /* general settings */
+
 * {
     margin: 0;
     padding: 0;
@@ -202,6 +203,7 @@ hr {
     padding-bottom: 1.5em;
 }
 
+/* this class is needed to highlight the name "altera musica" */
 .alt-mus {
     color: gold;
 }
@@ -243,13 +245,6 @@ hr {
     margin-top: 10%;
 }
 
-/* To set the zoom timing whe have to add the transition property to the parent element 
-.top-in {
-    transition: 0.3s;
-
-}
-
-/* This is the proper zoom in the child element. Note: if the zoom is too large, it will go outside of the viewport)*/
 .zoom {
     /*transform: scale(1.5);*/
     width: 90%;
