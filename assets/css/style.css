@@ -223,6 +223,7 @@ hr {
     font-size: 6.8vw;
 }
 
+/*  */
 #records-container {
     width: 100%;
     margin: 0 auto;
@@ -232,7 +233,7 @@ hr {
     padding-bottom: 4vw;
     padding-right: 2vw;
     text-align: justify;
-    align-items: flex-start;
+    align-items: center;
     background-color: #1e1916;
     font-size: 85%;
 }
@@ -246,19 +247,12 @@ hr {
 }
 
 .zoom {
-    /*transform: scale(1.5);*/
     width: 90%;
     height: auto;
     margin-bottom: 2%;
 }
 
-.zoom-1 {
-    /*transform: scale(1.5);*/
-    width: 75%;
-    height: auto;
-    margin-bottom: 2%;
-}
-
+/* this is the table for the information below the records images. note the property and value border-collapse: collapse */
 table {
     border-collapse: collapse;
     width: 92%;
