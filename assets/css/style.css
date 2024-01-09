@@ -83,16 +83,6 @@ main {
     width: 100vw;
 }
 
-h2 {
-    padding-bottom: 0.5em;
-    color: gold;
-}
-
-p {
-    font-weight: lighter;
-    padding-bottom: 3%;
-}
-
 #container-1 {
     display: flex;
     margin: 4em 1em 1em 2.1em;
@@ -116,22 +106,34 @@ p {
     padding-right: 0;
 }
 
+h2 {
+    padding-bottom: 0.5em;
+    color: gold;
+}
+
+p {
+    font-weight: lighter;
+    padding-bottom: 3%;
+}
+
 #content-2 p {
     padding-left: 1.5em;
     padding-right: 2.5em;
     padding-bottom: 1.5em;
 }
 
+/* on devices smaller than 768px, the <hr> is not visible */
 hr {
     display: none;
 }
 
-#content-3 p {
-    padding-left: 2.5em;
-    padding-right: 2.5em;
-    padding-bottom: 1.5em;
+/* on devices smaller than 1200px, this <img> is not visible */
+#special-img {
+    display: none;
 }
 
+
+/* the images contained in this class will fade-in as the user scrolls down. Animation properties and a keyframe rule the process */
 .img-wrapper {
     display: flex;
     flex-flow: column wrap;
@@ -179,21 +181,25 @@ hr {
     height: auto;
 }
 
+/* this is the main container for the 'about us' section */
 #container-2 {
     display: inline-block;
-    margin: 2em 1em 1em 0;
+    margin: 2em 0 1em 0;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
     text-align: justify;
 }
 
-#special-img {
-    display: none;
-}
-
+/* the title is "in line" with the main h2 in the #content-1 */
 #content-3 h2 {
     padding-left: 22px;
+}
+
+#content-3 p {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    padding-bottom: 1.5em;
 }
 
 .alt-mus {
