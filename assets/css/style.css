@@ -417,18 +417,13 @@ audio {
 }
 
 /* Wanna sell page */
-#main-wanna-sell {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-}
 
 #sell {
+    width: 100vw;
     background-image: url("../images/form-background.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /*background-position: 75%;*/
     padding: 20px 10% 20px 10%;
     flex-grow: 1;
     display: flex;
