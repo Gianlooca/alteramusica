@@ -1,5 +1,7 @@
+/* fonts taken by google fonts */
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@0;1&family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
+/* general settings */
 * {
     margin: 0;
     padding: 0;
@@ -38,17 +40,13 @@ h1 {
     color: gold;
 }
 
-h1 a {
+/*h1 a {
     color: gold;
-}
+}*/
 
 a {
     color: gold;
 }
-
-/*a:visited {
-    color: gold;
-}*/
 
 nav {
     background: url("../images/records-header-footer.webp");
