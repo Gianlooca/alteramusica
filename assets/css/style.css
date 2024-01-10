@@ -578,6 +578,11 @@ iframe {
     height: auto;
 }
 
+#error-msg-div {
+    width: 90%;
+    height: auto;
+}
+
 #error-msg {
     color: white;
     font-size: larger;
