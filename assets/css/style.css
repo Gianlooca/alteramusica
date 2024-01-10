@@ -562,6 +562,10 @@ iframe {
     height: auto;
     display: flex;
     flex-flow: column wrap;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
 }
 
 #error-img-div {
