@@ -555,6 +555,34 @@ iframe {
 
 }
 
+/* 404.html page */
+
+#error-div {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#error-img-div {
+    width: 50%;
+    height: auto;
+}
+
+#error-img {
+    width: 75%;
+    height: auto;
+}
+
+#error-msg {
+    color: white;
+    font-size: larger;
+}
+
+#broke {
+    color: gold;
+}
+
 /* Footer, copyright and social medias */
 footer {
     /* We don't need a position relative here because the footer
