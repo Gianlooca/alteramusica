@@ -569,7 +569,7 @@ iframe {
 }
 
 #error-img-div {
-    width: 50%;
+    width: 70%;
     height: auto;
 }
 
@@ -954,6 +954,11 @@ footer ul li a:hover {
     #error-img-div {
         width: 70%;
         margin-bottom: 40px;
+    }
+
+    #error-msg-div {
+        padding-left: 90px;
+        padding-right: 90px;
     }
 
     #error-msg {
