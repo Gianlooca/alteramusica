@@ -42,7 +42,7 @@
 ### User Goals
 - Finding a good e-commerce for second-hand, analog format peculiar music.
 - Finding a buyer of second-hand off-market music in analog format.
-- Finding all the information about the records/cassettes he/she is interested in.
+- Finding as much information as possible about the records/cassettes he/she is interested in.
 - Seeing clearly the prices of the products.
 - Finding the location of the physical store.
 
@@ -56,20 +56,17 @@
 ## User Experience
 
 ### Target Audience
-- People looking for a place to dine at
-- People looking to order take away
-- Groups of people looking for a place to carter a event
-- Small to medium wedding parties
+- Music lovers looking for something new to listen to.
+- Enthusiasts and collectors of peculiar, ethnic, popular and little-known music.
+- DJs and music producers into the analog format music who like to sample to compose their tracks.
+- People who inherited or have records/cassettes they're not interested in and want to sell.
 
 ### User Requrements and Expectations
-
-- A simple and intuitive navigation system
-- Quickly and easily find relevant information
-- Links and functions that work as expected
-- Good presentation and a visually appealing design regardless of screen size
-- An easy way to contact the bussines
-- Simple content that the user can skim read
-- Accessibility
+- A simple, smart and intuitive navigation system.
+- Links and functions that work as expected.
+- A visually appealing and responsive website.
+- All the information needed to contact the business.
+- A good level of accessibility.
 
 ### User Stories
 
