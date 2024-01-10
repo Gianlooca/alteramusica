@@ -42,15 +42,16 @@
 ### User Goals
 - Finding a good e-commerce for second-hand, analog format peculiar music.
 - Finding a buyer of second-hand off-market music in analog format.
-- Finding all the information about the records/cassettes they're interested in.
-- Seeing clearly the prices.
-- Find the location of the physical store.
+- Finding all the information about the records/cassettes he/she is interested in.
+- Seeing clearly the prices of the products.
+- Finding the location of the physical store.
 
-### Site Owner Goals
-- Increase in the number of customers.
-- Promote the bussines.
-- Provide a way for new and existing customers to contact the buissnes.
-- Provide essential information about the bussines to customers.
+### Business Owner Goals
+- Finding more customers.
+- Promote the business.
+- Providing a way for new and existing buyers to contact the business.
+- Providing a way for new and existing sellers to contact the business.
+- Providing essential information about the business to customers.
 
 ## User Experience
 
