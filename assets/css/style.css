@@ -129,7 +129,11 @@ hr {
     display: none;
 }
 
-/* on devices smaller than 1200px, this <img> is not visible */
+/* on devices smaller than 1200px, these two ids are not visible */
+#special-1 {
+    display: none;
+}
+
 #special-img {
     display: none;
 }
@@ -739,20 +743,15 @@ footer ul li a:hover {
         border: none;
     }
 
-    #special-1 {
-        display: none;
-    }
-
     .img-wrapper {
         width: 100%;
-        height: auto;
-        display: flex;
-        flex-wrap: wrap;
         flex-direction: row;
         justify-content: space-between;
         margin-left: -34px;
     }
 
+    /* now the <img> elements widths and margins changed due to their different dimensions
+    and the flex-direction of their parent element */
     #first-img {
         width: 46%;
         height: auto;
