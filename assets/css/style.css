@@ -962,7 +962,7 @@ footer ul li a:hover {
     }
 
     #error-msg {
-        font-size: x-large;
+        font-size: xx-large;
     }
 }
 
@@ -1116,5 +1116,11 @@ footer ul li a:hover {
         width: 52%;
         align-self: flex-start;
         justify-content: center;
+    }
+
+    /* 404.html page */
+
+    #error-img-div {
+        width: 30%;
     }
 }
