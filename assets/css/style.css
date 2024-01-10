@@ -1122,5 +1122,6 @@ footer ul li a:hover {
 
     #error-img-div {
         width: 30%;
+        margin-bottom: 0;
     }
 }
