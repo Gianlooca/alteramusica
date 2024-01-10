@@ -882,15 +882,14 @@ footer ul li a:hover {
     }
 
     .mid-cassette {
-        display: flex;
         flex-flow: row wrap;
-        align-items: center;
         margin-top: 1em;
         margin-bottom: 1em;
         margin-left: 1em;
         width: 45%;
     }
 
+    /* due to different images size, the widths properties have different values */
     .mid-cassette #kitic {
         width: 71%;
     }
@@ -903,6 +902,7 @@ footer ul li a:hover {
         padding: 3px 2.5em;
     }
 
+    /* from now on, the #signup-form has align-self property with center value */
     #signup-form {
         align-self: center;
     }
@@ -912,6 +912,8 @@ footer ul li a:hover {
         width: 500px;
     }
 }
+
+/* applying other media queries */
 
 @media screen and (min-width: 1200px) {
 
