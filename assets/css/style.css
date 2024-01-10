@@ -1141,6 +1141,10 @@ footer ul li a:hover {
         margin-bottom: 0;
     }
 
+    #error-img {
+        width: 90%;
+    }
+
     #error-msg {
         font-size: 1.5em;
     }
