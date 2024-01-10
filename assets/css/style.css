@@ -713,11 +713,6 @@ footer ul li a:hover {
         margin-right: 8px;
     }
 
-    h2 {
-        display: flex;
-        align-self: center;
-    }
-
     #content-2 {
         display: flex;
         flex-flow: column wrap;
@@ -727,6 +722,13 @@ footer ul li a:hover {
         padding-left: 0;
     }
 
+    /* now the h2 has align-self property set center */
+    h2 {
+        display: flex;
+        align-self: center;
+    }
+
+    /* now the <hr> elements between the <p> elements are visible and styled */
     #content-2 hr {
         display: block;
         margin-bottom: 25px;
