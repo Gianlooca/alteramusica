@@ -568,15 +568,17 @@ iframe {
     align-items: center;
     position: relative;
     top: 50px;
+    bottom: 150px;
 }
 
 #error-img-div {
     width: 70%;
+    max-width: 300px;
     height: auto;
 }
 
 #error-img {
-    width: 75%;
+    width: 85%;
     height: auto;
 }
 
@@ -959,8 +961,13 @@ footer ul li a:hover {
     /* 404.html page */
 
     #error-img-div {
-        width: 60%;
+        width: 39%;
         margin-bottom: 30px;
+    }
+
+    #error-img {
+        width: 110%;
+        max-width: 130%;
     }
 
     #error-msg-div {
@@ -969,7 +976,7 @@ footer ul li a:hover {
     }
 
     #error-msg {
-        font-size: xx-large;
+        font-size: x-large;
     }
 }
 
@@ -1135,6 +1142,6 @@ footer ul li a:hover {
     }
 
     #error-msg {
-        font-size: medium;
+        font-size: 1.5em;
     }
 }
