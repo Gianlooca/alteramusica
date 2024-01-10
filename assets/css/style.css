@@ -56,7 +56,6 @@ nav {
     height: 126px;
     width: 100vw;
     font-size: 20px;
-    z-index: 10;
 }
 
 nav ul li {
@@ -576,8 +575,10 @@ footer {
 }
 
 /* APPLYING MEDIA QUERIES */
+
 @media screen and (min-width: 443px) {
 
+    /* from now on, the list elements on the navbar will have have a value of space-evenly, since the screen sizes are getting bigger */
     #nav-list {
         width: 100%;
         display: inline-flex;
@@ -597,7 +598,6 @@ footer {
         height: 122px;
         width: 100vw;
         position: relative;
-        z-index: 5;
     }
 
     nav>h1 {
