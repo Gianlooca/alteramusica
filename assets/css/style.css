@@ -379,7 +379,7 @@ audio {
     text-align: justify;
 }
 
-/* cassettes page; almost identical to records page */
+/* cassettes.html page; almost identical to records.html page */
 
 #main-cassettes {
     display: flex;
@@ -808,10 +808,10 @@ footer ul li a:hover {
     }
 
     #main-records h2 {
-        color: gold;
         font-size: 5.8vw;
     }
 
+    /* note the property flex-flow with row wrap value */
     .mid-record {
         display: flex;
         flex-flow: row wrap;
@@ -835,23 +835,7 @@ footer ul li a:hover {
         font-size: 43%;
     }
 
-    .zoom {
-        width: 90%;
-        height: auto;
-        margin-bottom: 2%;
-    }
-
-    .down-in {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        width: 90%;
-        margin-left: 1em;
-    }
-
     table {
-        border-collapse: collapse;
         width: 98%;
         font-size: 230%;
     }
@@ -874,6 +858,7 @@ footer ul li a:hover {
         margin: 1em 1em 1em 1em;
     }
 
+    /* cassettes.html page */
 
     #first-cassette {
         margin-right: 25px;
