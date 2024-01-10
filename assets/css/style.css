@@ -756,6 +756,11 @@ footer ul li a:hover {
         margin-right: 8px;
     }
 
+    #upperdiv {
+        position: relative;
+        top: 50px;
+    }
+
     #content-2 {
         display: flex;
         flex-flow: column wrap;
@@ -997,6 +1002,8 @@ footer ul li a:hover {
         display: flex;
         flex-flow: row wrap;
         justify-content: flex-end;
+        position: relative;
+        top: 28px;
     }
 
     /* now this div and the following #special-img are visible */
