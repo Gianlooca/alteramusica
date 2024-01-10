@@ -1,4 +1,7 @@
 # Altera Musica
+
+**Altera Musica** is an online and physical marketplace for rare and ethnic music in second-hand analog format (vinyl and cassette). Detailed info like pictures of the cover and conditions of the support, price, genre, title, artist - and generic information about both the genre and the specific artist - are provided, as well as an audio preview of them.
+
 (Developer: Gianluca Zimmatore)
 
 ![Mockup image](docs/am-i-responsive-altera-musica.webp)
@@ -61,7 +64,7 @@
 - DJs and music producers into the analog format music who like to sample to compose their tracks.
 - People who inherited or have records/cassettes they're not interested in and want to sell.
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 - A simple, smart and intuitive navigation system.
 - Links and functions that work as expected.
 - A visually appealing and responsive website.
