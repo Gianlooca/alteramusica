@@ -623,12 +623,6 @@ footer {
     }
 
     .img-wrapper {
-        width: 90%;
-        height: auto;
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: column;
-        justify-content: center;
         margin-left: 16px;
     }
 
