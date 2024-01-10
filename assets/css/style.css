@@ -943,6 +943,17 @@ footer ul li a:hover {
         font-size: x-large;
         width: 500px;
     }
+
+    /* 404.html page */
+
+    #error-img-div {
+        width: 70%;
+        margin-bottom: 40px;
+    }
+
+    #error-msg {
+        font-size: x-large;
+    }
 }
 
 /* applying other media queries */
