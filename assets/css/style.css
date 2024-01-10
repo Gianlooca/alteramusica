@@ -585,7 +585,16 @@ footer {
     font-size: 3em;
 }
 
-/* APPLYING MEDIA QUERIES */
+footer ul li a:hover {
+    color: gold;
+    transition: color 0.5s;
+    background-color: #688f9e;
+    padding: 5px;
+    border-radius: 2px;
+    box-sizing: initial;
+}
+
+/* applying media queries */
 
 @media screen and (min-width: 443px) {
 
@@ -668,35 +677,25 @@ footer {
         font-size: 106%;
     }
 
+    /* cassettes.html page */
+
     #cassettes-container {
-        width: 100%;
         max-width: 550px;
-        margin: 0 auto;
-        display: flex;
-        flex-direction: column;
-        padding-left: 2vw;
-        padding-bottom: 4vw;
-        padding-right: 2vw;
-        text-align: justify;
-        background-color: #1e1916;
         font-size: 18px;
     }
+
+    /* wanna-sell.html page */
 
     #come-visit {
         width: 368px;
     }
-
-    footer ul li a:hover {
-        color: gold;
-        transition: color 0.5s;
-        background-color: #688f9e;
-        padding: 5px;
-        border-radius: 2px;
-        box-sizing: initial;
-    }
 }
 
+/* applying new media queries */
+
 @media screen and (min-width: 768px) {
+
+    /* index.html page */
 
     main {
         padding-top: 123px;
@@ -717,12 +716,6 @@ footer {
     h2 {
         display: flex;
         align-self: center;
-        color: white;
-    }
-
-    h2:hover {
-        color: gold;
-        transition-duration: 0.5s;
     }
 
     #content-2 {
@@ -966,6 +959,18 @@ footer {
 }
 
 @media screen and (min-width: 1200px) {
+
+    /* index.html page */
+
+    /* now the h2 is white; when hovered over, becomes gold */
+    h2 {
+        color: white;
+    }
+
+    h2:hover {
+        color: gold;
+        transition-duration: 0.5s;
+    }
 
     .img-wrapper {
         width: 100%;
