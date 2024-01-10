@@ -40,10 +40,11 @@
 ## Project Goals 
 
 ### User Goals
-- Finding a restaurant that offers a nice atmosphere and good food.
-- See a full menu with clear pricing.
-- Find information about the restaurant.
-- Find the location of the restaurant
+- Finding a good e-commerce for second-hand, analog format peculiar music.
+- Finding a buyer of second-hand off-market music in analog format.
+- Finding all the information about the records/cassettes they're interested in.
+- Seeing clearly the prices.
+- Find the location of the physical store.
 
 ### Site Owner Goals
 - Increase in the number of customers.
