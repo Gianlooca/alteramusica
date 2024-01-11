@@ -560,7 +560,7 @@ iframe {
 /* 404.html page */
 
 #error-div {
-    width: 100vw;
+    width: 100%;
     height: auto;
     display: flex;
     flex-flow: column wrap;
@@ -569,13 +569,14 @@ iframe {
 }
 
 #error-img-div {
-    width: 100px;
+    width: 100%;
     max-width: 300px;
     height: auto;
+    margin-top: 30px;
 }
 
 #error-img {
-    width: 100%;
+    width: 85%;
     height: auto;
 }
 
@@ -958,21 +959,22 @@ footer ul li a:hover {
     /* 404.html page */
 
     #error-img-div {
-        width: 39%;
+        max-width: 120%;
         margin-bottom: 30px;
     }
 
     #error-img {
-        max-width: 130%;
+        width: 60%;
     }
 
     #error-msg-div {
         padding-left: 90px;
         padding-right: 90px;
+        padding-bottom: 7%;
     }
 
     #error-msg {
-        font-size: large;
+        font-size: 140%;
     }
 }
 
