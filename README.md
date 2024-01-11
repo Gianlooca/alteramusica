@@ -121,13 +121,15 @@ I used [Colormind](http://colormind.io/) to try to find other matching colours b
 I chose **Libre Bodoni** for the general paragraphs and **IM Fell DW Pica** for the textual logo, the navbar elements, the buttons and other short texts. Both of them with a serif fallback, to give a general classic and elegant look, and both have been taken from [Google Fonts](https://fonts.google.com/).
 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
-The website consists of five separate pages: 
-- A [Homepage](#homepage) with a sections for News and Sunday Meal Offers
-- A [Records](#records) page with the About Us and Meet the Chef
-- A menu page
-- A image gallery with images and video showcasing the general feel of the restaurant
-- A contact page with a contact form, a map and information about the bussines section
+The website is quite easy to navigate, essential, hence user friendly - even though is aimed at a niche market. 
+It consists of four separate pages:
+
+- a [Homepage](#homepage) with a presentation and a specific linked section "About us";
+- a [Records](#records) page with a list of vinyl records for sale provided with information and audio samples;
+- a [Cassettes](#cassettes) page with a list of audio tapes for sale provided with information and audio samples;
+- a [Wanna sell?](#wanna-sell) page with a form to get in touch with the store, its contacts and a map.
+
+Each page has always the same structure, to avoid confusion and create a bettere UX: a fixed header which contains a navigation bar (with nested elements) and a central clickable textual logo - leading back to the homepage if clicked -; a main area filled with the page content and a footer with social media links.
 
 ### Wireframes
 
