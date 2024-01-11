@@ -82,10 +82,10 @@
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the restaurant is lokated
-2. As a first time user, I want to know the price range
-3. As a first time user, I want to know more about the restaurant
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+1. As a first time user, I want to know quickly what the website is about.
+2. As a first time user, I want to easily understand how to navigate the website.
+3. As a first time user, I want to understand if I am interested in the kind of records/cassettes offered by having audio samples of them.
+4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
 
 #### Returning User
 5. As a returning user, I want to see the Sunday meal offer
