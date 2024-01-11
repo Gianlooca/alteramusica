@@ -123,8 +123,8 @@ Montserrat was used for the body and Roboto for headings. Both fonts are conside
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
 The website consists of five separate pages: 
-- A #### Homepage with a sections for News and Sunday Meal Offers
-- An about page with the About Us and Meet the Chef
+- A [Homepage](#homepage) with a sections for News and Sunday Meal Offers
+- A [Records](#records) page with the About Us and Meet the Chef
 - A menu page
 - A image gallery with images and video showcasing the general feel of the restaurant
 - A contact page with a contact form, a map and information about the bussines section
