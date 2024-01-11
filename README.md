@@ -114,13 +114,11 @@ To reminisce the atmosphere of the classic gloomy second-hand records store I wa
 I used [Colormind](http://colormind.io/) to try to find other matching colours but I preferred avoiding adding: less is more. Furthermore, gold and/or white on a blackish colour provide enough contrast for vision impaired users.<br>
 
 ![Colours used](docs/features/colour-palette-altera-musica.webp)
-
+<br>
 *Colours used with their hexadecimal values*
 
 ### Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
-<br>
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+I chose **Libre Bodoni** for the general paragraphs and **IM Fell DW Pica** for the textual logo, the navbar elements, the buttons and other short texts. Both of them with a serif fallback, to give a general classic and elegant look.
 
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
