@@ -124,10 +124,14 @@ I chose **Libre Bodoni** for the general paragraphs and **IM Fell DW Pica** for 
 The website is quite easy to navigate, essential, hence user friendly - even though is aimed at a niche market. 
 It consists of four separate pages:
 
-- a [Homepage](#homepage) with a presentation and a specific linked section "About us";
-- a [Records](#records) page with a list of vinyl records for sale provided with information and audio samples;
-- a [Cassettes](#cassettes) page with a list of audio tapes for sale provided with information and audio samples;
-- a [Wanna sell?](#wanna-sell) page with a form to get in touch with the store, its contacts and a map.
+#### Homepage
+A landing page with a presentation and a specific linked section "About us";
+#### Records
+A page with a list of vinyl records for sale provided with information and audio samples;
+#### Cassettes
+A page with a list of audio tapes for sale provided with information and audio samples;
+#### Wanna Sell?
+A page with a form to get in touch with the store, its contacts and a map.
 
 Each page has always the same structure, to avoid confusion and create a bettere UX: a fixed header which contains a navigation bar (with nested elements) and a central clickable textual logo - leading back to the homepage if clicked -; a main area filled with the page content and a footer with social media links.
 
