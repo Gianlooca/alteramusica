@@ -84,23 +84,24 @@
 #### First-time User 
 1. As a first time user, I want to know quickly what the website is about.
 2. As a first time user, I want to easily understand how to navigate the website.
-3. As a first time user, I want to understand if I am interested in the kind of records/cassettes offered by having audio samples of them.
+3. As a first time user, I want to understand if I am interested in the products offered by having audio samples of them.
 4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
+7. As a first time user, I want to enjoy the general look of the website.
+6. As a first time user, I want to understand if the website is reliable.
 
 #### Returning User
-5. As a returning user, I want to see the Sunday meal offer
-6. As a returnign user, I want to know the opening times
-7. As a returning user, I want to find a phone number to call for reservation
-8. As a returning user, I want to see the menu
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
-10. As a returning user, I want to find the restaurant on social media
-11. As a returning user, I want to know who is preparing the food
-12. As a returning user, I want to get directions to the restaurant
+1. As a returning user, I want to know where the physical store is located.
+2. As a returning user, I want to find a phone number/email address to get in contact for information.
+3. As a returning user, I want to find new items on the selling pages.
+4. As a returning user, I want to find the store on social media.
+5. As a returning user, I want to interact with the staff to try to sell records/cassettes.
 
 #### Site Owner 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-14. As the site owner, I want users to get to know the restaurant 
-15. As the site owner, I want the users to be able to contact us
+1. As the site owner, I want users to find the general website experience appealing.
+2. As the site owner, I want users to understand swiftly the mission of the company.
+3. As the site owner, I want the users to understand the specific value of the company.
+3. As the site owner, I want to acquire more items to re-sell.
+5. As the site owner, I want the users to be able to contact us.
 
 ## Design
 
