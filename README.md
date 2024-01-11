@@ -1,8 +1,12 @@
 # Altera Musica
 
+(Developer: Gianluca Zimmatore)
+
+## Introduction ##
 **Altera Musica** is an online and physical marketplace for rare and ethnic music in second-hand analog format (vinyl and cassette). Detailed info like pictures of the cover and conditions of the support, price, genre, title, artist - and generic information about both the genre and the specific artist - are provided, as well as an audio preview of them.
 
-(Developer: Gianluca Zimmatore)
+*A foreward is necessary: Altera Musica is not a fully functioning e-commerce. It's possible to create fundamental features like shopping carts or search bars by using just HTML and CSS languages, but that would cause a pretty poor UX; moreover, this trascends the purposes of the actual project (but could surely be the object of future implementations, as specified further on). Plus, due to the exemplifying nature of this work, we added a limited list of items to our [Records](#records) and [Cassettes](#cassettes) pages. For these reasons, when we refer to "returning users", we'll do it in hypothetical terms.*
+
 
 ![Mockup image](docs/am-i-responsive-altera-musica.webp)
 
@@ -22,6 +26,10 @@
     2. [Colour](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
+        1. [Homepage](#homepage)
+        2. [Records](#records)
+        3. [Cassettes](#cassettes)
+        4. [Wanna sell?](#wanna-sell)
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
@@ -35,10 +43,10 @@
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+7. [Bugs](#Bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 ## Project Goals 
 
@@ -115,7 +123,7 @@ Montserrat was used for the body and Roboto for headings. Both fonts are conside
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
 The website consists of five separate pages: 
-- A homepage with a sections for News and Sunday Meal Offers
+- A #### Homepage with a sections for News and Sunday Meal Offers
 - An about page with the About Us and Meet the Chef
 - A menu page
 - A image gallery with images and video showcasing the general feel of the restaurant
