@@ -114,7 +114,8 @@ To reminisce the atmosphere of the classic gloomy second-hand records store I wa
 I used [Colormind](http://colormind.io/) to try to find other matching colours but I preferred avoiding adding: less is more. Furthermore, gold and/or white on a blackish colour provide enough contrast for vision impaired users.<br>
 
 ![Colours used](docs/features/colour-palette-altera-musica.webp)
-*#### Colours used with their hexadecimal values*
+
+*Colours used with their hexadecimal values*
 
 ### Fonts
 Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
