@@ -118,7 +118,7 @@ I used [Colormind](http://colormind.io/) to try to find other matching colours b
 *Colours used with their hexadecimal values.*
 
 ### Fonts
-I chose **Libre Bodoni** for the general paragraphs and **IM Fell DW Pica** for the textual logo, the navbar elements, the buttons and other short texts. Both of them with a serif fallback, to give a general classic and elegant look, and both have been taken by ![Google Fonts](https://fonts.google.com/).
+I chose **Libre Bodoni** for the general paragraphs and **IM Fell DW Pica** for the textual logo, the navbar elements, the buttons and other short texts. Both of them with a serif fallback, to give a general classic and elegant look, and both have been taken by [Google Fonts](https://fonts.google.com/).
 
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
