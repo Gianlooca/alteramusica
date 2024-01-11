@@ -633,8 +633,8 @@ footer ul li a:hover {
     transition: color 0.5s;
     background-color: #1e1916;
     background-size: contain;
-    padding: 5px;
-    border-radius: 2px;
+    padding: 1px 10px 1px 10px;
+    border-radius: 4px;
     box-sizing: initial;
 }
 
