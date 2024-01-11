@@ -86,7 +86,7 @@
 2. As a first time user, I want to easily understand how to navigate the website.
 3. As a first time user, I want to understand if I am interested in the products offered by having audio samples of them.
 4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
-7. As a first time user, I want to enjoy the general look of the website.
+5. As a first time user, I want to enjoy the general look of the website.
 6. As a first time user, I want to understand if the website is reliable.
 
 #### Returning User
@@ -100,8 +100,9 @@
 1. As the site owner, I want users to find the general website experience appealing.
 2. As the site owner, I want users to understand swiftly the mission of the company.
 3. As the site owner, I want the users to understand the specific value of the company.
-3. As the site owner, I want to acquire more items to re-sell.
-5. As the site owner, I want the users to be able to contact us.
+4. As the site owner, I want to spread the value of analog music collecting.
+5. As the site owner, I want to acquire more items to re-sell.
+6. As the site owner, I want the users to be able to contact us.
 
 ## Design
 
