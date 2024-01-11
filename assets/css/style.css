@@ -631,7 +631,8 @@ footer {
 footer ul li a:hover {
     color: gold;
     transition: color 0.5s;
-    background-color: #688f9e;
+    background-color: #1e1916;
+    background-size: contain;
     padding: 5px;
     border-radius: 2px;
     box-sizing: initial;
@@ -676,7 +677,7 @@ footer ul li a:hover {
     }
 
     nav ul li a:hover {
-        color: #688f9e;
+        color: #1e1916;
         transition: color 0.5s;
         background-color: gold;
         padding: 1px;
