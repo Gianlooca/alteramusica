@@ -107,8 +107,8 @@
 ## Design
 
 ### Design Choices
-The webpage was designed with the feeling a customer might get while dining at the restaurant. It is calm, warm and inviting. 
-Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
+The website has been designed choosing a minimal style, clear (even if verging on dark) and user friendly. The overall impression is vintage, not similar to contemporary webpages, yet styled (and not looking like rudimentary pages from the '90s, for instance).
+Borders - when present - are neat and light, corners are slightly radiused, pages are not packed with unnecessary stuff.
 
 ### Colour
 For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
