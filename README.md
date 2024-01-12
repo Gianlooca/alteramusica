@@ -296,6 +296,7 @@ The page consists of four pages and nine general features:
 ### [Records](#records)
 - It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
+- the page is responsive according to the dimensions of the screen is displayed on;
 - For each record, we have a structure formed as follows:
     1. the album cover;
     2. the artist/band name;
@@ -307,9 +308,19 @@ The page consists of four pages and nine general features:
     8. the country of production;
     9. the kind of format.
 This structure is identical in the [Cassettes](#cassettes) page;
-- to explain better the acronyms related to the support conditions (that may be obscure to the majority of users) I highlighted them as a link: if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
+- to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a link: if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
+- it has a "More about this" sub-section which is basically a dropdown menu containing additional information about the record in question and its band/artist;
+- it is possible to listen to a short extract (with no autoplay) from the record;
+- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
-![About Us](docs/features/feature-about-us.jpg)
+##### Smartphone Version
+![Records](docs/features/record-smartphone.webp)
+
+##### Tablet Version
+![Records](docs/features/record-tablet.webp)
+
+##### Desktop Version
+![Record](docs/features/records-desktop.webp)
 
 ### Customer reviews
 - Features a few reviews left by the restaurants customers on social media
