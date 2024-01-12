@@ -145,20 +145,18 @@ I used [Balsamiq](https://balsamiq.com/) to sketch the wireframes and start havi
 
 Below, a showcase of the desktop version of the pages with a sample ([Homepage](#homepage) and [Records](#records) pages) for the smartpone and tablet versions.
 
-<details><summary>Home</summary>
-<img src="docs/wireframes/wireframes-homepage.png">
+#### Desktop version
+<details><summary>Homepage</summary>
+<img src="docs/wireframes/home-desktop.webp">
 </details>
-<details><summary>About</summary>
-<img src="docs/wireframes/wireframes-about.png">
+<details><summary>Records</summary>
+<img src="docs/wireframes/record-desktop.webp">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/wireframes/wireframes-menu.png">
+<details><summary>Cassettes</summary>
+<img src="docs/wireframes/cassette-desktop.webp">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframes-gallery.png">
-</details>
-<details><summary>Contact</summary>
-<img src="docs/wireframes/wireframes-contact.png">
+<details><summary>Wanna sell?</summary>
+<img src="docs/wireframes/wanna-sell-desktop.webp">
 </details>
 
 ## Technologies Used
