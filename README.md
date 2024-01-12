@@ -214,14 +214,23 @@ The page consists of four pages and nine general features:
 ##### Desktop Version
 ![Logo and navbar](docs/features/navbar-desktop-plain.webp)
 
-##### Desktop hovered version
+##### Desktop Hovered Version
 ![Logo and navbar](docs/features/navbar-desktop-hover.webp)
 
-### Carousel
-- Introduces the user to the restaurant with a small three picture slide show
-- Options for the user to navigate the slide show via back and forward arrows or indicators at the bottom
+### Introductive Text
+- Catches the reader's attention with a partially unclear pun about records;
+- introduces the user to what the company is about;
+- lets the users understand abruptly what kind of music they should expect to find on this marketplace;
+- it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
 
-![Carousel](docs/features/feature-carousel.jpg)
+##### Smartphone Version
+![Introduction](docs/features/intro-smartphone.webp)
+
+##### Tablet Version
+![Introduction](docs/features/intro-tablet.webp)
+
+##### Desktop Version
+![Introduction](docs/features/intro-desktop.webp)
 
 ### News
 - Allowes the user to see upcoming events or any news about the restaurant
