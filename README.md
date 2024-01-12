@@ -292,9 +292,9 @@ The page consists of four pages and nine general features:
 <br>
 <br>
 
-### About Us
-- Gives a description of the restaurant and its facilities with a image of the front of the building on the right side
-- User stories covered: 3, 14
+### [Records](#records)
+- It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
+- It contains the records currently for sale.
 
 ![About Us](docs/features/feature-about-us.jpg)
 
