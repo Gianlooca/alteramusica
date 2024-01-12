@@ -242,7 +242,7 @@ The page consists of four pages and nine general features:
 - catches the reader's attention with a partially unclear pun about records;
 - introduces the user to what the company is about;
 - lets the users understand abruptly what kind of music they should expect to find on this marketplace;
-- it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
+- it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over - this will happen to all the `h2` on the website) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
 
 ##### Smartphone Version
 ![Introduction](docs/features/intro-smartphone.webp)
@@ -268,11 +268,14 @@ The page consists of four pages and nine general features:
 <br>
 <br>
 
-### Meal-deal
-- Allowes users to see what meal-deal is available for the upcoming Sunday
-- User stories covered: 5
+### About us
+- A block of more detailed information about the company and its vision;
+- When the name "Altera Musica" appears, it's with gold colour letters, to stand out.
 
-![Meal-deal](docs/features/feature-meal-deal.jpg)
+![About us](docs/features/about.webp)
+<br>
+<br>
+
 
 ### Footer
 - Featured on all five pages
