@@ -210,6 +210,7 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 - [Font Awsome](https://fontawesome.com/)
 - [Am I Responsive?](https://ui.dev/amiresponsive)
 - [Favicon](https://favicon.io/)
+- [Flaticon](https://www.flaticon.com/)
 - [Snipping Tool](https://apps.microsoft.com/detail/9MZ95KL8MR0L?hl=en-US&gl=US)
 - [YouTube](https://www.youtube.com/)
 - [noTube](https://notube.im/it/youtube-app-v135)
