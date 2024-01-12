@@ -42,7 +42,7 @@
     3. [Gallery](#gallery)
     4. [About Us](#about-us)
     5. [Footer](#footer)
-    6. [Records](#records)
+    6. [Records Page](#records-page)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
