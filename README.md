@@ -236,6 +236,9 @@ The page consists of four pages and nine general features:
 ##### Desktop Hovered Version
 ![Logo and navbar](docs/features/navbar-desktop-hover.webp)
 <br>
+*Here, for example, the "Records" link is hovered over.*
+
+<br>
 <br>
 
 ### Introductive Text
@@ -286,9 +289,6 @@ The page consists of four pages and nine general features:
 
 ##### Desktop Version
 ![Footer](docs/features/footer-plain.webp)
-
-##### Desktop Hovered Version
-![Footer](docs/features/footer-hover.webp)
 <br>
 <br>
 
