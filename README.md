@@ -242,7 +242,9 @@ The page consists of four pages and nine general features:
 ![Gallery](docs/features/gallery-smartphone.webp)
 
 ##### Desktop Version
-![Gallery](docs/features/gallery-larger.webp)<br>
+![Gallery](docs/features/gallery-larger.webp)
+
+
 
 ### Meal-deal
 - Allowes users to see what meal-deal is available for the upcoming Sunday
