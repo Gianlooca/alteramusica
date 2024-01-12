@@ -131,7 +131,7 @@ A page with a list of vinyl records for sale provided with information and audio
 #### Cassettes
 A page with a list of audio tapes for sale provided with information and audio samples;
 #### Wanna Sell?
-A page with a form to get in touch with the store, its contacts and a map.
+A page with a form for interested sellers to get in touch with the store, its contacts and a map.
 
 Each page has always the same structure, to avoid confusion and create a bettere UX: a fixed header which contains a navigation bar (with nested elements) and a central clickable textual logo - leading back to the homepage if clicked -; a main area filled with the page content and a footer with social media links.
 
