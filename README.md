@@ -243,9 +243,9 @@ The page consists of four pages and nine general features:
 
 ##### Desktop Version
 ![Gallery](docs/features/gallery-larger.webp)
-
-
-
+<br>
+<br>
+<br>
 ### Meal-deal
 - Allowes users to see what meal-deal is available for the upcoming Sunday
 - User stories covered: 5
