@@ -218,7 +218,8 @@ The page consists of four pages and nine general features:
 ![Logo and navbar](docs/features/navbar-desktop-hover.webp)
 
 ### Introductive Text
-- Catches the reader's attention with a partially unclear pun about records;
+- Featured only in the homepage;
+- catches the reader's attention with a partially unclear pun about records;
 - introduces the user to what the company is about;
 - lets the users understand abruptly what kind of music they should expect to find on this marketplace;
 - it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
@@ -232,11 +233,16 @@ The page consists of four pages and nine general features:
 ##### Desktop Version
 ![Introduction](docs/features/intro-desktop.webp)
 
-### News
-- Allowes the user to see upcoming events or any news about the restaurant
-- User stories covered: 13
+### Gallery
+- Allowes the user to have (once again) a visual "mini safari" of the records and cassettes it's possible to find in this marketplace;
+- it's displayed with a fade-in effect, especially visible on small and medium screens;
+- in small screens, the images are displayed in single-item column; in larger screens, they show up paired.
 
-![News](docs/features/feature-news.jpg)
+##### Smartphone Version
+![Gallery](docs/features/gallery-smartphone.webp)
+
+##### Desktop Version
+![Gallery](docs/features/gallery-larger.webp)
 
 ### Meal-deal
 - Allowes users to see what meal-deal is available for the upcoming Sunday
