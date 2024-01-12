@@ -297,15 +297,17 @@ The page consists of four pages and nine general features:
 - It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
 - For each record, we have a structure formed as follows:
-1. the album cover;
-2. the artist/band name;
-3. the year or release;
-4. the album name;
-5. the support and cover conditions;
-6. the genre;
-7. the price;
-8. the country of production;
-9. the kind of format.
+    1. the album cover;
+    2. the artist/band name;
+    3. the year or release;
+    4. the album name;
+    5. the support and cover conditions;
+    6. the genre;
+    7. the price;
+    8. the country of production;
+    9. the kind of format.
+This structure is identical in the [Cassettes](#cassettes) page;
+- to explain better the acronyms related to the support conditions (that may be obscure to the majority of users) I highlighted them as a link: if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
 
 ![About Us](docs/features/feature-about-us.jpg)
 
