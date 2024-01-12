@@ -243,7 +243,7 @@ but the last one who has no margin-bottom */
     padding-bottom: 4vw;
     padding-right: 2vw;
     text-align: justify;
-    align-items: center;
+    align-items: flex-start;
     background-color: #1e1916;
     font-size: 85%;
 }
