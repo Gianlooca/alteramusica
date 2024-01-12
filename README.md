@@ -160,17 +160,21 @@ Each page has always the same structure, to avoid confusion and create a bettere
 - CSS
 
 ### Frameworks & Tools
-- Bootstrap v5.0
-- Git
-- GitHub
-- Gitpod
-- Tinypng
-- Paint<span>.</span>NET
-- Balsamiq
-- Google Fonts
-- Adobe Color
-- Font Awsome
-- Favicon<span>.</span>io
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Gitpod](https://gitpod.io/)
+- [Tinypng](https://tinypng.com/)
+- [Free Convert](https://www.freeconvert.com/)
+- [Clideo](https://clideo.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Colormind](http://colormind.io/)
+- [Font Awsome](https://fontawesome.com/)
+- [Am I Responsive?](https://ui.dev/amiresponsive)
+- [Favicon](https://favicon.io/)
+- [Snipping Tool](https://apps.microsoft.com/detail/9MZ95KL8MR0L?hl=en-US&gl=US)
+- [YouTube](https://www.youtube.com/)
+- [noTube](https://notube.im/it/youtube-app-v135)
 
 ## Features
 The page consists of five pages and fourteen features
