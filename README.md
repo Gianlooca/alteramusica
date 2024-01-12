@@ -320,7 +320,10 @@ This structure is identical in the [Cassettes](#cassettes) page;
 ![Records](docs/features/record-tablet.webp)
 
 ##### Desktop Version
-![Record](docs/features/records-desktop.webp)
+![Records](docs/features/records-desktop.webp)
+
+##### Footnote Reference About Records Grading
+![Records](docs/features/record-footnote.png)
 
 ### Customer reviews
 - Features a few reviews left by the restaurants customers on social media
