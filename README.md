@@ -142,6 +142,7 @@ I used [Balsamiq](https://balsamiq.com/) to sketch the wireframes and start havi
 - the absence of a hero image, that would have surely clashed with the background image in the header;
 - the placement of the "About us" section, at the bottom of the landing page;
 - the removal of the "Come visit!" page, merged with the [Wanna sell?](#wanna-sell) page.
+
 Below, a showcase of the desktop version of the pages with a sample ([Homepage](#homepage) and [Records](#records) pages) for the smartpone and tablet versions.
 
 <details><summary>Home</summary>
