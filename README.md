@@ -299,7 +299,7 @@ The page consists of four pages and nine general features:
 <br>
 <br>
 
-### [Records Page](#records-page)
+### Records Page
 - It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
 - the page is responsive according to the dimensions of the screen is displayed on;
@@ -314,7 +314,7 @@ The page consists of four pages and nine general features:
     8. the country of production;
     9. the kind of format.
 This structure is identical in the [Cassettes](#cassettes) page;
-- to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a link: if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
+- to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
 - it has a "More about this" sub-section which is basically a dropdown menu containing additional information about the record in question and its band/artist;
 - it is possible to listen to a short extract (with no autoplay) from the record;
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
@@ -330,10 +330,28 @@ This structure is identical in the [Cassettes](#cassettes) page;
 
 ##### Footnote Reference About Records Grading
 ![Records](docs/features/record-footnote.png)
+<br>
+<br>
 
-### Customer reviews
-- Features a few reviews left by the restaurants customers on social media
-- User stories covered: 3
+### Cassettes Page
+- It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of cassette tapes;
+- It contains the cassettes currently for sale.
+- the page is responsive according to the dimensions of the screen is displayed on;
+- For each cassette, we have a structure formed as follows:
+    1. the album cover;
+    2. the artist/band name;
+    3. the year or release;
+    4. the album name;
+    5. the support and cover conditions;
+    6. the genre;
+    7. the price;
+    8. the country of production;
+    9. the kind of format.
+This structure is identical in the [Records](#records) page;
+- to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
+- it has a "More about this" sub-section which is basically a dropdown menu containing additional information about the cassette in question and its band/artist;
+- it is possible to listen to a short extract (with no autoplay) from the cassette;
+- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 ![Reviews](docs/features/feature-reviews.jpg)
 
