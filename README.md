@@ -10,6 +10,9 @@
 ![Mockup image](docs/am-i-responsive-altera-musica.webp)
 
 [Live webpage](https://gianlooca.github.io/alteramusica/)
+<br>
+<br>
+<br>
 
 ## Table of Content
 
@@ -46,6 +49,9 @@
 8. [Deployment](#deployment)
 9. [Credits](#credits)
 10. [Acknowledgements](#acknowledgements)
+<br>
+<br>
+<br>
 
 ## Project Goals 
 
@@ -62,6 +68,9 @@
 - Providing a way for new and existing buyers to contact the business.
 - Providing a way for new and existing sellers to contact the business.
 - Providing essential information about the business to customers.
+<br>
+<br>
+<br>
 
 ## User Experience
 
@@ -102,6 +111,9 @@
 4. As the site owner, I want to spread the value of analog music collecting.
 5. As the site owner, I want to acquire more items to re-sell.
 6. As the site owner, I want the users to be able to contact us.
+<br>
+<br>
+<br>
 
 ## Design
 
@@ -175,6 +187,9 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 <details><summary>Records</summary>
 <img src="docs/wireframes/record-smartphone.webp">
 </details>
+<br>
+<br>
+<br>
 
 ## Technologies Used
 
@@ -198,6 +213,9 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 - [Snipping Tool](https://apps.microsoft.com/detail/9MZ95KL8MR0L?hl=en-US&gl=US)
 - [YouTube](https://www.youtube.com/)
 - [noTube](https://notube.im/it/youtube-app-v135)
+<br>
+<br>
+<br>
 
 ## Features
 The page consists of four pages and nine general features:
@@ -216,6 +234,8 @@ The page consists of four pages and nine general features:
 
 ##### Desktop Hovered Version
 ![Logo and navbar](docs/features/navbar-desktop-hover.webp)
+<br>
+<br>
 
 ### Introductive Text
 - Featured only in the homepage;
@@ -232,6 +252,8 @@ The page consists of four pages and nine general features:
 
 ##### Desktop Version
 ![Introduction](docs/features/intro-desktop.webp)
+<br>
+<br>
 
 ### Gallery
 - Allowes the user to have (once again) a visual "mini safari" of the records and cassettes it's possible to find in this marketplace;
@@ -245,7 +267,7 @@ The page consists of four pages and nine general features:
 ![Gallery](docs/features/gallery-larger.webp)
 <br>
 <br>
-<br>
+
 ### Meal-deal
 - Allowes users to see what meal-deal is available for the upcoming Sunday
 - User stories covered: 5
