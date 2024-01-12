@@ -136,6 +136,13 @@ A page with a form for interested sellers to get in touch with the store, its co
 Each page has always the same structure, to avoid confusion and create a bettere UX: a fixed header which contains a navigation bar (with nested elements) and a central clickable textual logo - leading back to the homepage if clicked -; a main area filled with the page content and a footer with social media links.
 
 ### Wireframes
+I used [Balsamiq](https://balsamiq.com/) to sketch the wireframes and start having a general idea of how the website would have looked like. Of course there have been deviations from the original ideas, such as:
+- the central logo on the header; its dimensions and general look;
+- the absence of the burger icon in the header for small screens;
+- the absence of a hero image, that would have surely clashed with the background image in the header;
+- the placement of the "About us" section, at the bottom of the landing page;
+- the removal of the "Come visit!" page, merged with the [Wanna sell?](#wanna-sell) page.
+Below, a showcase of the desktop version of the pages with a sample ([Homepage](#homepage) and [Records](#records) pages) for the smartpone and tablet versions.
 
 <details><summary>Home</summary>
 <img src="docs/wireframes/wireframes-homepage.png">
@@ -177,7 +184,7 @@ Each page has always the same structure, to avoid confusion and create a bettere
 - [noTube](https://notube.im/it/youtube-app-v135)
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of four pages and fourteen features
 
 ### Logo and Navigation Bar
 - Featured on all five pages
