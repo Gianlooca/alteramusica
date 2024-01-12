@@ -224,7 +224,8 @@ The page consists of four pages and nine general features:
 - Featured on all four pages;
 - the navigation bar is fully responsive; the display of its elements changes on screens larger than 443 pixels and includes links to the [Records](#records) page, the [Cassettes](#cassettes) page, the [Wanna Sell?](#wanna-sell) page, as well as to the "About us" - which is a section of the landing page you can be redirected to - and, of course, to the [Homepage](#homepage), whose link is the central "Altera Musica" inscription itself. A part from the "Altera Musica" logo, all the other elements invert their color and background colors when hovered over, for visual impaired people;
 - it allows users to easily navigate the page, since it's fixed;
-- it shows an evocative background image of a horizontal stack of records.
+- it shows an evocative background image of a horizontal stack of records;
+- it has a thin golden bottom border to visually separate it from the main content;
 
 ##### Smartphone Version
 ![Logo and navbar](docs/features/navbar-smartphone-plain.png)
@@ -238,8 +239,7 @@ The page consists of four pages and nine general features:
 <br>
 
 ### Introductive Text
-- Featured only in the homepage;
-- catches the reader's attention with a partially unclear pun about records;
+- Catches the reader's attention with a partially unclear pun about records;
 - introduces the user to what the company is about;
 - lets the users understand abruptly what kind of music they should expect to find on this marketplace;
 - it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over - this will happen to all the `h2` on the website) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
@@ -270,19 +270,27 @@ The page consists of four pages and nine general features:
 
 ### About us
 - A block of more detailed information about the company and its vision;
-- When the name "Altera Musica" appears, it's with gold colour letters, to stand out.
+- when the name "Altera Musica" appears, it's with gold colour letters, to stand out.
 
 ![About us](docs/features/about.webp)
 <br>
 <br>
 
-
 ### Footer
-- Featured on all five pages
-- Consists of three seperate sections: contact information, opening times, and social media links
-- User stories covered: 1, 6, 7, 10, 15
+- Featured on all four pages;
+- it's not fixed but sticky;
+- it has a thin golden top border to visually separate it from the main content;
+- it shows the same background image of the header, where the navigation bar is, in order to give a sense of stability to the user;
+- it contains the copyright information and the links to the Facebook, Instagram, YouTube and Tweeter pages of Altera Musica;
+- when hovered over, these icon-links behave like the elements on the navigation bar, inverting their colours.
 
-![Footer](docs/features/feature-footer.jpg)
+##### Desktop Version
+![Footer](docs/features/footer-plain.webp)
+
+##### Desktop Hovered Version
+![Footer](docs/features/footer-hover.webp)
+<br>
+<br>
 
 ### About Us
 - Gives a description of the restaurant and its facilities with a image of the front of the building on the right side
