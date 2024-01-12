@@ -208,7 +208,14 @@ The page consists of four pages and nine general features:
 - it allows users to easily navigate the page, since it's fixed;
 - it shows an evocative background image of a horizontal stack of records.
 
+##### Smartphone Version
+![Logo and navbar](docs/features/navbar-smartphone-plain.png)
+
+##### Desktop Version
 ![Logo and navbar](docs/features/navbar-desktop-plain.webp)
+
+##### Desktop hovered version
+![Logo and navbar](docs/features/navbar-desktop-hover.webp)
 
 ### Carousel
 - Introduces the user to the restaurant with a small three picture slide show
