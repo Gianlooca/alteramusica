@@ -299,7 +299,7 @@ The page consists of four pages and nine general features:
 <br>
 <br>
 
-### [Records](#records)
+### [Records Page](#records-page)
 - It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
 - the page is responsive according to the dimensions of the screen is displayed on;
