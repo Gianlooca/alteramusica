@@ -296,6 +296,16 @@ The page consists of four pages and nine general features:
 ### [Records](#records)
 - It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
+- For each record, we have a structure formed as follows:
+1. the album cover;
+2. the artist/band name;
+3. the year or release;
+4. the album name;
+5. the support and cover conditions;
+6. the genre;
+7. the price;
+8. the country of production;
+9. the kind of format.
 
 ![About Us](docs/features/feature-about-us.jpg)
 
