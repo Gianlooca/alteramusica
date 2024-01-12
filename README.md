@@ -200,16 +200,15 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 - [noTube](https://notube.im/it/youtube-app-v135)
 
 ## Features
-The page consists of four pages and fourteen features
+The page consists of four pages and nine general features:
 
 ### Logo and Navigation Bar
-- Featured on all five pages
-- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
-links to the Homepage, About page, Menu page, Gallery and Contact us page
-- It allows users to easily navigate the page
-- The link for the page the user is currently on is highlighted 
+- Featured on all four pages;
+- the navigation bar is fully responsive; the display of its elements changes on screens larger than 443 pixels and includes links to the [Records](#records) page, the [Cassettes](#cassettes) page, the [Wanna Sell?](#wanna-sell) page, as well as to the "About us" - which is a section of the landing page you can be redirected to - and, of course, to the [Homepage](#homepage), whose link is the central "Altera Musica" inscription itself. A part from the "Altera Musica" logo, all the other elements invert their color and background colors when hovered over, for visual impaired people;
+- it allows users to easily navigate the page, since it's fixed;
+- it shows an evocative background image of a horizontal stack of records.
 
-![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
+![Logo and navbar](docs/features/navbar-desktop-plain.webp)
 
 ### Carousel
 - Introduces the user to the restaurant with a small three picture slide show
