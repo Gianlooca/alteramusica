@@ -237,10 +237,10 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 ![Logo and navbar](docs/features/navbar-smart.png)
 
 ##### Desktop Version
-![Logo and navbar](docs/features/navbar-desktop-plain.webp)
+![Logo and navbar](docs/features/navbar-desktop-plain.png)
 
 ##### Desktop Hovered Version
-![Logo and navbar](docs/features/navbar-desktop-hover.webp)
+![Logo and navbar](docs/features/navbar-desktop-hover.png)
 <br>
 *Here, for example, the "Records" link is hovered over.*
 
