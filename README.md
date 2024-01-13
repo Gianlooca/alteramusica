@@ -518,6 +518,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-three.png">
 <img src="docs/user-story-testing/user-story-three-bis.png">
 </details>
+<br>
 
 4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
 
@@ -532,6 +533,7 @@ The website was tested on the following browsers:
 
 *Both features are present on either Records and Cassettes pages. It is redundant to provide more screenshots.*
 </details>
+<br>
 
 5. As a returning user, I want to see the Sunday meal offer
 
