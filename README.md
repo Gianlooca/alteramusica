@@ -493,8 +493,8 @@ The website was tested on the following browsers:
 | About Us | On any page click/tap on "About Us" in the navbar | Read detailed information about the website | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
-<img src="docs/user-story-testing/user-story-1v2.jpg">
+<img src="docs/user-story-testing/user-story-1.png">
+<img src="docs/user-story-testing/user-story-1-bis.png">
 </details>
 
 2. As a first time user, I want to know the price range
