@@ -448,7 +448,7 @@ audio {
 #signup-form {
     color: gold;
     text-transform: capitalize;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(30, 25, 22, 0.8);
     max-width: 350px;
     padding: 20px 3% 20px 3%;
     display: flex;
@@ -539,7 +539,7 @@ audio {
     align-items: center;
     align-self: center;
     justify-content: center;
-    background-color: #1e1916;
+    background-color: rgba(30, 25, 22, 0.8);
     flex-wrap: wrap;
     flex-direction: column;
 }
