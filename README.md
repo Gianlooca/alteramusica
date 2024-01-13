@@ -234,7 +234,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it has a thin golden bottom border to visually separate it from the main content;
 
 ##### Smartphone Version
-![Logo and navbar](docs/features/navbar-smartphone-plain.png)
+![Logo and navbar](docs/features/navbar-smart.png)
 
 ##### Desktop Version
 ![Logo and navbar](docs/features/navbar-desktop-plain.webp)
@@ -463,6 +463,7 @@ The website was tested on the following devices:
 - HP Laptop 15s-eq0xxx;
 - Oppo A52;
 - iPhone 13pro;
+- Realme RMX3630.
 
 in addition, the website has been tested using Google Chrome DevTools (and its similar device on Microsoft Edge) for all available device options.
 <br>
