@@ -352,13 +352,13 @@ This structure is identical in the [Records](#records) page. These informations 
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 ##### Smartphone Version
-![Cassettes](docs/features/cassette-smartphone.webp)
+![Cassettes](docs/features/cassette-smartphone.png)
 
 ##### Tablet Version
-![Cassettes](docs/features/cassette-tablet.webp)
+![Cassettes](docs/features/cassette-tablet.png)
 
 ##### Desktop Version
-![Cassettes](docs/features/cassette-desktop.webp)
+![Cassettes](docs/features/cassette-desktop.png)
 <br>
 <br>
 
