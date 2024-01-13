@@ -370,47 +370,17 @@ This structure is identical in the [Records](#records) page. These informations 
     1. a full functioning Sign-Up form (with required and non-required information) to fill in for users interested in selling;
     2. a "Come to visit" frame which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
     3. a map, at the bottom of the page, that shows the exact position of the store.
-- Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company.
+- Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company;
+- the page is responsive and displays all its features differently depending on the screen dimensions.
 
-![Meet the Chef](docs/features/feature-meet-the-chef.jpg)
+##### Smaller Screens Version
+![Wanna Sell Page](docs/features/wanna-sell-smaller.webp)
 
-### Menu 
-- Gives an overview of the menu in five sections: starters, main meals, kids meals, dessers, and wine.
-- Each section of the menu is accompanied with an image of one of the items form the menu
-- Features pricing
-- User stories covered: 2, 8
-
-![Menu](docs/features/feature-menu.jpg)
-
-### Image Gallery
-- Imagery of the restaurant arranged in a grid
-- User stories covered: 4
-
-![Gallery](docs/features/feature-gallery.jpg)
-
-### Promo Video
-- A YouTube video to promote the restaurant 
-- User stories covered: 4
-
-![Video](docs/features/feature-video.jpg)
-
-### Contact Form
-- A way for user to provide feedback
-- User stories covered: 9, 15
-
-![Contact Form](docs/features/feature-contact-form.jpg)
-
-### Map
-- Shows the restaurant location on an embeded Google Map
-- User stories covered: 1, 12
-
-![Map](docs/features/feature-map.jpg)
-
-### Info Box
-- Provides the user with information about the restaurant including addres, phone number, email, and the name of the owner
-- User stories covered: 7, 15
-
-![Info Box](docs/features/feature-info-box.jpg)
+##### Desktop Version
+![Wanna Sell Page](docs/features/wanna-sell-desktop.webp)
+<br>
+<br>
+<br>
 
 ## Validation
 
