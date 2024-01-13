@@ -97,7 +97,7 @@
 #### First-time User 
 1. As a first time user, I want to know quickly what the website is about.
 2. As a first time user, I want to easily understand how to navigate the website.
-3. As a first time user, I want to understand if I am interested in the products offered by having audio samples of them.
+3. As a first time user, I want to understand if I am interested in the products offered.
 4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
 5. As a first time user, I want to enjoy the general look of the website.
 6. As a first time user, I want to understand if the website is reliable.
@@ -509,15 +509,16 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-3. As a first time user, I want to know more about the restaurant
+3. As a first time user, I want to understand if I am interested in the products offered.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to the About page and locate the About Us section | Find description of the restaurant | Works as expected |
-| Customer reviews | Navigate to the About page, scroll down to What our guests say section | Read customer reviews | Works as expected | 
+| Records Page | Navigate to the Records page and locate the list of records | Watch them, read the information and understand | Works as expected |
+| Cassettes Page | Navigate to the Cassettes page and locate the list of cassettes | Watch them, read the information and understand | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
+<img src="docs/user-story-testing/user-story-three.png">
+<img src="docs/user-story-testing/user-story-three-bis.png">
 </details>
 
 4. As a first time user, I want to get a feel of what to expect at the restaurant
