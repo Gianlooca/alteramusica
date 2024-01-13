@@ -493,18 +493,18 @@ The website was tested on the following browsers:
 | About Us | On any page click/tap on "About Us" in the navbar | Read detailed information about the website | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1.png">
-<img src="docs/user-story-testing/user-story-1-bis.png">
+<img src="docs/user-story-testing/user-story-one.png">
+<img src="docs/user-story-testing/user-story-one-bis.png">
 </details>
 
-2. As a first time user, I want to know the price range
+2. As a first time user, I want to easily understand how to navigate the website.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the Menu page | See prices on menu page | Works as expected |
+| Logo and Navigation Bar | Look and click/tap on the elements | Have a quick knowledge of the pages | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-2.jpg">
+<img src="docs/user-story-testing/user-story-two.png">
 </details>
 
 3. As a first time user, I want to know more about the restaurant
