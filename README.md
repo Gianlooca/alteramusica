@@ -454,8 +454,7 @@ Google Lighthouse in Microsoft Edge Developer Tools was used to test performance
 
 ![General Lighthouse Overview](docs/validation/lighthouse-general.png)
 
-- always in the Records and Cassettes pages, the SEO parameters got worse after I set an aria-label attribute to the footnote link above-mentioned (as indicated on [this page of the Web Accessibility Initiative](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8.html) of the [W3C](https://www.w3.org/)); as it can be seen, not it's 90, before was 100 - and this for me it's unexplainable.
-<br>
+- always in the Records and Cassettes pages, the SEO parameters got worse after I set an aria-label attribute to the footnote link above-mentioned (as indicated on [this page of the Web Accessibility Initiative](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8.html) of the [W3C](https://www.w3.org/)); as it can be seen, now it's 90, before was 100 - and this for me it's unexplainable.
 <br>
 <br>
 
