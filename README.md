@@ -385,23 +385,13 @@ This structure is identical in the [Records](#records) page. These informations 
 ## Validation
 
 ### HTML Validation
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages have been validated (both by URI and text input) with no errors and no warnings to show.<br>
-*Afterwards, we'll show just the screenshots of URI validations, for the sake of brevity.*
-<details><summary>Homepage</summary>
-<img src="docs/validation/validation-html-index.jpg">
-</details>
-<details><summary>Records</summary>
-<img src="docs/validation/validation-html-about.jpg">
-</details>
-<details><summary>Cassettes</summary>
-<img src="docs/validation/validation-html-menu.jpg">
-</details>
-<details><summary>Wanna Sell?</summary>
-<img src="docs/validation/validation-html-gallery.jpg">
-</details>
-<details><summary>404</summary>
-<img src="docs/validation/validation-html-contact.jpg">
-</details>
+The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML of the website. All pages have been validated (both by URI and text input) with no errors and no warnings to show.<br>
+*Afterwards, we'll show just the link of URI validations, for the sake of brevity.*<br>
+
+[Homepage](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Findex.html)
+
+[Records](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Frecords.html)
+
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
