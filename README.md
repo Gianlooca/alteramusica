@@ -385,20 +385,21 @@ This structure is identical in the [Records](#records) page. These informations 
 ## Validation
 
 ### HTML Validation
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
-<details><summary>Home</summary>
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages have been validated (both by URI and text input) with no errors and no warnings to show.<br>
+*Afterwards, we'll show just the screenshots of URI validations, for the sake of brevity.*
+<details><summary>Homepage</summary>
 <img src="docs/validation/validation-html-index.jpg">
 </details>
-<details><summary>About</summary>
+<details><summary>Records</summary>
 <img src="docs/validation/validation-html-about.jpg">
 </details>
-<details><summary>Menu</summary>
+<details><summary>Cassettes</summary>
 <img src="docs/validation/validation-html-menu.jpg">
 </details>
-<details><summary>Gallery</summary>
+<details><summary>Wanna Sell?</summary>
 <img src="docs/validation/validation-html-gallery.jpg">
 </details>
-<details><summary>Home</summary>
+<details><summary>404</summary>
 <img src="docs/validation/validation-html-contact.jpg">
 </details>
 
