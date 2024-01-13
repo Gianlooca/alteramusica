@@ -460,17 +460,21 @@ Google Lighthouse in Microsoft Edge Developer Tools was used to test performance
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
-- Lenovo Yoga 2 Pro (both in pc and tablet mode)
-- Honor 20 pro
-- Xiaomi Redmi Note 7
+- HP Laptop 15s-eq0xxx;
+- Oppo A52;
+- iPhone 13pro;
 
-In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+in addition, the website has been tested using Google Chrome DevTools (and its similar device on Microsoft Edge) for all available device options.
+<br>
+<br>
 
-### Browser compatability
+### Browser compatibility
 The website was tested on the following browsers:
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Egde
+- Google Chrome;
+- Mozilla Firefox;
+- Microsoft Egde.
+<br>
+<br>
 
 ### Testing user stories
 
