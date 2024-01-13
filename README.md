@@ -169,7 +169,7 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 <img src="docs/wireframes/home-desktop.png">
 </details>
 <details><summary>Records</summary>
-<img src="docs/wireframes/record-desktop.png">
+<img src="docs/wireframes/records-desktop.jpg">
 </details>
 <details><summary>Cassettes</summary>
 <img src="docs/wireframes/cassette-desktop.png">
