@@ -257,10 +257,10 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 ![Introduction](docs/features/intro-smartphone.png)
 
 ##### Tablet Version
-![Introduction](docs/features/intro-tablet.webp)
+![Introduction](docs/features/intro-tablet.png)
 
 ##### Desktop Version
-![Introduction](docs/features/intro-desktop.webp)
+![Introduction](docs/features/intro-desktop.png)
 <br>
 <br>
 
@@ -462,8 +462,10 @@ Google Lighthouse in Microsoft Edge Developer Tools was used to test performance
 The website was tested on the following devices:
 - HP Laptop 15s-eq0xxx;
 - Oppo A52;
-- iPhone 13pro;
-- Realme RMX3630.
+- iPhone 13 Pro;
+- iPhone 14 Pro
+- Realme RMX3630;
+- Redmi Note 11 Pro;
 
 in addition, the website has been tested using Google Chrome DevTools (and its similar device on Microsoft Edge) for all available device options.
 <br>
