@@ -531,6 +531,7 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-four.png">
 <img src="docs/user-story-testing/user-story-four-bis.png">
+
 *Both features are present on either Records and Cassettes pages. It is redundant to provide more screenshots.*
 </details>
 
