@@ -371,11 +371,14 @@ This structure is identical in the [Records](#records) page. These informations 
 - Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company;
 - the page is responsive and displays all its features differently depending on the screen dimensions.
 
-##### Smaller Screens Version
-![Wanna Sell Page](docs/features/wanna-sell-smaller.webp)
+##### Smaller Screens Version Top
+![Wanna Sell Page](docs/features/wanna-sell-smaller-top.png)
 
-##### Desktop Version
-![Wanna Sell Page](docs/features/wanna-sell-desktop.webp)
+##### Smaller Screens Version Bottom
+![Wanna Sell Page](docs/features/wanna-sell-smaller-down.png)
+
+##### Desktop Version Extract
+![Wanna Sell Page](docs/features/wanna-sell-desktop.png)
 <br>
 <br>
 
