@@ -152,8 +152,6 @@ Animation properties and a keyframe rule the process */
     width: 90%;
     height: auto;
     animation: fade-in;
-    animation-timeline: scroll();
-    animation-range: entry 0% contain 30%;
     animation-fill-mode: forwards;
 }
 
