@@ -269,10 +269,10 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - in small screens, the images are displayed in single-item column; in larger screens, they show up paired.
 
 ##### Smartphone Version
-![Gallery](docs/features/gallery-smartphone.webp)
+![Gallery](docs/features/gallery-smartphone.png)
 
 ##### Desktop Version
-![Gallery](docs/features/gallery-larger.webp)
+![Gallery](docs/features/gallery-larger.png)
 <br>
 <br>
 
@@ -280,7 +280,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - A block of more detailed information about the company and its vision;
 - when the name "Altera Musica" appears, it's with gold colour letters, to stand out.
 
-![About us](docs/features/about.webp)
+![About us](docs/features/about.png)
 <br>
 <br>
 
