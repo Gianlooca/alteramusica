@@ -254,7 +254,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over - this will happen to all the `h2` on the website) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
 
 ##### Smartphone Version
-![Introduction](docs/features/intro-smartphone.webp)
+![Introduction](docs/features/intro-smartphone.png)
 
 ##### Tablet Version
 ![Introduction](docs/features/intro-tablet.webp)
