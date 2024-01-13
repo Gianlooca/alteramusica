@@ -225,7 +225,7 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 <br>
 
 ## Features
-The page consists of four pages and nine general features:
+The page consists of four pages (plus the 404.html page) and eleven general features:
 
 ### Logo and Navigation Bar
 - Featured on all four pages;
@@ -387,6 +387,15 @@ This structure is identical in the [Records](#records) page. These informations 
 
 ##### Smartphone Version
 ![404 Page](docs/features/404-smartphone.jpg)
+
+##### Tablet Version
+![404 Page](docs/features/404-tablet.png)
+
+##### Desktop Version
+![404 Page](docs/features/404-desktop.png)
+<br>
+<br>
+<br>
 
 ## Validation
 
