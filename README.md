@@ -318,13 +318,13 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 ##### Smartphone Version
-![Records](docs/features/record-smartphone.webp)
+![Records](docs/features/record-smartphone.png)
 
 ##### Tablet Version
-![Records](docs/features/record-tablet.webp)
+![Records](docs/features/record-tablet.png)
 
 ##### Desktop Version
-![Records](docs/features/records-desktop.webp)
+![Records](docs/features/records-desktop.png)
 
 ##### Footnote Reference About Records Grading
 ![Records](docs/features/record-footnote.png)
