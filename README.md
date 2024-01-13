@@ -478,18 +478,19 @@ in addition, the website has been tested using Google Chrome DevTools (and its s
 The website was tested on the following browsers:
 - Google Chrome;
 - Mozilla Firefox;
+- Safari;
 - Microsoft Egde.
 <br>
 <br>
 
 ### Testing user stories
 
-1. As a first time user, I want to know where the restaurant is lokated
+1. As a first time user, I want to know quickly what the website is about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the address of the restaurant | Works as expected |
+| Introductive text | Land on the Homepage, navigate to the introductive text | Reading an introductive text about the website | Works as expected |
+| About Us | On any page click/tap on "About Us" in the navbar | Read detailed information about the website | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-1v1-12.jpg">
