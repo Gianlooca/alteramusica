@@ -99,8 +99,6 @@
 2. As a first time user, I want to easily understand how to navigate the website.
 3. As a first time user, I want to understand if I am interested in the products offered.
 4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
-5. As a first time user, I want to enjoy the general look of the website.
-6. As a first time user, I want to understand if the website is reliable.
 
 #### Returning User
 1. As a returning user, I want to know where the physical store is located.
