@@ -166,32 +166,32 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 
 #### Desktop Version
 <details><summary>Homepage</summary>
-<img src="docs/wireframes/home-desktop.webp">
+<img src="docs/wireframes/home-desktop.png">
 </details>
 <details><summary>Records</summary>
-<img src="docs/wireframes/record-desktop.webp">
+<img src="docs/wireframes/record-desktop.png">
 </details>
 <details><summary>Cassettes</summary>
-<img src="docs/wireframes/cassette-desktop.webp">
+<img src="docs/wireframes/cassette-desktop.png">
 </details>
 <details><summary>Wanna sell?</summary>
-<img src="docs/wireframes/wanna-sell-desktop.webp">
+<img src="docs/wireframes/wanna-sell-desktop.png">
 </details>
 
 #### Tablet Version
 <details><summary>Homepage</summary>
-<img src="docs/wireframes/home-tablet.webp">
+<img src="docs/wireframes/home-tablet.png">
 </details>
 <details><summary>Records</summary>
-<img src="docs/wireframes/record-tablet.webp">
+<img src="docs/wireframes/record-tablet.png">
 </details>
 
 #### Smartphone Version
 <details><summary>Homepage</summary>
-<img src="docs/wireframes/home-smartphone.webp">
+<img src="docs/wireframes/home-smartphone.png">
 </details>
 <details><summary>Records</summary>
-<img src="docs/wireframes/record-smartphone.webp">
+<img src="docs/wireframes/record-smartphone.png">
 </details>
 <br>
 <br>
