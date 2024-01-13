@@ -496,6 +496,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-one.png">
 <img src="docs/user-story-testing/user-story-one-bis.png">
 </details>
+<br>
 
 2. As a first time user, I want to easily understand how to navigate the website.
 
@@ -503,9 +504,10 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Logo and Navigation Bar | Look and click/tap on the elements | Have a quick knowledge of the pages | Works as expected |
 
-<details><summary>Screenshots</summary>
+<details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-two.png">
 </details>
+<br>
 
 3. As a first time user, I want to know more about the restaurant
 
