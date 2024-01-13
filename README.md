@@ -313,8 +313,8 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
     9. the kind of format.
 This structure is identical in the [Cassettes](#cassettes) page. These informations are displayed without borders showing up to avoid a too formal appearance;
 - to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
-- it has a "More about this" sub-section which is basically a dropdown menu containing additional information about the record in question and its band/artist;
-- it is possible to listen to a short extract (with no autoplay) from the record;
+- it has a **"More about this"** sub-section which is basically a dropdown menu containing additional information about the record in question and its band/artist;
+- it is possible to listen to a short extract (with no autoplay) from the record thanks to an **audio element**;
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 ##### Smartphone Version
@@ -347,8 +347,8 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
     9. the kind of format.
 This structure is identical in the [Records](#records) page. These informations are displayed without borders showing up to avoid a too formal appearance;
 - to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
-- it has a "More about this" sub-section which is basically a dropdown menu containing additional information about the cassette in question and its band/artist;
-- it is possible to listen to a short extract (with no autoplay) from the cassette;
+- it has a **"More about this"** sub-section which is basically a dropdown menu containing additional information about the cassette in question and its band/artist;
+- it is possible to listen to a short extract (with no autoplay) from the cassette thanks to an **audio element**;
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 ##### Smartphone Version
@@ -521,15 +521,17 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-three-bis.png">
 </details>
 
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+4. As a first time user, I want to recognize the value of the experience of this website in comparison with other similar ones.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery | Navigate to the Gallery page | Find pictures of the restaurant and food served there | Works as expected |
-| Promo video | Navigate to the GAlelry page and scroll to the promo video | Watch promo video | Works as expected |
+| "More about this" subsection | Navigate to the Records/Cassettes page and find more information about that specific album and artist/band by clicking on the "More about this" inscription | Being more informed about that specific album and artist/band | Works as expected |
+| Audio sample | Navigate to the Records/Cassettes page and scroll to the audio previews | Listen to the samples | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-4.jpg">
+<img src="docs/user-story-testing/user-story-four.png">
+<img src="docs/user-story-testing/user-story-four-bis.png">
+*Both features are present on either Records and Cassettes pages. It is redundant to provide more screenshots.*
 </details>
 
 5. As a returning user, I want to see the Sunday meal offer
