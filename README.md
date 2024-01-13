@@ -267,7 +267,6 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 
 ### Gallery
 - Allowes the user to have (once again) a visual "mini safari" of the records and cassettes it's possible to find in this marketplace;
-- it's displayed with a fade-in effect, especially visible on small and medium screens;
 - in small screens, the images are displayed in single-item column; in larger screens, they show up paired.
 
 ##### Smartphone Version
@@ -415,14 +414,11 @@ The [W3C Markup Validation Service](https://validator.w3.org/) was used to valid
 
 
 ### CSS Validation
-The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
-<details><summary>whole page</summary>
-<img src="docs/validation/validation-css-whole-page.jpg">
-</details>
-<details><summary>style.css</summary>
-<img src="docs/validation/validation-css-style.jpg">
-</details>
+The [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS of the website.
+All pages have been validated (both by URI and text input) with no errors and one warnings to show.<br>
+*Afterwards, we'll show just the link of URI validations, for the sake of brevity.*<br>
+
+[Homepage](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.

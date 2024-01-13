@@ -140,9 +140,6 @@ hr {
     display: none;
 }
 
-
-/* the images contained in this class will fade-in as the user scrolls down. 
-Animation properties and a keyframe rule the process */
 .img-wrapper {
     display: flex;
     flex-flow: column wrap;
@@ -153,16 +150,6 @@ Animation properties and a keyframe rule the process */
     height: auto;
     animation: fade-in;
     animation-fill-mode: forwards;
-}
-
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
 }
 
 /* the images are responsive and have same properties and values, 
