@@ -46,11 +46,10 @@
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
+    3. [Lighthouse Validation](#lighthouse-validation)
+    4. [Device testing](#performing-tests-on-various-devices)
+    5. [Browser compatibility](#browser-compatability)
+    6. [Testing user stories](#testing-user-stories)
 7. [Bugs](#Bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
@@ -411,51 +410,54 @@ The [W3C Markup Validation Service](https://validator.w3.org/) was used to valid
 [Wanna Sell?](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Fwanna-sell.html)
 
 [404 Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2F404.html)
-
+<br>
 
 ### CSS Validation
 The [W3C Jigsaw CSS Validation Service](https://jigsaw.w3.org/css-validator/) was used to validate the CSS of the website.
-All pages have been validated (both by URI and text input) with no errors and one warnings to show.<br>
-*Afterwards, we'll show just the link of URI validations, for the sake of brevity.*<br>
+All pages have been validated (both by URI and text input) with no errors and one warnings to show (only when validating the page as a whole) relative to the imported fonts by Google Fonts.<br>
+*Afterwards, we'll show just the link of URI validations, for the sake of brevity. At the end, a screenshot of the warning.*<br>
 
 [Homepage](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Findex.html&usermedium=all&vextwarning=&warning=1)
 
-### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
-<details><summary>Home</summary>
-<img src="docs/validation/validation-accessibility-index.jpg">
+[Records](http://jigsaw.w3.org/css-validator/validator?lang=it&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Frecords.html&usermedium=all&vextwarning=&warning=1)
+
+[Cassettes](http://jigsaw.w3.org/css-validator/validator?lang=it&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Fcassettes.html&usermedium=all&vextwarning=&warning=1)
+
+[Wanna Sell?](http://jigsaw.w3.org/css-validator/validator?lang=it&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2Fwanna-sell.html&usermedium=all&vextwarning=&warning=1)
+
+[404 Page](http://jigsaw.w3.org/css-validator/validator?lang=it&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2F404.html&usermedium=all&vextwarning=&warning=1)
+
+##### Warning
+![Css Warning](docs/validation/css-warning.png)
+<br>
+
+### Lighthouse Validation
+Google Lighthouse in Microsoft Edge Developer Tools was used to test performance, accessibility, best practices and SEO (Search Engine Optimization) of the website.
+
+<details><summary>Homepage</summary>
+<img src="docs/validation/lighthouse-homepage.png">
 </details>
-<details><summary>About</summary>
-<img src="docs/validation/validation-accessibility-about.jpg">
+<details><summary>Records</summary>
+<img src="docs/validation/lighthouse-records.png">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/validation/validation-accessibility-menu.jpg">
+<details><summary>Cassettes</summary>
+<img src="docs/validation/lighthouse-cassettes.png">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/validation-accessibility-gallery.jpg">
+<details><summary>Wanna Sell?</summary>
+<img src="docs/validation/lighthouse-wanna-sell.png">
 </details>
-<details><summary>Contact</summary>
-<img src="docs/validation/validation-accessibility-contact.jpg">
+<details><summary>404 Page</summary>
+<img src="docs/validation/lighthouse-404.png">
 </details>
 
-### Performance 
-Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+- The main problem in the Records and Cassettes pages seems to be related to the performance and, as it will be seen on the following screenshot, in particular to the LCP;
 
-<details><summary>Home</summary>
-<img src="docs/validation/lighthouse-performance-index.jpg">
-</details>
-<details><summary>About</summary>
-<img src="docs/validation/lighthouse-performance-about.jpg">
-</details>
-<details><summary>Menu</summary>
-<img src="docs/validation/lighthouse-performance-menu.jpg">
-</details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/lighthouse-performance-gallery.jpg">
-</details>
-<details><summary>Contact</summary>
-<img src="docs/validation/lighthouse-performance-contact.jpg">
-</details>
+![General Lighthouse Overview](docs/validation/lighthouse-general.png)
+
+- always in the Records and Cassettes pages, the SEO parameters got worse after I set an aria-label attribute to the footnote link above-mentioned (as indicated on [this page of the Web Accessibility Initiative](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8.html) of the [W3C](https://www.w3.org/)); as it can be seen, not it's 90, before was 100 - and this for me it's unexplainable.
+<br>
+<br>
+<br>
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
