@@ -364,9 +364,13 @@ This structure is identical in the [Records](#records) page. These informations 
 <br>
 <br>
 
-### Meet the Chef
-- Features a short bio of the chef with an image of the chef on the left side
-- User stories covered: 11
+### Wanna Sell Page
+- It's the page where the user can get in touch in several ways with the site/business owner;
+- displays three main features:
+    1. a full functioning Sign-Up form (with required and non-required information) to fill in for users interested in selling;
+    2. a "Come to visit" frame which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
+    3. a map, at the bottom of the page, that shows the exact position of the store.
+- Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company.
 
 ![Meet the Chef](docs/features/feature-meet-the-chef.jpg)
 
