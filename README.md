@@ -293,7 +293,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - when hovered over, these icon-links behave like the elements on the navigation bar, inverting their colours.
 
 ##### Desktop Version
-![Footer](docs/features/footer-plain.webp)
+![Footer](docs/features/footer.png)
 <br>
 <br>
 
