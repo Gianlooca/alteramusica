@@ -649,30 +649,18 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-14. As the site owner, I want users to get to know the restaurant 
+14. As the site owner, I want the users to be able to contact us.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Us | Navigate to About page and locate About Us section | See relevant information about the restaurant | Works as expected |
+| "Come and visit us!" frame | On "Wanna Sell?" page, scroll down below the "Wanna Sell?" form if the screen is small or medium, look at the right side of it if the screen is large | See phone number and email address | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3-14.jpg">
+<img src="docs/user-story-testing/user-story-six.png">
 </details>
-
-15. As the site owner, I want the users to be able to contact us
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | Find the phone number | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the phone number | Works as expected |
-
-<details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
-<img src="docs/user-story-testing/user-story-9-15.jpg">
-</details>
-
+<br>
+<br>
+<br>
 
 ## Bugs
 
