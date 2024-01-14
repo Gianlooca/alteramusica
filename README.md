@@ -678,6 +678,12 @@ The website was tested on the following browsers:
 
 ### Unfixed bugs
 
+- When hovered over one of the social media icon links on the footer, the other three ones seem to move a few pixels to the left or to the right, depending on which one you're hovering over;
+- initially, I wanted to give to the images of the "gallery" on the Homepage a fade-in effect, by using animation properties and a keyframe. I had to give up because the CSS Validator recognised them as errors. Then I found out that those are still experimental CSS properties (apparently), hence I preferred eliminate the questionable code.
+<br>
+<br>
+<br>
+
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
