@@ -108,12 +108,11 @@
 5. As a returning user, I want to interact with the staff to try to sell records/cassettes.
 
 #### Site Owner 
-1. As the site owner, I want users to find the general website experience appealing.
-2. As the site owner, I want users to understand swiftly the mission of the company.
-3. As the site owner, I want the users to understand the specific value of the company.
-4. As the site owner, I want to spread the value of analog music collecting.
-5. As the site owner, I want to acquire more items to re-sell.
-6. As the site owner, I want the users to be able to contact us.
+1. As the site owner, I want users to understand swiftly the mission of the company.
+2. As the site owner, I want the users to understand the specific value of the company.
+3. As the site owner, I want to spread the value of analog music collecting.
+4. As the site owner, I want to acquire more items to re-sell.
+5. As the site owner, I want the users to be able to contact us.
 <br>
 <br>
 <br>
@@ -597,16 +596,22 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-nine.png">
 </details>
 <br>
+<br>
 
-10. As a returning user, I want to find the restaurant on social media
+**Site Owner**
+
+1. As the site owner, I want users to understand swiftly the mission of the company.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - social media section | On any page scroll to the bottom | Click on social media links | Works as expected | 
+| Introductive text | Land on the Homepage, navigate to the introductive text | Reading an introductive text about the website | Works as expected |
+| About Us | On any page click/tap on "About Us" in the navbar | Read detailed information about the website | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-10.jpg">
+<img src="docs/user-story-testing/user-story-one.png">
+<img src="docs/user-story-testing/user-story-one-bis.png">
 </details>
+<br>
 
 11. As a returning user, I want to know who is preparing the food
 
