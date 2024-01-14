@@ -679,6 +679,7 @@ The website was tested on the following browsers:
 ### Unfixed bugs
 
 - When hovered over one of the social media icon links on the footer, the other three ones seem to move a few pixels to the left or to the right, depending on which one you're hovering over;
+- on all devices but iPhones, the classic arrow (► that becomes ▼ when the summary is open) of the details element cannot be rendered. I managed to display it by selecting on CSS specifically the summary element (details>summary) and giving several values to the properties of list-style and list-style-type. I managed to display the arrow right, but even with the selector :active or :playing I couldn't rich any good result. Hence, to give the idea of the accordion menu, I added in the HTML the right arrow (►) next to the "More about this" message, that of course doesn't change after clicking/tapping on it;
 - initially, I wanted to give to the images of the "gallery" on the Homepage a fade-in effect, by using animation properties and a keyframe. I had to give up because the CSS Validator recognised them as errors. Then I found out that those are still experimental CSS properties (apparently), hence I preferred eliminate the questionable code.
 <br>
 <br>

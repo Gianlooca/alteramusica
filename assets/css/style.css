@@ -303,14 +303,6 @@ details summary {
     text-underline-offset: 0.3em;
 }
 
-details>summary {
-    list-style-type: disclosure-closed;
-}
-
-details>summary:playing {
-    list-style-type: disclosure-open;
-}
-
 details p {
     color: white;
 }
