@@ -613,15 +613,20 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-11. As a returning user, I want to know who is preparing the food
+2. As the site owner, I want the users to understand the specific value of the company.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Meet the Chef | Navigate to the About page and scroll down to Meet the Chef section | Find brief bio of the Chef | Works as expected |
+| About Us | On any page click/tap on "About Us" in the navbar | Read detailed information about the website | Works as expected |
+| Records/Cassettes pages | On Records/Cassettes pages find the items for sale | To get informed and have the possibility to purchase rare music | Works as expected |
+| More about this/Audio sample | On Records/Cassettes pages see the detailed information and listen to audio samples from those albums | Have an in-depth knowledge of the album | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-11.jpg">
+<img src="docs/user-story-testing/user-story-one-bis.png">
+<img src="docs/user-story-testing/user-story-nine-bis.png">
+
 </details>
+<br>
 
 12. As a returning user, I want to get directions to the restaurant
 
