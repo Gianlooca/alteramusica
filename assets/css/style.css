@@ -307,7 +307,7 @@ details>summary {
     list-style-type: disclosure-closed;
 }
 
-details>summary:active {
+details>summary::after {
     list-style-type: disclosure-open;
 }
 
