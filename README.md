@@ -624,7 +624,6 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-one-bis.png">
 <img src="docs/user-story-testing/user-story-nine-bis.png">
-
 </details>
 <br>
 
