@@ -664,9 +664,11 @@ The website was tested on the following browsers:
 
 ## Bugs
 
+*As a rookie developer i will just mention some of the bugs... For obvious reasons. I will also bring up a couple bugs that I couldn't fix (and I know the reason, for one of them at least).*
+
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
+| Footer background image didn't want to be responsive | Delete "position: relative;", "bottom: 0" and set the background-size to "cover |
 | The user can submit a contact form input without a message | Add required attribute to message input field |
 | Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
 | Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
