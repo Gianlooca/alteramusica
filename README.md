@@ -574,16 +574,18 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-seven.png">
 <img src="docs/user-story-testing/user-story-seven-bis.png">
 </details>
+<br>
 
-8. As a returning user, I want to see the menu
+8. As a returning user, I want to find the store on social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Menu | Navigate to the menu page | Read the menu | Works as expected |
+| Footer - Social Media Links | On each page check the Footer | Find the Social Media Icon Links | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-8.jpg">
+<img src="docs/user-story-testing/user-story-eight.png">
 </details>
+<br>
 
 9. As a returning user, I want to leave some comment, suggestion or message to the staff
 
