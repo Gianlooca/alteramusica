@@ -711,6 +711,9 @@ Images not referenced below have been taken by the developer from his private co
 
 **Audio**
 - [Mile Kitić i Južni Vetar - Hej, vi hitri dani](assets/audio/mile-kitic-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=qhbjVcp8ynM);
+- [Nicolae Guță - Nu ştiu Doamne, ce-o mai fi](assets/audio/nicolae-guta-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=9RMErNoGt-0);
+- [Gianni Celeste - Non la tocco più](assets/audio/gianni-celeste-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=e5twX295zus).
+<br>
 
 ### Code
 In order of appearance:
