@@ -363,7 +363,7 @@ This structure is identical in the [Records](#records) page. These informations 
 ### Wanna Sell Page
 - It's the page where the user can get in touch in several ways with the site/business owner;
 - displays three main features:
-    1. a full functioning **Sign-Up form** (with required and non-required information) to fill in for users interested in selling;
+    1. a full functioning **"Wanna Sell?" form** (with required and non-required information) to fill in for users interested in selling;
     2. a **"Come and visit us!" frame** which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
     3. a **map**, at the bottom of the page, that shows the exact position of the store.
 - Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company;
@@ -540,7 +540,7 @@ The website was tested on the following browsers:
 
 **Returning user**
 
-5. As a returning user, I want to know where the physical store is located.
+1. As a returning user, I want to know where the physical store is located.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -551,18 +551,18 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-6. As a returning user, I want to find a phone number/email address to get in contact for information.
+2. As a returning user, I want to find a phone number/email address to get in contact for information.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| "Come and visit us!" frame | On "Wanna Sell?" page, scroll down below the "Sign-up form" if the screen is small or medium, look at the right side of it if the screen is large | See phone number and email address | Works as expected |
+| "Come and visit us!" frame | On "Wanna Sell?" page, scroll down below the "Wanna Sell?" form if the screen is small or medium, look at the right side of it if the screen is large | See phone number and email address | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-six.png">
 </details>
 <br>
 
-7. As a returning user, I want to find new items on the selling pages.
+3. As a returning user, I want to find new items on the selling pages.
 
 *As mentioned in the introduction, since the website isn't fully functioning - because it refers to an unreal business - this user story can be tested only in hypothetical terms.*
 
@@ -576,7 +576,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-8. As a returning user, I want to find the store on social media.
+4. As a returning user, I want to find the store on social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -587,15 +587,16 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
+5. As a returning user, I want to interact with the staff to try to sell records/cassettes.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| "Wanna Sell?" form | Navigate to the "Wanna Sell?" Page and find the contact form, fill out and submit your data | Data submited via  form | Works as expectd |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-9-15.jpg">
+<img src="docs/user-story-testing/user-story-nine.png">
 </details>
+<br>
 
 10. As a returning user, I want to find the restaurant on social media
 
