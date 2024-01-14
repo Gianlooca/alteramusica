@@ -627,14 +627,14 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-12. As a returning user, I want to get directions to the restaurant
+12. As the site owner, I want to spread the value of analog music collecting.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+| The whole website | Just visit the whole webiste | Get passionate about having physical copies of analog format recordings | Works as expected (?) |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-ten.png">
 </details>
 
 13. As the site owner, I want users to find news about upcoming events or changes in opening times
