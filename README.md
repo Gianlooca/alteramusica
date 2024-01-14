@@ -483,6 +483,8 @@ The website was tested on the following browsers:
 
 ### Testing user stories
 
+**First time user**
+
 1. As a first time user, I want to know quickly what the website is about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -534,15 +536,18 @@ The website was tested on the following browsers:
 *Both features are present on either Records and Cassettes pages. It is redundant to provide more screenshots.*
 </details>
 <br>
+<br>
 
-5. As a returning user, I want to see the Sunday meal offer
+**Returning user**
+
+5. As a returning user, I want to know where the physical store is located.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Meal-deal | On home page scroll down to the Sunday meal deal section | Find the meal-deal for the upcomming Sunday | Works as expected |
+| Map | On "Wanna Sell?" page scroll down to the top of the footer and see the map with the red icon | Find the store location | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-5.jpg">
+<img src="docs/user-story-testing/user-story-five.png">
 </details>
 
 6. As a returnign user, I want to know the opening times
