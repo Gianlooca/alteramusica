@@ -214,6 +214,7 @@ Below, a showcase of the desktop version of the pages with a sample ([Homepage](
 - [Favicon](https://favicon.io/)
 - [Flaticon](https://www.flaticon.com/)
 - [Snipping Tool](https://apps.microsoft.com/detail/9MZ95KL8MR0L?hl=en-US&gl=US)
+- [Discogs](https://www.discogs.com/)
 - [YouTube](https://www.youtube.com/)
 - [noTube](https://notube.im/it/youtube-app-v135)
 <br>
