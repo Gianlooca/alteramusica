@@ -560,17 +560,19 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-six.png">
 </details>
+<br>
 
-7. As a returning user, I want to find a phone number to call for reservation
+7. As a returning user, I want to find new items on the selling pages.
+
+*As mentioned in the introduction, since the website isn't fully functioning - because it refers to an unreal business - this user story can be tested only in hypothetical terms.*
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - contact information section | On any page scroll to the footer | See phone number | Works as expected |
-| Info Box | Navigate to Contact Us page and locate the How to find us section | See phone number | Works as expected |
+| Records/Cassettes pages | On the Navigation Bar, click/tap either on the Records or Cassettes page | See the new arrivals | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7v1-15.jpg">
-<img src="docs/user-story-testing/user-story-7v2-15.jpg">
+<img src="docs/user-story-testing/user-story-seven.png">
+<img src="docs/user-story-testing/user-story-seven-bis.png">
 </details>
 
 8. As a returning user, I want to see the menu
