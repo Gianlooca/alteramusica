@@ -666,13 +666,17 @@ The website was tested on the following browsers:
 
 *As a rookie developer i will just mention some of the bugs... For obvious reasons. I will also bring up a couple bugs that I couldn't fix (and I know the reason, for one of them at least).*
 
+### Fixed bugs
+
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Footer background image didn't want to be responsive | Delete "position: relative;", "bottom: 0" and set the background-size to "cover |
 | Purchase buttons, that are actually links styled and "disguised" as buttons, had an unreadable golden color with golden background (unless I hovered over them, for styles reasons) - | Eliminate a:visited {color: gold;} |
 | Audio elements were overriding the fixed header when scrolling | Add z-index property both to audio elements and header, with an higher value for this last one |
-| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+| Couldn't change effectively a pointer cursor into a help one on a link element of a class | Had to be very specific by selecting the direct child links of that specific class |
+| Accordion menu in "More about this" sections, both on Records and Cassettes pages, when opened moved upwards instead than downwards, changing the alignment of the records/cassettes covers | Set the property align-items to the value of flex-start in their parent element |
+
+### Unfixed bugs
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
