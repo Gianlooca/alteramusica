@@ -303,6 +303,10 @@ details summary {
     text-underline-offset: 0.3em;
 }
 
+details>summary {
+    list-style: circle;
+}
+
 details p {
     color: white;
 }
