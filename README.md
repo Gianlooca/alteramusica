@@ -686,23 +686,16 @@ The website was tested on the following browsers:
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
-1. In the GitHub repository navigate to the Settings tab
-2. On the left hand menu select Pages
-3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
-
-You can for fork the repository by following these steps:
-1. Go to the GitHub repository
-2. Click on Fork button in upper right hand corner
-
-You can clone the repository by following these steps:
-1. Go to the GitHub repository 
-2. Locate the Code button above the list of files and click it 
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
-4. Open Git Bash
-5. Change the current working directory to the one where you want the cloned directory
-6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7.Press Enter to create your local clone.
+1. I went to the Settings tab of my GitHub repository (created before);
+2. On the left-hand sidebar, in the Code and automation section, I selected Pages;
+3. Made sure that "Source" was set to 'Deploy from Branch', that "Main" branch is selected and that "Folder" is set to / (root);
+4. under "Branch", click "Save";
+5. then I went back to the Code tab, waited a few minutes for the build to finish and refresh my repository;
+6. on the right-hand side, in the "Environments" section, it has been possible to click on 'github-pages';
+7. inside a frame titled "Active deployments" I saw the link of my deployed website.
+<br>
+<br>
+<br>
 
 ## Credits
 Images not referenced below are owned by the developer.
