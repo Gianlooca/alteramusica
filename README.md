@@ -709,9 +709,12 @@ Images not referenced below have been taken by the developer from his private co
   : photo taken from [Discogs](https://www.discogs.com/master/2172478-Nicolae-Gu%C8%9B%C4%83-Vol-4);
 - [Gianni Celeste - Album](assets/images/gianni-celeste.webp): photo taken from [Discogs](https://www.discogs.com/release/25872430-Gianni-Celeste-Album).
 
+**Audio**
+- [Mile Kitić i Južni Vetar - Hej, vi hitri dani](assets/audio/mile-kitic-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=qhbjVcp8ynM);
+
 ### Code
 In order of appearance:
-- The HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet and combined with their [Navbar with Pills](https://getbootstrap.com/docs/5.0/components/navs-tabs/#pills)
+- the HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet and combined with their [Navbar with Pills](https://getbootstrap.com/docs/5.0/components/navs-tabs/#pills)
 - [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet
 - CSS code to avoid whitespace below footer was taken from a forum post on [FreeCodeCamp](https://forum.freecodecamp.org/t/footer-white-space-below/191360)
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
