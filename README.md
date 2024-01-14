@@ -363,9 +363,9 @@ This structure is identical in the [Records](#records) page. These informations 
 ### Wanna Sell Page
 - It's the page where the user can get in touch in several ways with the site/business owner;
 - displays three main features:
-    1. a full functioning Sign-Up form (with required and non-required information) to fill in for users interested in selling;
-    2. a "Come to visit" frame which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
-    3. a map, at the bottom of the page, that shows the exact position of the store.
+    1. a full functioning **Sign-Up form** (with required and non-required information) to fill in for users interested in selling;
+    2. a **"Come and visit us!" frame** which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
+    3. a **map**, at the bottom of the page, that shows the exact position of the store.
 - Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company;
 - the page is responsive and displays all its features differently depending on the screen dimensions.
 
@@ -549,15 +549,16 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-five.png">
 </details>
+<br>
 
-6. As a returnign user, I want to know the opening times
+6. As a returning user, I want to find a phone number/email address to get in contact for information.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer - opening times section | On any page scroll to the footer | See opening times | Works as expected |
+| "Come and visit us!" frame | On "Wanna Sell?" page, scroll down below the "Sign-up form" if the screen is small or medium, look at the right side of it if the screen is large | See phone number and email address | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-6.jpg">
+<img src="docs/user-story-testing/user-story-six.png">
 </details>
 
 7. As a returning user, I want to find a phone number to call for reservation
