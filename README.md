@@ -669,8 +669,8 @@ The website was tested on the following browsers:
 | **Bug** | **Fix** |
 | ----------- | ----------- |
 | Footer background image didn't want to be responsive | Delete "position: relative;", "bottom: 0" and set the background-size to "cover |
-| The user can submit a contact form input without a message | Add required attribute to message input field |
-| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
+| Purchase buttons, that are actually links styled and "disguised" as buttons, had an unreadable golden color with golden background (unless I hovered over them, for styles reasons) - | Eliminate a:visited {color: gold;} |
+| Audio elements were overriding the fixed header when scrolling | Add z-index property both to audio elements and header, with an higher value for this last one |
 | Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
 | When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
 
