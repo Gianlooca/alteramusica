@@ -636,16 +636,18 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-ten.png">
 </details>
+<br>
 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
+13. As the site owner, I want to acquire more items to re-sell.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| "Wanna Sell?" form | Navigate to the "Wanna Sell?" Page and find the contact form, fill out and submit your data | Data submited via  form | Works as expectd |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-13.jpg">
+<img src="docs/user-story-testing/user-story-nine.png">
 </details>
+<br>
 
 14. As the site owner, I want users to get to know the restaurant 
 
