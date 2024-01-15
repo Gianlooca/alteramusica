@@ -708,9 +708,21 @@ The website was deployed using GitHub Pages by following these steps:
 <br>
 
 ## Credits
-Images and audio files not referenced below have been taken by the developer from his private collection. In general, each record/cassette and the relative audio samples are displayed for educational purposes only, and are the copyrighted property of each of the mentioned artists.
+
+### General references
+
+- The "Love Running" project provided by the Code Institute clearly gave me a general "direction"; I have taken from there several ideas and actual code snippets, especially (just to mention) in the Sign-up form, the advantages of early deployment (and how to actually deploy a website), the mindset about developing a website from small screen versions "uphill"... Evidently, in the end, the "Love Running" project and "Altera Musica" project are two totally different things;
+- the criteria for the construction of the README.md file have been taken by several sources. Apart from what Code Institute lectures taught me, I got inspiration from other Code Institute peers' works (in order of importance):
+1. the [Bodelschwinger Hof Project](https://github.com/4n4ru/CI_MS1_BodelschwingherHof) by [Ana Runje](https://github.com/4n4ru) gave me the general framework, especially about user stories and how to test them;
+2. the [Modern Buddhism Project](https://github.com/dnlbowers/modern-buddhism) by [David Bowers](https://github.com/dnlbowers) gave me few particular ideas;
+3. the [Creating your first README guide](https://github.com/kera-cudmore/readme-examples) by [Kera Cudmore](https://github.com/kera-cudmore);
+4. the [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME/tree/master) by [Code Institute](https://codeinstitute.net/global/);
+5. in general, I have found a good explanation about markdown language in this [Markdown Cheatsheet](https://github.com/atapas/markdown-cheatsheet) by [Tapas Adhikary](https://github.com/atapas).
+<br>
 
 ### Media
+
+Images and audio files not referenced below have been taken by the developer from his private collection. In general, each record/cassette and the relative audio samples are displayed for educational purposes only, and are the copyrighted property of each of the mentioned artists.
 
 **Images**
 - [Mile Kitić i Južni Vetar - Mogao Sam Biti Car](assets/images/mile-kitic.webp): photo taken from [Discogs](https://www.discogs.com/release/1594314-Mile-Kiti%C4%87-i-Ju%C5%BEni-Vetar-Mogao-Sam-Biti-Car);
