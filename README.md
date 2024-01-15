@@ -304,7 +304,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it contains the copyright information and the links to the Facebook, Instagram, YouTube and Tweeter pages of Altera Musica;
 - when hovered over, these icon-links behave like the elements on the navigation bar, inverting their colours.
 
-##### Desktop Version
+**Desktop Version**
 ![Footer](docs/features/footer.png)
 <br>
 <br>
