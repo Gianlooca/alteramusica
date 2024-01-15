@@ -329,16 +329,16 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 - it is possible to listen to a short extract (with no autoplay) from the record thanks to an **audio element**;
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
-##### Smartphone Version
+**Smartphone Version**
 ![Records](docs/features/record-smartphone.png)
 
-##### Tablet Version
+**Tablet Version**
 ![Records](docs/features/record-tablet.png)
 
-##### Desktop Version
+**Desktop Version**
 ![Records](docs/features/records-desktop.png)
 
-##### Footnote Reference About Records Grading
+**Footnote Reference About Records Grading**
 ![Records](docs/features/record-footnote.png)
 <br>
 <br>
