@@ -21,8 +21,11 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
+        1. [First-time User](#first-time-user)
+        2. [Returning User](#returning-user)
+        3. [Site Owner](#site-owner)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -33,6 +36,9 @@
         3. [Cassettes](#cassettes)
         4. [Wanna sell?](#wanna-sell)
     5. [Wireframes](#wireframes)
+        1. [Desktop Version](#desktop-version)
+        2. [Tablet Version](#tablet-version)
+        3. [Smartphone Version](#smartphone-version)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -75,7 +81,7 @@
 - Seeing clearly the prices of the products.
 - Finding the location of the physical store.
 
-### Business Owner Goals
+### Site Owner Goals
 - Finding more customers.
 - Promote the business.
 - Providing a way for new and existing buyers to contact the business.
