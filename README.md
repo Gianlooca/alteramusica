@@ -717,6 +717,14 @@ Images and audio files not referenced below have been taken by the developer fro
 - [Mile Kitić i Južni Vetar - Hej, vi hitri dani](assets/audio/mile-kitic-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=qhbjVcp8ynM);
 - [Nicolae Guță - Nu ştiu Doamne, ce-o mai fi](assets/audio/nicolae-guta-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=9RMErNoGt-0);
 - [Gianni Celeste - Non la tocco più](assets/audio/gianni-celeste-extract.mp3): audio taken from [YouTube](https://www.youtube.com/watch?v=e5twX295zus).
+
+**Favicon**
+The favicon in use has been created with [Favicon](https://favicon.io/).
+
+**Icons**
+The icons in use have been taken from two different sources:
+1. the social media icons in the Footer and the vinyl icons displayed on either side of the "Records on sale" inscription in the Records Page have been found on [Font Awesome](https://fontawesome.com/);
+2. the cassette icons displayed on either side of the "Cassettes on sale" inscription in the Cassettes Page have been found on [Flaticon](https://www.flaticon.com/).
 <br>
 
 ### Code
