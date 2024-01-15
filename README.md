@@ -717,7 +717,8 @@ The website was deployed using GitHub Pages by following these steps:
 2. the [Modern Buddhism Project](https://github.com/dnlbowers/modern-buddhism) by [David Bowers](https://github.com/dnlbowers) gave me few particular ideas;
 3. the [Creating your first README guide](https://github.com/kera-cudmore/readme-examples) by [Kera Cudmore](https://github.com/kera-cudmore);
 4. the [SampleREADME](https://github.com/Code-Institute-Solutions/SampleREADME/tree/master) by [Code Institute](https://codeinstitute.net/global/);
-5. in general, I have found a good explanation about markdown language in this [Markdown Cheatsheet](https://github.com/atapas/markdown-cheatsheet) by [Tapas Adhikary](https://github.com/atapas).
+5. in general, I have found a good explanation about markdown language in this [Markdown Cheatsheet](https://github.com/atapas/markdown-cheatsheet) by [Tapas Adhikary](https://github.com/atapas);
+- in the last two months I spent more time on the [W3C website](https://www.w3.org/) and learning from [W3Schools](https://www.w3schools.com/) or [MDN Web Docs](https://developer.mozilla.org/en-US/) than with my family; I couldn't put out an exhaustive list of all the points of inspiration I got from these sources.
 <br>
 
 ### Media
@@ -747,8 +748,8 @@ The icons in use have been taken from two different sources:
 <br>
 
 ### Code
-In order of appearance:
-- the HTML for the responsive [Navbar with toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet and combined with their [Navbar with Pills](https://getbootstrap.com/docs/5.0/components/navs-tabs/#pills)
+
+- the HTML for the responsive navigation bar has been partially taken from [this tutorial](https://youtu.be/oLgtucwjVII?si=SLVGpA_jskqVxf2d) on YouTube;
 - [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on index page was taken from Bootrap v5.0 documentation code snippet
 - CSS code to avoid whitespace below footer was taken from a forum post on [FreeCodeCamp](https://forum.freecodecamp.org/t/footer-white-space-below/191360)
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
