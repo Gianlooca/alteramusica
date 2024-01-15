@@ -54,6 +54,8 @@
     5. [Browser compatibility](#browser-compatability)
     6. [Testing user stories](#testing-user-stories)
 7. [Bugs](#Bugs)
+    1. [Fixed Bugs](#fixed-bugs)
+    2. [Unfixed Bugs](#unfixed-bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
     1. [General References](#general-references)
