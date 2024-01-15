@@ -631,7 +631,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-12. As the site owner, I want to spread the value of analog music collecting.
+3. As the site owner, I want to spread the value of analog music collecting.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -642,7 +642,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-13. As the site owner, I want to acquire more items to re-sell.
+4. As the site owner, I want to acquire more items to re-sell.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -653,7 +653,7 @@ The website was tested on the following browsers:
 </details>
 <br>
 
-14. As the site owner, I want the users to be able to contact us.
+5. As the site owner, I want the users to be able to contact us.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
