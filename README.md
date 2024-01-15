@@ -245,13 +245,13 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it shows an evocative background image of a horizontal stack of records;
 - it has a thin golden bottom border to visually separate it from the main content;
 
-##### Smartphone Version
+**Smartphone Version**
 ![Logo and navbar](docs/features/navbar-smart.png)
 
-##### Desktop Version
+**Desktop Version**
 ![Logo and navbar](docs/features/navbar-desktop-plain.png)
 
-##### Desktop Hovered Version
+**Desktop Hovered Version**
 ![Logo and navbar](docs/features/navbar-desktop-hover.png)
 <br>
 *Here, for example, the "Records" link is hovered over.*
