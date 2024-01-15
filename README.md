@@ -767,10 +767,15 @@ The icons in use have been taken from two different sources:
 - I have found relevant information about how to style an audio element on this page on [Stack Overflow](https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag);
 - I managed to give a fade-in effect to my "Gallery" on the Homepage thanks to [this tutorial](https://youtu.be/UmzFk68Bwdk?si=5iyu3ZW0WaS6wtNl) and [this MDN Web Docs page](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range); it was working but, as mentioned before, I had to erase it from my code because it was considered an error by the Validators, since (apparently) it's an experimental property. It could be probably used in normal projects, but not in this specific project where I need to have 0 errors in order not to fail;
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) and this other guide on [Mailchimp](https://mailchimp.com/it/resources/404-page/).
+<br>
+<br>
+<br>
 
 ## Acknowledgements
-I would like to take the opportunity to thank:
-- My mentor Mo Shami for his feedback, advice, guidance and support.
-- My husband Jure Runje for his support, advice, help with testing, and for giving me some kids free time to work on my project.
-- To the lovely people on the Code Institute Slack for providing peer code reviews.
-- My parents who own the restaurant that inspired this website
+
+I would like to thank:
+- my mentor Mo Shami for his feedback, advice and guidance;
+- Code Institute Slack Community for providing help, support, small talk and peer reviews;
+- the tutors of Code Institute for helping me when nothing seemed to make sense - in particular, thanks to [Rebecca](https://github.com/rebeccatraceyt), the most patient and eager to explain and teach tutor I've ever met since I'm here;
+- Student Care people for their capability of being sympathetic;
+- Covid that "helped" me in the last days of writing all of this, in order to make things spicier.
