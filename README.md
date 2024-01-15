@@ -280,10 +280,10 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - Allowes the user to have (once again) a visual "mini safari" of the records and cassettes it's possible to find in this marketplace;
 - in small screens, the images are displayed in single-item column; in larger screens, they show up paired.
 
-##### Smartphone Version
+**Smartphone Version**
 ![Gallery](docs/features/gallery-smartphone.png)
 
-##### Desktop Version
+#**Desktop Version**
 ![Gallery](docs/features/gallery-larger.png)
 <br>
 <br>
