@@ -703,7 +703,7 @@ The website was deployed using GitHub Pages by following these steps:
 <br>
 
 ## Credits
-Images not referenced below have been taken by the developer from his private collection.
+Images and audio files not referenced below have been taken by the developer from his private collection. In general, each record/cassette and the relative audio samples are displayed for educational purposes only, and are the copyrighted property of each of the mentioned artists.
 
 ### Media
 
