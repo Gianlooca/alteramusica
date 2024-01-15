@@ -56,6 +56,9 @@
 7. [Bugs](#Bugs)
 8. [Deployment](#deployment)
 9. [Credits](#credits)
+    1. [General References](#general-references)
+    2. [Media](#media)
+    3. [Code](#code)
 10. [Acknowledgements](#acknowledgements)
 <br>
 <br>
