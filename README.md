@@ -398,13 +398,13 @@ This structure is identical in the [Records](#records) page. These informations 
 - It's the classic page where a user happens to be in if there's something wrong in the navigation, or if he/she misspells a link;
 - the look is identical to any other page of the site: the header with the navigation bar and the footer are there, so the user it's not "trapped" into the page; in any case, an image of a broken record and a funny/weird message are displayed. The user is hence invited to click in any part of the text to be redirected to the homepage, to make things easier.
 
-##### Smartphone Version
+**Smartphone Version**
 ![404 Page](docs/features/404-smartphone.jpg)
 
-##### Tablet Version
+**Tablet Version**
 ![404 Page](docs/features/404-tablet.png)
 
-##### Desktop Version
+**Desktop Version**
 ![404 Page](docs/features/404-desktop.png)
 <br>
 <br>
