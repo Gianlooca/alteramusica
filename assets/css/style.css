@@ -59,7 +59,7 @@ nav {
     background-size: 443px;
     height: 126px;
     width: 100vw;
-    font-size: 20px;
+    font-size: 120%;
 }
 
 nav ul li {
@@ -72,9 +72,9 @@ nav ul li a {
     font-family: 'IM Fell DW Pica', serif;
     font-style: normal;
     text-transform: capitalize;
-    font-size: 14px;
+    font-size: 14.5px;
     float: right;
-    margin-right: 1px;
+    margin-right: 2px;
     color: gold;
 }
 
@@ -657,7 +657,7 @@ footer ul li a:hover {
 
     nav ul li a {
         margin: 2px 2px;
-        font-size: 20px;
+        font-size: 28px;
         float: none;
     }
 
