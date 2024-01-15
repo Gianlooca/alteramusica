@@ -363,13 +363,13 @@ This structure is identical in the [Records](#records) page. These informations 
 - it is possible to listen to a short extract (with no autoplay) from the cassette thanks to an **audio element**;
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
-##### Smartphone Version
+**Smartphone Version**
 ![Cassettes](docs/features/cassette-smartphone.png)
 
-##### Tablet Version
+**Tablet Version**
 ![Cassettes](docs/features/cassette-tablet.png)
 
-##### Desktop Version
+**Desktop Version**
 ![Cassettes](docs/features/cassette-desktop.png)
 <br>
 <br>
