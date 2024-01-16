@@ -252,6 +252,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 ![Logo and navbar](docs/features/navbar-desktop-plain.png)
 
 **Desktop Hovered Version**
+
 ![Logo and navbar](docs/features/navbar-desktop-hover.png)
 <br>
 *Here, for example, the "Records" link is hovered over.*
@@ -310,6 +311,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - when hovered over, these icon-links behave like the elements on the navigation bar, inverting their colours.
 
 **Desktop Version**
+
 ![Footer](docs/features/footer.png)
 <br>
 <br>
@@ -343,6 +345,7 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 ![Records](docs/features/record-tablet.png)
 
 **Desktop Version**
+
 ![Records](docs/features/records-desktop.png)
 
 **Footnote Reference About Records Grading**
@@ -380,6 +383,7 @@ This structure is identical in the [Records](#records) page. These informations 
 ![Cassettes](docs/features/cassette-tablet.png)
 
 **Desktop Version**
+
 ![Cassettes](docs/features/cassette-desktop.png)
 <br>
 <br>
@@ -394,12 +398,15 @@ This structure is identical in the [Records](#records) page. These informations 
 - the page is responsive and displays all its features differently depending on the screen dimensions.
 
 **Smaller Screens Version Top**
+
 ![Wanna Sell Page](docs/features/wanna-sell-smaller-top.png)
 
 **Smaller Screens Version Bottom**
+
 ![Wanna Sell Page](docs/features/wanna-sell-smaller-down.png)
 
 **Desktop Version Extract**
+
 ![Wanna Sell Page](docs/features/wanna-sell-desktop.png)
 <br>
 <br>
@@ -417,6 +424,7 @@ This structure is identical in the [Records](#records) page. These informations 
 ![404 Page](docs/features/404-tablet.png)
 
 **Desktop Version**
+
 ![404 Page](docs/features/404-desktop.png)
 <br>
 <br>
