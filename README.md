@@ -370,7 +370,7 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
     7. the price;
     8. the country of production;
     9. the kind of format.
-This structure is identical in the [Records](#records) page. These informations are displayed without borders showing up to avoid a too formal appearance;
+This structure is identical in the [Records](#records) page. These informations are displayed without borders showing up to avoid a too formal appearance, except for a thin golden bottom border to give a minimum idea of separation;
 - to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
 - it has a **"More about this"** sub-section which is basically a dropdown menu containing additional information about the cassette in question and its band/artist;
 - it is possible to listen to a short extract (with no autoplay) from the cassette thanks to an **audio element**;
