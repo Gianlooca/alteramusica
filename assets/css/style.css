@@ -36,6 +36,7 @@ header {
 /* the h1 has position: relative so a top value can be set */
 h1 {
     position: relative;
+    display: inline-block;
     top: 4px;
     text-transform: uppercase;
     font-weight: bolder;
@@ -44,7 +45,12 @@ h1 {
     text-align: center;
     line-height: 28px;
     padding: 9px 0px;
+    padding-left: 11px;
     color: gold;
+    background-color: rgba(30, 25, 22, 0.6);
+    border: 1px solid gold;
+    border-radius: 5%;
+    box-shadow: 0 0 15px 4px;
 }
 
 a {
@@ -60,6 +66,7 @@ nav {
     height: 126px;
     width: 100vw;
     font-size: 120%;
+    text-align: center;
 }
 
 nav ul li {
