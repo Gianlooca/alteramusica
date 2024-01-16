@@ -896,7 +896,8 @@ footer ul li a:hover {
     #explain {
         flex-flow: column wrap;
         padding-bottom: 1vw;
-        margin: 1em 1em 1em 1em;
+        margin: 0 auto;
+        margin-bottom: 47px;
     }
 
     /* cassettes.html page */
