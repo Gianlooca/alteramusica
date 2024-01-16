@@ -850,7 +850,6 @@ footer ul li a:hover {
         margin-bottom: 1em;
         margin-left: 1em;
         width: 43%;
-        height: 40em;
     }
 
     .top-in {
@@ -873,6 +872,10 @@ footer ul li a:hover {
 
     td {
         padding: 6px 15px;
+    }
+
+    .down-in {
+        border-bottom: 2px solid gold;
     }
 
     details,
@@ -1039,7 +1042,6 @@ footer ul li a:hover {
     .mid-record {
         margin-left: 2em;
         width: 26%;
-        height: 55em;
     }
 
     .zoom {
