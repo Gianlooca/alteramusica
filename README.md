@@ -290,7 +290,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 
 ![Gallery](docs/features/gallery-smartphone.png)
 
-#**Desktop Version**
+**Desktop Version**
 
 ![Gallery](docs/features/gallery-larger.png)
 <br>
@@ -310,7 +310,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it has a thin golden top border to visually separate it from the main content;
 - it shows the same background image of the header, where the navigation bar is, in order to give a sense of stability to the user;
 - it contains the copyright information and the links to the Facebook, Instagram, YouTube and Tweeter pages of Altera Musica;
-- when hovered over, these icon-links behave like the elements on the navigation bar, inverting their colours.
+- when hovered over, these icon-links partially behave like the elements on the navigation bar, adding a background colour.
 
 **Desktop Version**
 
