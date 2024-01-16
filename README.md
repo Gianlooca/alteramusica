@@ -135,7 +135,7 @@
 
 ### Design Choices
 The website has been designed choosing a minimal style, clear (even if verging on dark) and user friendly. The overall impression is vintage, not similar to contemporary webpages, yet styled (and not looking like rudimentary pages from the '90s, for instance).
-Borders - when present - are neat and light, corners are slightly radiused, pages are not packed with unnecessary stuff.
+Borders - when present - are neat and light, corners are slightly radiused, pages are not packed with unnecessary stuff. Box-shadow property is used in order to underline just a couple of elements: the main heading (or textual logo) of the website and the "What is this?" feature which, after having peer reviewed, seemed not to be very evident - hence it needed to be "pushed" somehow.
 
 ### Colour
 To reminisce the atmosphere of the classic gloomy second-hand records store I wanted to give a general dark look to the website, that could have also matched with the "walls" of records in the background of header and footer. To contrast with this blackish set of colours and give the idea of treasures hidden among the dark trash matter, I used the gold colour for headings, borders, hoverings and other details; as well as the normal white colour to keep things simple. I took the prevalent dark colour by sampling a tone from the empty "triangle" that can be seen at the center of the header and footer background image and I used it as the background colour for all the pages (except for the [Wanna sell?](#wanna-sell) page).
