@@ -832,6 +832,7 @@ footer ul li a:hover {
     #records-container {
         gap: 1% 4.9%;
         font-size: 1.9vh;
+        margin-bottom: 10px;
     }
 
     /* also the padding for the records symbols increases */
