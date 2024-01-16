@@ -690,6 +690,8 @@ The website was tested on the following browsers:
 | Audio elements were overriding the fixed header when scrolling | Add z-index property both to audio elements and header, with an higher value for this last one |
 | Couldn't change effectively a pointer cursor into a help one on a link element of a class | Had to be very specific by selecting the direct child links of that specific class |
 | Accordion menu in "More about this" sections, both on Records and Cassettes pages, when opened moved upwards instead than downwards, changing the alignment of the records/cassettes covers | Set the property align-items to the value of flex-start in their parent element |
+| GET https://8000-gianlooca-alteramusica-z97y7bps54v.ws-eu107.gitpod.io/site.webmanifest 404 (Not Found) -
+site.webmanifest:1  Manifest: Line: 1, column: 1, Syntax error. | Adjust one of the "href" in the Favicon section *(thanks to Dajana Isbaner for helping me with this)* |
 
 ### Unfixed bugs
 
@@ -775,7 +777,10 @@ The icons in use have been taken from two different sources:
 
 I would like to thank:
 - my mentor Mo Shami for his feedback, advice and guidance;
-- Code Institute Slack Community for providing help, support, small talk and peer reviews;
+- Code Institute Slack Community for providing help, support, small talk and peer reviews, in particular:
+    1. Ilyascan Olgun for his practical and detailed help;
+    2. Dajana Isbaner for helping me with a console problem I mentioned above in the very last days before the deadline;
+    3. my peer Ayisha Sandiford for her practical advice and moral support;
 - the tutors of Code Institute for helping me when nothing seemed to make sense - in particular, thanks to [Rebecca](https://github.com/rebeccatraceyt), the most patient and eager to explain and teach tutor I've ever met since I'm here;
 - Student Care people for their capability of being sympathetic;
-- Covid that "helped" me in the last days of writing all of this, in order to make things spicier.
+- Covid virus that "helped" me in the last days of writing all of this, in order to make things spicier.
