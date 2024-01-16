@@ -92,7 +92,7 @@ main {
     flex: 1 0 auto;
     background-color: #1e1916;
     color: white;
-    width: 100vw;
+    width: 100%;
 }
 
 #container-1 {

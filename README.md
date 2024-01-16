@@ -240,7 +240,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 
 ### Logo and Navigation Bar
 - Featured on all four pages;
-- the navigation bar is fully responsive; the display of its elements changes on screens larger than 443 pixels and includes links to the [Records](#records) page, the [Cassettes](#cassettes) page, the [Wanna Sell?](#wanna-sell) page, as well as to the "About us" - which is a section of the landing page you can be redirected to - and, of course, to the [Homepage](#homepage), whose link is the central "Altera Musica" inscription itself. A part from the "Altera Musica" logo, all the other elements invert their color and background colors when hovered over, for visual impaired people;
+- the navigation bar is fully responsive; the display of its elements includes links to the [Records](#records) page, the [Cassettes](#cassettes) page, the [Wanna Sell?](#wanna-sell) page, as well as to the "About us" - which is a section of the landing page you'll be redirected to - and, of course, to the [Homepage](#homepage), whose link is the central "Altera Musica" inscription itself. A part from the "Altera Musica" logo, all the other elements invert their color and background colors when hovered over (in bigger screens);
 - it allows users to easily navigate the page, since it's fixed;
 - it shows an evocative background image of a horizontal stack of records;
 - it has a thin golden bottom border to visually separate it from the main content;
