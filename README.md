@@ -266,12 +266,15 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it's responsive according to the screen size with different features (position of the text, indentation of it compared to the heading and lines between the paragraphs); in screens larger than 1200 pixels, the heading gets white (and golden if hovered over - this will happen to all the `h2` on the website) and, mirrored to the text, an image of a Sundanese cassette appears, in order to underline even more the styles of music the website is about.
 
 **Smartphone Version**
+
 ![Introduction](docs/features/intro-smartphone.png)
 
 **Tablet Version**
+
 ![Introduction](docs/features/intro-tablet.png)
 
 **Desktop Version**
+
 ![Introduction](docs/features/intro-desktop.png)
 <br>
 <br>
@@ -281,9 +284,11 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - in small screens, the images are displayed in single-item column; in larger screens, they show up paired.
 
 **Smartphone Version**
+
 ![Gallery](docs/features/gallery-smartphone.png)
 
 #**Desktop Version**
+
 ![Gallery](docs/features/gallery-larger.png)
 <br>
 <br>
@@ -330,15 +335,18 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 **Smartphone Version**
+
 ![Records](docs/features/record-smartphone.png)
 
 **Tablet Version**
+
 ![Records](docs/features/record-tablet.png)
 
 **Desktop Version**
 ![Records](docs/features/records-desktop.png)
 
 **Footnote Reference About Records Grading**
+
 ![Records](docs/features/record-footnote.png)
 <br>
 <br>
@@ -364,9 +372,11 @@ This structure is identical in the [Records](#records) page. These informations 
 - finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
 
 **Smartphone Version**
+
 ![Cassettes](docs/features/cassette-smartphone.png)
 
 **Tablet Version**
+
 ![Cassettes](docs/features/cassette-tablet.png)
 
 **Desktop Version**
@@ -399,9 +409,11 @@ This structure is identical in the [Records](#records) page. These informations 
 - the look is identical to any other page of the site: the header with the navigation bar and the footer are there, so the user it's not "trapped" into the page; in any case, an image of a broken record and a funny/weird message are displayed. The user is hence invited to click in any part of the text to be redirected to the homepage, to make things easier.
 
 **Smartphone Version**
+
 ![404 Page](docs/features/404-smartphone.jpg)
 
 **Tablet Version**
+
 ![404 Page](docs/features/404-tablet.png)
 
 **Desktop Version**
