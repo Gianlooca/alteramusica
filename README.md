@@ -246,9 +246,11 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 - it has a thin golden bottom border to visually separate it from the main content;
 
 **Smartphone Version**
+
 ![Logo and navbar](docs/features/navbar-smart.png)
 
 **Desktop Version**
+
 ![Logo and navbar](docs/features/navbar-desktop-plain.png)
 
 **Desktop Hovered Version**
@@ -788,6 +790,7 @@ The icons in use have been taken from two different sources:
 - some good information (in italian) about the difference between inline and block elements on this page on [Extrowebsite](https://www.extrowebsite.com/blog/elementi-inline-block-cross-browser);
 - I have found relevant information about how to style an audio element on this page on [Stack Overflow](https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag);
 - I managed to give a fade-in effect to my "Gallery" on the Homepage thanks to [this tutorial](https://youtu.be/UmzFk68Bwdk?si=5iyu3ZW0WaS6wtNl) and [this MDN Web Docs page](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range); it was working but, as mentioned before, I had to erase it from my code because it was considered an error by the Validators, since (apparently) it's an experimental property. It could be probably used in normal projects, but not in this specific project where I need to have 0 errors in order not to fail;
+- during the peer review I've been suggested to make the "What is this?" sub-section in Records and Cassettes page a little more evident; I had an idea about make that div shiny, but no clue about how to do it. This article[unused-css](https://unused-css.com/blog/css-outer-glow/) gave me good suggestions;
 - 404 page was build using description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) and this other guide on [Mailchimp](https://mailchimp.com/it/resources/404-page/).
 <br>
 <br>
