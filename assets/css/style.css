@@ -97,7 +97,7 @@ main {
 
 #container-1 {
     display: flex;
-    margin: 4em 1em 1em 2.1em;
+    margin: 3em 1em 1em 2.1em;
     padding-left: 2vw;
     padding-bottom: 4vw;
     padding-right: 2vw;
@@ -747,7 +747,7 @@ footer ul li a:hover {
 
     #container-1 {
         width: 92%;
-        margin: 4em 1em 1em 2.1em;
+        margin: 0em 1em 1em 2.1em;
     }
 
     #content-1 {
@@ -991,6 +991,10 @@ footer ul li a:hover {
 @media screen and (min-width: 1200px) {
 
     /* index.html page */
+
+    #container-1 {
+        margin: 1em 1em 1em 2.1em;
+    }
 
     /* now the h2 is white; when hovered over, becomes gold */
     h2 {
