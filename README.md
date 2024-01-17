@@ -420,7 +420,7 @@ This structure is identical in the [Records](#records) page. These informations 
 
 **Smartphone Version**
 
-![404 Page](docs/features/404-smartphone.jpg)
+![404 Page](docs/features/404-smartphone.png)
 
 **Tablet Version**
 
