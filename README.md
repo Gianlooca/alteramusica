@@ -614,7 +614,7 @@ The website was tested on the following browsers:
 
 3. As a returning user, I want to find new items on the selling pages.
 
-*As mentioned in the introduction, since the website isn't fully functioning - because it refers to an unreal business - this user story can be tested only in hypothetical terms.*
+*As mentioned in the introduction, since the website isn't fully functioning - because it refers to an unreal business - this user story can be tested only in hypothetical terms. Since the process is identical in the Cassettes Page, in order to avoid redundance we'll show a screenshot only for the Records page.*
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -622,7 +622,6 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-seven.png">
-<img src="docs/user-story-testing/user-story-seven-bis.png">
 </details>
 <br>
 
