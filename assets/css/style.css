@@ -385,7 +385,7 @@ audio {
 #main-cassettes {
     display: flex;
     flex-flow: column;
-    width: 100vw;
+    width: 100%;
     height: auto;
     margin: 0 auto;
 }
