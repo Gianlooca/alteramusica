@@ -326,6 +326,7 @@ details summary,
 details p,
 details a {
     font-size: 18px;
+    cursor: pointer;
 }
 
 /* the z-index value is smaller than the one on the header so it doesn't override it */
