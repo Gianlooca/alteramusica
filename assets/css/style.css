@@ -432,7 +432,7 @@ audio {
 /* wanna sell page */
 
 #sell {
-    width: 100vw;
+    width: 100%;
     background-image: url("../images/form-background.webp");
     background-size: cover;
     background-position: center;
