@@ -714,7 +714,7 @@ The website was tested on the following browsers:
 
 ## Bugs
 
-*As a rookie developer i will just mention some of the bugs... For obvious reasons. I will also bring up a couple bugs that I couldn't fix (and I know the reason, for one of them at least).*
+*As a rookie developer I will just mention some of the bugs... For obvious reasons. I will also bring up a couple bugs that I couldn't fix (and I know the reason, for one of them at least).*
 
 ### Fixed bugs
 
