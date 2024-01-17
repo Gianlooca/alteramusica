@@ -464,8 +464,21 @@ All pages have been validated (both by URI and text input) with no errors and on
 
 [404 Page](http://jigsaw.w3.org/css-validator/validator?lang=it&profile=css3svg&uri=https%3A%2F%2Fgianlooca.github.io%2Falteramusica%2F404.html&usermedium=all&vextwarning=&warning=1)
 
-##### Warning
+**Warning**
+
 ![Css Warning](docs/validation/css-warning.png)
+<br>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. In a former version of the website, 6 contrast errors were showed. They were related to the textual Logo of the page (the only `h1` element present in every page), the four Navigation Bar element and the Copyright in the Footer. After having styled differently the Navigation Bar elements, ince I have purposely built the header background image with a dark triangled space where to place both the textual Logo and the Copyright, I thought that the contrast at least for these elements would have been enough for the visually impaired users (and according to the [Lighthouse Validation](#lighthouse-validation) there weren't problems), but the  WAVE WebAIM web accessibility evaluation tool had another opinion, as you can see in the image below:
+
+![WAVE validation tool before](docs/validation/wave-before.png)
+
+Hence, I had to style differently both the Logo and the Copyright, giving them (between other style features) at least a background with a certain level of opacity. The consequence of these adjustments is showed in the following screenshot:
+
+![WAVE validation tool after](docs/validation/wave-after.png)
+
+In any of the remaining pages are showed more errors. Alerts are showed but are relative only to the presence of fully justified texts or of images with "very long" alternative texts.
 <br>
 
 ### Lighthouse Validation
