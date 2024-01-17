@@ -493,6 +493,7 @@ Here we have the testing links for each page of the website:
 
 [404 Page](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/404.html)
 <br>
+<br>
 
 ### Lighthouse Validation
 Google Lighthouse in Microsoft Edge Developer Tools was used to test performance, accessibility, best practices and SEO (Search Engine Optimization) of the website.
