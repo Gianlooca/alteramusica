@@ -480,6 +480,18 @@ Hence, I had to style differently both the Logo and the Copyright, giving them (
 ![WAVE validation tool after](docs/validation/wave-after.png)
 
 In any of the remaining pages are showed more errors. Alerts are showed but are relative only to the presence of fully justified texts or of images with "very long" alternative texts.
+
+Here we have the testing links for each page of the website:
+
+[Homepage](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/)
+
+[Records](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/records.html)
+
+[Cassettes](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/cassettes.html)
+
+[Wanna Sell?](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/wanna-sell.html)
+
+[404 Page](https://wave.webaim.org/report#/https://gianlooca.github.io/alteramusica/404.html)
 <br>
 
 ### Lighthouse Validation
