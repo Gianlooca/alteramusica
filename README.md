@@ -501,7 +501,7 @@ Google Lighthouse in Microsoft Edge Developer Tools was used to test performance
 <img src="docs/validation/lighthouse-404.png">
 </details>
 
-- The main problem in the Records and Cassettes pages seems to be related to the performance and, as it will be seen on the following screenshot, in particular to the LCP;
+- The main problem in the Records and Cassettes pages seems to be related to the performance and, as it will be seen on the following screenshot taken in a different moment, in particular to the LCP;
 
 ![General Lighthouse Overview](docs/validation/lighthouse-general.png)
 
