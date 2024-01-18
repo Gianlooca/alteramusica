@@ -807,13 +807,13 @@ The icons in use have been taken from two different sources:
 ### Code
 
 - the HTML for the responsive navigation bar has been partially taken from [this tutorial](https://youtu.be/oLgtucwjVII?si=SLVGpA_jskqVxf2d) on YouTube;
-- still for the relationships between the elements of the navigation bar but in general to better understand the differences between child, sibling and descendant elements I found this nice article on [CSS-Trics](https://css-tricks.com/child-and-sibling-selectors/);
+- still for the relationships between the elements of the navigation bar but in general to better understand the differences between child, sibling and descendant elements I found this nice article on [CSS-Tricks](https://css-tricks.com/child-and-sibling-selectors/);
 - general suggestions about ways to make a div responsive found on this forum post on [Quora](https://www.quora.com/How-do-I-make-a-DIV-content-responsive);
 - a good page about background-size on [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size#cover);
 - the (now classic) general guide to flex-box property has been found on this interesting article on [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/);
 - [How to Vertically & Horizontally Center an Image in HTML & CSS](https://blog.hubspot.com/website/center-an-image-in-html#:~:text=To%20center%20an%20image%20horizontally%2C%20you%20can%20use%20the%20CSS,image%20in%20a%20block%20element.) and also from this article by [freeCodeCamp](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/);
 - one of the tutors suggested me this nice solution on [Maps.ie](https://www.maps.ie/create-google-map/) to embed a map in one of my webpages without the need of creating API keys;
-- the set of flex property with values of 1 0 auto in order to push down the footer at the bottom of the page has been taken by "Love Running" project by Code Institute;
+- the set of flex property with values of 1 0 auto in order to push down the footer at the bottom of the page has been taken by "Love Running" project by [Code Institute](https://codeinstitute.net/global/);
 - some good information (in italian) about the difference between inline and block elements on this page on [Extrowebsite](https://www.extrowebsite.com/blog/elementi-inline-block-cross-browser);
 - I have found relevant information about how to style an audio element on this page on [Stack Overflow](https://stackoverflow.com/questions/4126708/is-it-possible-to-style-html5-audio-tag);
 - I managed to give a fade-in effect to my "Gallery" on the Homepage thanks to [this tutorial](https://youtu.be/UmzFk68Bwdk?si=5iyu3ZW0WaS6wtNl) and [this MDN Web Docs page](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range); it was working but, as mentioned before, I had to erase it from my code because it was considered an error by the Validators, since (apparently) it's an experimental property. It could be probably used in normal projects, but not in this specific project where I need to have 0 errors in order not to fail;
