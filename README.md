@@ -320,7 +320,7 @@ The page consists of four pages (plus the 404.html page) and eleven general feat
 <br>
 
 ### Records Page
-- It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of vinyl records;
+- It has a golden heading (that becomes white in bigger screens and golden again if hovered over, as we said before) decorated on either side with two icons in the shape of vinyl records;
 - It contains the records currently for sale.
 - the page is responsive according to the dimensions of the screen is displayed on;
 - For each record, we have a structure formed as follows:
@@ -358,7 +358,7 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 <br>
 
 ### Cassettes Page
-- It has a white heading (that becomes golden in bigger screens, as we said before) decorated on either side with two icons in the shape of cassette tapes;
+- It has a golden heading (that becomes white in bigger screens and golden again if hovered over, as we said before) decorated on either side with two icons in the shape of cassette tapes;
 - It contains the cassettes currently for sale.
 - the page is responsive according to the dimensions of the screen is displayed on;
 - For each cassette, we have a structure formed as follows:
