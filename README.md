@@ -397,7 +397,7 @@ This structure is identical in the [Records](#records) page. These informations 
     1. a full functioning **"Wanna Sell?" form** (with required and non-required information) to fill in for users interested in selling; once filled in and clicked on the "Submit" button (which in this case has the inscription "Sell 'em all"), the user is sent to the well-known [Code Institute Form Dump](https://formdump.codeinstitute.net/) - since a "POST" method has been used;
     2. a **"Come and visit us!" frame** which informs the users that "owing to postal problems" the store can't satisfy online orders, hence the users are invited to come and visit the physical store, and all the contacts (email, telephone number and address) are provided;
     3. a **map**, at the bottom of the page, that shows the exact position of the store.
-- Both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance and, according to the site creator, may entice the user to fill in the form and contact the company;
+- The backgrounds of both the form and the informative frame have a certain level of opacity in order to show the background image of shelves full of records. The "Wanna Sell?" page is the only page on the website that differs from the others on this level. This is a source of discrepancy but gives the idea of abundance of records and, according to the site creator, may entice the user to fill in the form and contact the company;
 - the page is responsive and displays all its features differently depending on the screen dimensions.
 
 **Smaller Screens Version Top**
@@ -471,15 +471,15 @@ All pages have been validated (both by URI and text input) with no errors and on
 <br>
 
 ### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. In a former version of the website, 6 contrast errors were showed. They were related to the textual Logo of the page (the only `h1` element present in every page), the four Navigation Bar element and the Copyright in the Footer. After having styled differently the Navigation Bar elements, ince I have purposely built the header background image with a dark triangled space where to place both the textual Logo and the Copyright, I thought that the contrast at least for these elements would have been enough for the visually impaired users (and according to the [Lighthouse Validation](#lighthouse-validation) there weren't problems), but the  WAVE WebAIM web accessibility evaluation tool had another opinion, as you can see in the image below:
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. In a former version of the website, 6 contrast errors were showed. They were related to the textual Logo of the page (the only `h1` element present in every page), the four Navigation Bar elements and the Copyright in the Footer. After having styled differently the Navigation Bar elements, since I have purposely built the header background image with a dark triangled space where to place both the textual Logo and the Copyright, I thought that the contrast at least for these elements would have been enough for the visually impaired users (and according to the [Lighthouse Validation](#lighthouse-validation) there weren't problems), but the  WAVE WebAIM web accessibility evaluation tool had another opinion, as you can see in the image below:
 
 ![WAVE validation tool before](docs/validation/wave-before.png)
 
-Hence, I had to style differently both the Logo and the Copyright, giving them (between other style features) at least a background with a certain level of opacity. The consequence of these adjustments is showed in the following screenshot:
+So I had to style differently both the Logo and the Copyright, giving them (between other style features) at least a background with a certain level of opacity. The consequences of these adjustments are showed in the following screenshot:
 
 ![WAVE validation tool after](docs/validation/wave-after.png)
 
-In any of the remaining pages are showed more errors. Alerts are showed but are relative only to the presence of fully justified texts or of images with "very long" alternative texts.
+In any of the remaining pages are showed errors. Alerts are showed but they are relative only to the presence of fully justified texts or of images with "very long" alternative texts.
 
 Here we have the testing links for each page of the website:
 
