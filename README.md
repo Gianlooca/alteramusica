@@ -696,6 +696,8 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | The whole website | Just visit the whole webiste | Get passionate about having physical copies of analog format recordings | Works as expected (?) |
 
+*This is just a hope the site owner/developer can have. It's more like a wager.*
+
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-ten.png">
 </details>
