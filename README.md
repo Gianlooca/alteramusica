@@ -754,8 +754,8 @@ The website was tested on the following browsers:
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
 1. I went to the Settings tab of my GitHub repository (created before);
-2. On the left-hand sidebar, in the Code and automation section, I selected Pages;
-3. Made sure that "Source" was set to 'Deploy from Branch', that "Main" branch is selected and that "Folder" is set to / (root);
+2. on the left-hand sidebar, in the Code and automation section, I selected Pages;
+3. made sure that "Source" was set to 'Deploy from Branch', that "Main" branch is selected and that "Folder" is set to / (root);
 4. under "Branch", click "Save";
 5. then I went back to the Code tab, waited a few minutes for the build to finish and refresh my repository;
 6. on the right-hand side, in the "Environments" section, it has been possible to click on 'github-pages';
