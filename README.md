@@ -337,7 +337,7 @@ This structure is identical in the [Cassettes](#cassettes) page. These informati
 - to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
 - it has a **"More about this"** sub-section which is basically a dropdown menu containing additional information about the record in question and its band/artist;
 - it is possible to listen to a short extract (with no autoplay) from the record thanks to an **audio element**;
-- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
+- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article *(that actually redirects the user to the [Discogs](https://www.discogs.com/) homepage, since - again - Altera Musica is not a real e-commerce)*.
 
 **Smartphone Version**
 
@@ -375,7 +375,7 @@ This structure is identical in the [Records](#records) page. These informations 
 - to explain better the acronyms related to the support and cover conditions (that may be obscure to the majority of users) I highlighted them as a classic link (gold colour and underline): if the user click on them hover over them, the cursor will show a normal arrow *but* with a question mark on its side: by clicking, he/she will be sent to the bottom of the page, where a basic explanation can be found: at the end of it, an external link to an in-depth article about this grading scale will be found;
 - it has a **"More about this"** sub-section which is basically a dropdown menu containing additional information about the cassette in question and its band/artist;
 - it is possible to listen to a short extract (with no autoplay) from the cassette thanks to an **audio element**;
-- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article.
+- finally, there's a button with a eye-catching sentence in it to tap or click to buy the article *(that actually redirects the user to the [Discogs](https://www.discogs.com/) homepage, since - again - Altera Musica is not a real e-commerce)*.
 
 **Smartphone Version**
 
